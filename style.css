@@ -281,6 +281,11 @@ header h1 {
     margin-left: 0.5rem;
 }
 
+.copy-btn:hover {
+    background: #667eea !important;
+    color: white !important;
+}
+
 /* Mobile Responsive */
 @media (max-width: 768px) {
     header h1 {
