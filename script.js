@@ -270,8 +270,6 @@ document.addEventListener('DOMContentLoaded', () => {
         applyAllFilters();
     });
 
-    // Filter zurücksetzen
-    document.getElementById('clearFilters').addEventListener('click', clearAllFilters);
 
     // Modal schließen
     document.querySelector('.close').addEventListener('click', () => {
