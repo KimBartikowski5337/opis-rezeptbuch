@@ -6,11 +6,13 @@
       "category": "Suppe",
       "vegetarian": true,
       "carbohydrateSource": "Kartoffeln",
+      "days": 1,
+      "country": "Deutschland",
       "image": "images/tomatensuppe.png",
       "prepTime": "15 Min",
       "cookTime": "20 Min",
-      "ingredients": ["500g Tomaten", "200ml Gemüsebrühe"],
-      "instructions": "Zwiebeln anbraten...",
+      "ingredients": ["500g Tomaten", "200ml Gemüsebrühe", "1 Zwiebel", "2 Knoblauchzehen", "Salz und Pfeffer", "Basilikum"],
+      "instructions": "Zwiebeln anbraten, Tomaten hinzufügen, mit Brühe ablöschen und köcheln lassen. Pürieren und abschmecken.",
       "notes": ["Für extra Cremigkeit Sahne hinzufügen"]
     },
     {
@@ -19,12 +21,14 @@
       "category": "One Pot Gericht",
       "vegetarian": false,
       "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Italien",
       "image": "images/bolognese.png",
       "prepTime": "10 Min",
       "cookTime": "30 Min",
-      "ingredients": ["500g Hackfleisch", "400g Nudeln"],
-      "instructions": "Hackfleisch anbraten...",
-      "notes": ["Auch mit Truthahn möglich"]
+      "ingredients": ["500g Hackfleisch", "400g Nudeln", "400g Tomaten (Dose)", "1 Zwiebel", "2 Knoblauchzehen", "Oregano"],
+      "instructions": "Hackfleisch anbraten, Zwiebel und Knoblauch hinzufügen. Mit Tomaten ablöschen, Nudeln hinzufügen und garen.",
+      "notes": ["Auch mit Truthahn möglich", "Schmeckt am zweiten Tag noch besser"]
     }
   ]
 }

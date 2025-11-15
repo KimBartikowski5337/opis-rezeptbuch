@@ -4,7 +4,9 @@ let activeFilters = {
     search: '',
     type: 'all',
     category: 'all',
-    carbohydrate: 'all'
+    carbohydrate: 'all',
+    days: 'all',
+    country: 'all'
 };
 
 // Laden der Rezepte
@@ -17,6 +19,7 @@ async function loadRecipes() {
 
         populateCategoryFilter();
         populateCarbFilter();
+        populateCountryFilter();
         displayRecipes(filteredRecipes);
         updateFilterIndicator();
     } catch (error) {
@@ -55,6 +58,22 @@ function populateCarbFilter() {
     });
 }
 
+// Länder-Filter befüllen
+function populateCountryFilter() {
+    const countries = [...new Set(allRecipes
+        .filter(recipe => recipe.country)
+        .map(recipe => recipe.country))];
+
+    const countryFilter = document.getElementById('countryFilter');
+
+    countries.sort().forEach(country => {
+        const option = document.createElement('option');
+        option.value = country;
+        option.textContent = country;
+        countryFilter.appendChild(option);
+    });
+}
+
 // Alle Filter anwenden
 function applyAllFilters() {
     let filtered = [...allRecipes];
@@ -90,6 +109,20 @@ function applyAllFilters() {
         );
     }
 
+    // Tages-Filter
+    if (activeFilters.days !== 'all') {
+        filtered = filtered.filter(recipe =>
+            recipe.days === parseInt(activeFilters.days)
+        );
+    }
+
+    // Länder-Filter
+    if (activeFilters.country !== 'all') {
+        filtered = filtered.filter(recipe =>
+            recipe.country === activeFilters.country
+        );
+    }
+
     filteredRecipes = filtered;
     displayRecipes(filtered);
     updateFilterIndicator();
@@ -118,13 +151,18 @@ function clearAllFilters() {
     activeFilters = {
         search: '',
         type: 'all',
-        category: 'all'
+        category: 'all',
+        carbohydrate: 'all',
+        days: 'all',
+        country: 'all'
     };
 
     // UI zurücksetzen
     document.getElementById('searchInput').value = '';
     document.getElementById('categoryFilter').value = 'all';
-    document.getElementById('carbFilter').value = 'all'; // Neu hinzufügen
+    document.getElementById('carbFilter').value = 'all';
+    document.getElementById('daysFilter').value = 'all';
+    document.getElementById('countryFilter').value = 'all';
     document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.classList.remove('active');
         if (btn.dataset.filter === 'all') {
@@ -189,9 +227,21 @@ function openRecipeModal(recipeId) {
                 <span class="veggie-tag">
                     ${recipe.vegetarian ? '🌱 Vegetarisch' : '🥩 Mit Fleisch'}
                 </span>
-<span class="carbohydrate-tag"">
-            🌾 ${recipe.carbohydrateSource}
-        </span>
+                ${recipe.carbohydrateSource ? `
+                <span class="carbohydrate-tag">
+                    🌾 ${recipe.carbohydrateSource}
+                </span>
+                ` : ''}
+                ${recipe.days ? `
+                <span class="category-tag">
+                    📅 ${recipe.days}-Tages Gericht
+                </span>
+                ` : ''}
+                ${recipe.country ? `
+                <span class="category-tag">
+                    🌍 ${recipe.country}
+                </span>
+                ` : ''}
             </div>
         </div>
         <div class="modal-body">
@@ -270,6 +320,17 @@ document.addEventListener('DOMContentLoaded', () => {
         applyAllFilters();
     });
 
+    // Tages-Filter
+    document.getElementById('daysFilter').addEventListener('change', (e) => {
+        activeFilters.days = e.target.value;
+        applyAllFilters();
+    });
+
+    // Länder-Filter
+    document.getElementById('countryFilter').addEventListener('change', (e) => {
+        activeFilters.country = e.target.value;
+        applyAllFilters();
+    });
 
     // Modal schließen
     document.querySelector('.close').addEventListener('click', () => {
