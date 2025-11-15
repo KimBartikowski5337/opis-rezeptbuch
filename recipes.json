@@ -1,0 +1,28 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Cremige Tomatensuppe",
+      "category": "Suppe",
+      "vegetarian": true,
+      "image": "images/tomatensuppe.jpg",
+      "prepTime": "15 Min",
+      "cookTime": "20 Min",
+      "ingredients": ["500g Tomaten", "200ml Gemüsebrühe"],
+      "instructions": "Zwiebeln anbraten...",
+      "notes": ["Für extra Cremigkeit Sahne hinzufügen"]
+    },
+    {
+      "id": 2,
+      "name": "Bolognese One Pot",
+      "category": "One Pot Gericht",
+      "vegetarian": false,
+      "image": "images/bolognese.jpg",
+      "prepTime": "10 Min",
+      "cookTime": "30 Min",
+      "ingredients": ["500g Hackfleisch", "400g Nudeln"],
+      "instructions": "Hackfleisch anbraten...",
+      "notes": ["Auch mit Truthahn möglich"]
+    }
+  ]
+}

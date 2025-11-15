@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine Rezepte</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>🍽️ Meine Rezepte</h1>
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Rezept suchen...">
+    </div>
+</header>
+
+<nav class="filters">
+    <button class="filter-btn active" data-filter="all">Alle</button>
+    <button class="filter-btn" data-filter="vegetarian">Vegetarisch</button>
+    <div class="category-filters">
+        <select id="categoryFilter">
+            <option value="all">Alle Kategorien</option>
+        </select>
+    </div>
+</nav>
+
+<main>
+    <div id="recipeGrid" class="recipe-grid">
+        <!-- Rezepte werden hier dynamisch eingefügt -->
+    </div>
+
+    <div id="recipeModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modalBody">
+                <!-- Rezeptdetails werden hier eingefügt -->
+            </div>
+        </div>
+    </div>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
