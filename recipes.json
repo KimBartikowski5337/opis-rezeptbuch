@@ -44,6 +44,21 @@
       "ingredients": ["1kg Kartoffeln festkochend", "1 Paprikaschote rot", "1 Zwiebel", "150 Gramm Mais", "500g Hackfleisch","100g Streukäse", "100g Schmelzkäse", "1 Becher Sahne", "1 Becher Schmand"],
       "instructions": "Kartoffeln schälen, in Scheiben schneiden & 25 Minuten kochen, Hackfleisch anbraten, Zwiebeln zum Hackfleisch geben. In einer gefetteten Form die Hälfte der Kartoffeln geben. Darauf die Hackmasse und danach das Gemüse. Dann wieder Kartoffeln dazugeben. \nIn einem Topf Sahne, Creme fraiche oder Schmand und Schmelzkäse erhitzten. Mit den Gewürzen abschmecken und über den Auflauf gießen. Den geriebenen Käse über den Auflauf streuen. Form schließen und bei ca. 200 Grad ca. 45 Minuten backen. Die restlichen 15 Minuten die Form öffnen. ",
       "notes": ["Zwischen jeder Schicht den Auflauf salzen", "Kartoffeln vor dem Kochen in Scheiben schneiden verkürzt die Wartezeit, da die Kartoffeln sonst vor dem Scheiben schneiden abkühlen müssten"]
+    },
+    {
+      "id": 4,
+      "name": "Flammkuchen",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "carbohydrateSource": "Brot",
+      "days": 1,
+      "country": "Frankreich",
+      "image": "images/flammkuchen.png",
+      "prepTime": "20 Min",
+      "cookTime": "15 Min",
+      "ingredients": ["Cherrytomaten ", "1 rote Zwiebel","1 Paprika", "1 Flammkuchenteig XXL", "1 Patros Kräuter Feta", "1 Creme Fraiche Kräuter"],
+      "instructions": "Gemüse schneiden, Flammkuchen belegen, Flammkuchen im Ofen backen",
+      "notes": ["Creme Fraiche salzen und pfeffern", "Leicht variierbar (z.B. Kürbis-Flammkuchen im Herbst 🍂"]
     }
   ]
 }
