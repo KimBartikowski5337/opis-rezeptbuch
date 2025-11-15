@@ -29,6 +29,21 @@
       "ingredients": ["500g Hackfleisch", "400g Nudeln", "400g Tomaten (Dose)", "1 Zwiebel", "2 Knoblauchzehen", "Oregano"],
       "instructions": "Hackfleisch anbraten, Zwiebel und Knoblauch hinzufügen. Mit Tomaten ablöschen, Nudeln hinzufügen und garen.",
       "notes": ["Auch mit Truthahn möglich", "Schmeckt am zweiten Tag noch besser"]
+    },
+    {
+      "id": 3,
+      "name": "Kartoffelauflauf mit Mais und Paprika",
+      "category": "Auflauf",
+      "vegetarian": false,
+      "carbohydrateSource": "Kartoffeln",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/kartoffelauflaufMaisPaprika.png",
+      "prepTime": "45 Min",
+      "cookTime": "45 Min",
+      "ingredients": ["1kg Kartoffeln festkochend", "1 Paprikaschote rot", "1 Zwiebel", "150 Gramm Mais", "500g Hackfleisch","100g Streukäse", "100g Schmelzkäse", "1 Becher Sahne", "1 Becher Schmand"],
+      "instructions": "Kartoffeln schälen, in Scheiben schneiden & 25 Minuten kochen, Hackfleisch anbraten, Zwiebeln zum Hackfleisch geben. In einer gefetteten Form die Hälfte der Kartoffeln geben. Darauf die Hackmasse und danach das Gemüse. Dann wieder Kartoffeln dazugeben. \nIn einem Topf Sahne, Creme fraiche oder Schmand und Schmelzkäse erhitzten. Mit den Gewürzen abschmecken und über den Auflauf gießen. Den geriebenen Käse über den Auflauf streuen. Form schließen und bei ca. 200 Grad ca. 45 Minuten backen. Die restlichen 15 Minuten die Form öffnen. ",
+      "notes": ["Zwischen jeder Schicht den Auflauf salzen", "Kartoffeln vor dem Kochen in Scheiben schneiden verkürzt die Wartezeit, da die Kartoffeln sonst vor dem Scheiben schneiden abkühlen müssten"]
     }
   ]
 }
