@@ -63,11 +63,21 @@ header h1 {
     color: white;
 }
 
-#categoryFilter {
-    padding: 0.5rem;
+#categoryFilter,
+#carbFilter {
+    padding: 0.5rem 1rem;
     border: 2px solid #667eea;
-    border-radius: 5px;
+    border-radius: 20px;
     background: white;
+    color: #667eea;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+}
+
+#categoryFilter:hover,
+#carbFilter:hover {
+    background: #f0f0f0;
 }
 
 .recipe-grid {
@@ -284,6 +294,15 @@ header h1 {
 .copy-btn:hover {
     background: #667eea !important;
     color: white !important;
+}
+
+.carbohydrate-tag {
+    background: #fff3cd;
+    color: #856404;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: bold;
 }
 
 /* Mobile Responsive */

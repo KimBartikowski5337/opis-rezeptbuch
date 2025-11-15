@@ -10,7 +10,7 @@
 <header>
     <h1>🍽️ Meine Rezepte</h1>
     <div class="search-container">
-        <input type="text" id="searchInput" placeholder="Rezept suchen...">
+        <label for="searchInput"></label><input type="text" id="searchInput" placeholder="Rezept suchen...">
     </div>
 </header>
 
@@ -18,8 +18,11 @@
     <button class="filter-btn active" data-filter="all">Alle</button>
     <button class="filter-btn" data-filter="vegetarian">Vegetarisch</button>
     <div class="category-filters">
-        <select id="categoryFilter">
+        <label for="categoryFilter"></label><select id="categoryFilter">
             <option value="all">Alle Kategorien</option>
+        </select>
+        <label for="carbFilter"></label><select id="carbFilter">
+            <option value="all">Alle Kohlenhydrate</option>
         </select>
     </div>
 </nav>

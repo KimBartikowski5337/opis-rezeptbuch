@@ -2,8 +2,9 @@ let allRecipes = [];
 let filteredRecipes = [];
 let activeFilters = {
     search: '',
-    type: 'all', // all, vegetarian, meat
-    category: 'all'
+    type: 'all',
+    category: 'all',
+    carbohydrate: 'all'
 };
 
 // Laden der Rezepte
@@ -15,6 +16,7 @@ async function loadRecipes() {
         filteredRecipes = [...allRecipes];
 
         populateCategoryFilter();
+        populateCarbFilter();
         displayRecipes(filteredRecipes);
         updateFilterIndicator();
     } catch (error) {
@@ -34,6 +36,22 @@ function populateCategoryFilter() {
         option.value = category;
         option.textContent = category;
         categoryFilter.appendChild(option);
+    });
+}
+
+// Kohlenhydrat-Filter befüllen
+function populateCarbFilter() {
+    const carbs = [...new Set(allRecipes
+        .filter(recipe => recipe.carbohydrateSource)
+        .map(recipe => recipe.carbohydrateSource))];
+
+    const carbFilter = document.getElementById('carbFilter');
+
+    carbs.sort().forEach(carb => {
+        const option = document.createElement('option');
+        option.value = carb;
+        option.textContent = carb;
+        carbFilter.appendChild(option);
     });
 }
 
@@ -63,6 +81,13 @@ function applyAllFilters() {
     // Kategorien-Filter
     if (activeFilters.category !== 'all') {
         filtered = filtered.filter(recipe => recipe.category === activeFilters.category);
+    }
+
+    // Kohlenhydrat-Filter
+    if (activeFilters.carbohydrate !== 'all') {
+        filtered = filtered.filter(recipe =>
+            recipe.carbohydrateSource === activeFilters.carbohydrate
+        );
     }
 
     filteredRecipes = filtered;
@@ -99,6 +124,7 @@ function clearAllFilters() {
     // UI zurücksetzen
     document.getElementById('searchInput').value = '';
     document.getElementById('categoryFilter').value = 'all';
+    document.getElementById('carbFilter').value = 'all'; // Neu hinzufügen
     document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.classList.remove('active');
         if (btn.dataset.filter === 'all') {
@@ -142,6 +168,7 @@ function displayRecipes(recipes) {
                 </div>
                 <p>${recipe.ingredients.length} Zutaten 
                    ${recipe.prepTime ? `• ${recipe.prepTime}` : ''}
+                   ${recipe.carbohydrateSource ? `• ${recipe.carbohydrateSource}` : ''}
                 </p>
             </div>
         </div>
@@ -162,6 +189,9 @@ function openRecipeModal(recipeId) {
                 <span class="veggie-tag">
                     ${recipe.vegetarian ? '🌱 Vegetarisch' : '🥩 Mit Fleisch'}
                 </span>
+<span class="carbohydrate-tag"">
+            🌾 ${recipe.carbohydrateSource}
+        </span>
             </div>
         </div>
         <div class="modal-body">
@@ -231,6 +261,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // Kategorien-Filter
     document.getElementById('categoryFilter').addEventListener('change', (e) => {
         activeFilters.category = e.target.value;
+        applyAllFilters();
+    });
+
+    // Kohlenhydrat-Filter
+    document.getElementById('carbFilter').addEventListener('change', (e) => {
+        activeFilters.carbohydrate = e.target.value;
         applyAllFilters();
     });
 
