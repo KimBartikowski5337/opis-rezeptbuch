@@ -6,7 +6,8 @@ let activeFilters = {
     category: 'all',
     carbohydrate: 'all',
     days: 'all',
-    country: 'all'
+    country: 'all',
+    quick: false
 };
 
 // Laden der Rezepte
@@ -74,6 +75,30 @@ function populateCountryFilter() {
     });
 }
 
+// Hilfsfunktion: Gesamtzeit aus prepTime und cookTime berechnen (in Minuten)
+function getTotalTime(recipe) {
+    let totalMinutes = 0;
+
+    if (recipe.prepTime) {
+        const prepMatch = recipe.prepTime.match(/(\d+)/);
+        if (prepMatch) {
+            totalMinutes += parseInt(prepMatch[1]);
+            console.log(`${recipe.name} - prepTime: ${recipe.prepTime} -> ${prepMatch[1]} Min`);
+        }
+    }
+
+    if (recipe.cookTime) {
+        const cookMatch = recipe.cookTime.match(/(\d+)/);
+        if (cookMatch) {
+            totalMinutes += parseInt(cookMatch[1]);
+            console.log(`${recipe.name} - cookTime: ${recipe.cookTime} -> ${cookMatch[1]} Min`);
+        }
+    }
+
+    console.log(`${recipe.name} - Gesamtzeit: ${totalMinutes} Min`);
+    return totalMinutes;
+}
+
 // Alle Filter anwenden
 function applyAllFilters() {
     let filtered = [...allRecipes];
@@ -123,6 +148,14 @@ function applyAllFilters() {
         );
     }
 
+    // Schnell-Filter (max. 45 Min Gesamtzeit)
+    if (activeFilters.quick) {
+        filtered = filtered.filter(recipe => {
+            const totalTime = getTotalTime(recipe);
+            return totalTime > 0 && totalTime <= 45;
+        });
+    }
+
     filteredRecipes = filtered;
     displayRecipes(filtered);
     updateFilterIndicator();
@@ -154,7 +187,8 @@ function clearAllFilters() {
         category: 'all',
         carbohydrate: 'all',
         days: 'all',
-        country: 'all'
+        country: 'all',
+        quick: false
     };
 
     // UI zurücksetzen
@@ -301,9 +335,26 @@ document.addEventListener('DOMContentLoaded', () => {
     // Filter-Buttons
     document.querySelectorAll('.filter-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-            e.target.classList.add('active');
-            activeFilters.type = e.target.dataset.filter;
+            const filter = e.target.dataset.filter;
+
+            // Wenn "quick" geklickt wird
+            if (filter === 'quick') {
+                // Toggle quick filter
+                activeFilters.quick = !activeFilters.quick;
+                e.target.classList.toggle('active');
+            } else {
+                // Normale Filter-Logik für all/vegetarian
+                document.querySelectorAll('.filter-btn').forEach(b => {
+                    if (b.dataset.filter !== 'quick') {
+                        b.classList.remove('active');
+                    }
+                });
+                e.target.classList.add('active');
+                activeFilters.type = filter;
+
+                // Quick-Filter bleibt erhalten, wird nicht deaktiviert
+            }
+
             applyAllFilters();
         });
     });
