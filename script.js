@@ -1,34 +1,31 @@
+// Lade Rezepte aus JSON
 let allRecipes = [];
-let filteredRecipes = [];
-let activeFilters = {
-    search: '',
-    type: 'all', // all, vegetarian, meat
-    category: 'all'
-};
 
-// Laden der Rezepte
+// DOM Elemente
+const recipeGrid = document.getElementById('recipeGrid');
+const modal = document.getElementById('recipeModal');
+const modalBody = document.getElementById('modalBody');
+const closeBtn = document.querySelector('.close');
+const searchInput = document.getElementById('searchInput');
+const filterBtns = document.querySelectorAll('.filter-btn');
+const categoryFilter = document.getElementById('categoryFilter');
+
+// Rezepte laden
 async function loadRecipes() {
     try {
         const response = await fetch('recipes.json');
-        const data = await response.json();
-        allRecipes = data.recipes;
-        filteredRecipes = [...allRecipes];
-
+        allRecipes = await response.json();
         populateCategoryFilter();
-        displayRecipes(filteredRecipes);
-        updateFilterIndicator();
+        displayRecipes(allRecipes);
     } catch (error) {
         console.error('Fehler beim Laden der Rezepte:', error);
-        document.getElementById('recipeGrid').innerHTML =
-            '<p>Fehler beim Laden der Rezepte.</p>';
+        recipeGrid.innerHTML = '<p>Fehler beim Laden der Rezepte.</p>';
     }
 }
 
-// Kategorien-Filter befüllen
+// Kategorien in Filter einfügen
 function populateCategoryFilter() {
     const categories = [...new Set(allRecipes.map(recipe => recipe.category))];
-    const categoryFilter = document.getElementById('categoryFilter');
-
     categories.forEach(category => {
         const option = document.createElement('option');
         option.value = category;
@@ -37,209 +34,116 @@ function populateCategoryFilter() {
     });
 }
 
-// Alle Filter anwenden
-function applyAllFilters() {
-    let filtered = [...allRecipes];
-
-    // Suchfilter
-    if (activeFilters.search) {
-        const searchTerm = activeFilters.search.toLowerCase();
-        filtered = filtered.filter(recipe =>
-            recipe.name.toLowerCase().includes(searchTerm) ||
-            recipe.ingredients.some(ingredient =>
-                ingredient.toLowerCase().includes(searchTerm)
-            ) ||
-            recipe.category.toLowerCase().includes(searchTerm)
-        );
-    }
-
-    // Vegetarisch/Fleisch Filter
-    if (activeFilters.type === 'vegetarian') {
-        filtered = filtered.filter(recipe => recipe.vegetarian === true);
-    } else if (activeFilters.type === 'meat') {
-        filtered = filtered.filter(recipe => recipe.vegetarian === false);
-    }
-
-    // Kategorien-Filter
-    if (activeFilters.category !== 'all') {
-        filtered = filtered.filter(recipe => recipe.category === activeFilters.category);
-    }
-
-    filteredRecipes = filtered;
-    displayRecipes(filtered);
-    updateFilterIndicator();
-}
-
-// Filter-Anzeige aktualisieren
-function updateFilterIndicator() {
-    const totalRecipes = allRecipes.length;
-    const visibleRecipes = filteredRecipes.length;
-
-    // Entferne alte Indikatoren
-    const oldIndicator = document.querySelector('.filter-indicator');
-    if (oldIndicator) oldIndicator.remove();
-
-    // Nur anzeigen wenn gefiltert wird
-    if (visibleRecipes !== totalRecipes) {
-        const indicator = document.createElement('span');
-        indicator.className = 'filter-indicator';
-        indicator.textContent = `${visibleRecipes} von ${totalRecipes}`;
-        document.querySelector('.filters').appendChild(indicator);
-    }
-}
-
-// Alle Filter zurücksetzen
-function clearAllFilters() {
-    activeFilters = {
-        search: '',
-        type: 'all',
-        category: 'all'
-    };
-
-    // UI zurücksetzen
-    document.getElementById('searchInput').value = '';
-    document.getElementById('categoryFilter').value = 'all';
-    document.querySelectorAll('.filter-btn').forEach(btn => {
-        btn.classList.remove('active');
-        if (btn.dataset.filter === 'all') {
-            btn.classList.add('active');
-        }
-    });
-
-    applyAllFilters();
-}
-
 // Rezepte anzeigen
 function displayRecipes(recipes) {
-    const grid = document.getElementById('recipeGrid');
+    recipeGrid.innerHTML = '';
 
     if (recipes.length === 0) {
-        grid.innerHTML = `
-            <div style="grid-column: 1 / -1; text-align: center; padding: 2rem;">
-                <p style="font-size: 1.2rem; color: #666;">
-                    🍳 Keine Rezepte gefunden.<br>
-                    <small>Versuche andere Suchbegriffe oder setze die Filter zurück.</small>
-                </p>
-            </div>
-        `;
+        recipeGrid.innerHTML = '<p>Keine Rezepte gefunden.</p>';
         return;
     }
 
-    grid.innerHTML = recipes.map(recipe => `
-        <div class="recipe-card" onclick="openRecipeModal(${recipe.id})">
-            <div class="recipe-image">
-                ${recipe.image ?
-        `<img src="${recipe.image}" alt="${recipe.name}">` :
-        '📷 Kein Bild'}
-            </div>
-            <div class="recipe-content">
-                <div class="recipe-title">${recipe.name}</div>
-                <div class="recipe-meta">
-                    <span class="category-tag">${recipe.category}</span>
-                    <span class="veggie-tag">
-                        ${recipe.vegetarian ? '🌱 Vegetarisch' : '🥩 Mit Fleisch'}
-                    </span>
-                </div>
-                <p>${recipe.ingredients.length} Zutaten 
-                   ${recipe.prepTime ? `• ${recipe.prepTime}` : ''}
-                </p>
-            </div>
-        </div>
-    `).join('');
+    recipes.forEach(recipe => {
+        const card = createRecipeCard(recipe);
+        recipeGrid.appendChild(card);
+    });
 }
 
-// Rezept-Modal öffnen
-function openRecipeModal(recipeId) {
-    const recipe = allRecipes.find(r => r.id === recipeId);
-    if (!recipe) return;
+// Rezept-Karte erstellen
+function createRecipeCard(recipe) {
+    const card = document.createElement('div');
+    card.className = 'recipe-card';
+    card.onclick = () => showRecipeDetails(recipe);
 
-    const modalBody = document.getElementById('modalBody');
-    modalBody.innerHTML = `
-        <div class="modal-header">
-            <h2>${recipe.name}</h2>
-            <div class="recipe-meta">
-                <span class="category-tag">${recipe.category}</span>
-                <span class="veggie-tag">
-                    ${recipe.vegetarian ? '🌱 Vegetarisch' : '🥩 Mit Fleisch'}
-                </span>
-            </div>
-        </div>
-        <div class="modal-body">
-            ${recipe.image ? `<img src="${recipe.image}" alt="${recipe.name}" class="modal-image">` : ''}
-            
-            ${recipe.youtube ? `<a href="${recipe.youtube}" target="_blank" class="youtube-link">📺 YouTube Video ansehen</a>` : ''}
-            
-            <div class="ingredients-list">
-                <h3>🥘 Zutaten:</h3>
-                <ul>
-                    ${recipe.ingredients.map(ingredient => `<li>${ingredient}</li>`).join('')}
-                </ul>
-            </div>
-            
-            <div>
-                <h3>👩‍🍳 Zubereitung:</h3>
-                <p style="white-space: pre-line;">${recipe.instructions}</p>
-            </div>
-            
-            ${recipe.notes && recipe.notes.length > 0 ? `
-                <div class="notes">
-                    <h3>💡 Tipps & Hinweise:</h3>
-                    <ul>
-                        ${recipe.notes.map(note => `<li>${note}</li>`).join('')}
-                    </ul>
-                </div>
-            ` : ''}
-            
-            ${recipe.prepTime || recipe.cookTime ? `
-                <div style="margin-top: 1rem; padding: 1rem; background: #f8f9fa; border-radius: 5px;">
-                    ⏰ <strong>Zeiten:</strong><br>
-                    ${recipe.prepTime ? `Vorbereitung: ${recipe.prepTime}<br>` : ''}
-                    ${recipe.cookTime ? `Kochzeit: ${recipe.cookTime}` : ''}
-                </div>
-            ` : ''}
+    card.innerHTML = `
+        <img src="${recipe.image}" alt="${recipe.name}">
+        <div class="recipe-info">
+            <h3>${recipe.name}</h3>
+            <p class="category">${recipe.category}</p>
+            <p class="prep-time">⏱️ ${recipe.prepTime}</p>
+            ${recipe.vegetarian ? '<span class="badge">🌱 Vegetarisch</span>' : ''}
         </div>
     `;
 
-    document.getElementById('recipeModal').style.display = 'block';
+    return card;
 }
 
-// Event Listeners
-document.addEventListener('DOMContentLoaded', () => {
-    loadRecipes();
+// Rezeptdetails im Modal anzeigen
+function showRecipeDetails(recipe) {
+    modalBody.innerHTML = `
+        <h2>${recipe.name}</h2>
+        <img src="${recipe.image}" alt="${recipe.name}" style="width: 100%; max-width: 500px; border-radius: 8px; margin: 20px 0;">
+        <p><strong>Kategorie:</strong> ${recipe.category}</p>
+        <p><strong>Zubereitungszeit:</strong> ${recipe.prepTime}</p>
+        ${recipe.vegetarian ? '<p><span class="badge">🌱 Vegetarisch</span></p>' : ''}
+        
+        <h3>Zutaten:</h3>
+        <ul>
+            ${recipe.ingredients.map(ing => `<li>${ing}</li>`).join('')}
+        </ul>
+        
+        <h3>Zubereitung:</h3>
+        <ol>
+            ${recipe.instructions.map(step => `<li>${step}</li>`).join('')}
+        </ol>
+    `;
 
-    // Suchfunktion
-    document.getElementById('searchInput').addEventListener('input', (e) => {
-        activeFilters.search = e.target.value;
-        applyAllFilters();
-    });
+    modal.style.display = 'block';
+}
 
-    // Filter-Buttons
-    document.querySelectorAll('.filter-btn').forEach(btn => {
-        btn.addEventListener('click', (e) => {
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-            e.target.classList.add('active');
-            activeFilters.type = e.target.dataset.filter;
-            applyAllFilters();
-        });
-    });
+// Modal schließen - X Button
+closeBtn.addEventListener('click', () => {
+    modal.style.display = 'none';
+});
 
-    // Kategorien-Filter
-    document.getElementById('categoryFilter').addEventListener('change', (e) => {
-        activeFilters.category = e.target.value;
-        applyAllFilters();
-    });
+// Modal schließen - Klick außerhalb
+window.addEventListener('click', (event) => {
+    if (event.target === modal) {
+        modal.style.display = 'none';
+    }
+});
 
-    // Filter zurücksetzen
-    document.getElementById('clearFilters').addEventListener('click', clearAllFilters);
+// Modal schließen - ESC Taste
+document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && modal.style.display === 'block') {
+        modal.style.display = 'none';
+    }
+});
 
-    // Modal schließen
-    document.querySelector('.close').addEventListener('click', () => {
-        document.getElementById('recipeModal').style.display = 'none';
-    });
+// Suche
+searchInput.addEventListener('input', (e) => {
+    const searchTerm = e.target.value.toLowerCase();
+    const filtered = allRecipes.filter(recipe =>
+        recipe.name.toLowerCase().includes(searchTerm) ||
+        recipe.category.toLowerCase().includes(searchTerm) ||
+        recipe.ingredients.some(ing => ing.toLowerCase().includes(searchTerm))
+    );
+    displayRecipes(filtered);
+});
 
-    window.addEventListener('click', (e) => {
-        if (e.target === document.getElementById('recipeModal')) {
-            document.getElementById('recipeModal').style.display = 'none';
+// Filter Buttons
+filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+        filterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        const filter = btn.dataset.filter;
+        let filtered = allRecipes;
+
+        if (filter === 'vegetarian') {
+            filtered = allRecipes.filter(recipe => recipe.vegetarian);
         }
+
+        displayRecipes(filtered);
     });
 });
+
+// Kategorie Filter
+categoryFilter.addEventListener('change', (e) => {
+    const category = e.target.value;
+    const filtered = category === 'all'
+        ? allRecipes
+        : allRecipes.filter(recipe => recipe.category === category);
+    displayRecipes(filtered);
+});
+
