@@ -2,33 +2,33 @@
   "recipes": [
     {
       "id": 1,
-      "name": "Cremige Tomatensuppe",
-      "category": "Suppe",
-      "vegetarian": true,
+      "name": "Gnocci Pfanne",
+      "category": "One Pot Gericht",
+      "vegetarian": false,
       "carbohydrateSource": "Kartoffeln",
-      "days": 1,
-      "country": "Deutschland",
-      "image": "images/tomatensuppe.png",
+      "days": 2,
+      "country": "Italien",
+      "image": "images/gnocciPfanne.png",
       "prepTime": "15 Min",
       "cookTime": "20 Min",
-      "ingredients": ["500g Tomaten", "200ml Gemüsebrühe", "1 Zwiebel", "2 Knoblauchzehen", "Salz und Pfeffer", "Basilikum"],
-      "instructions": "Zwiebeln anbraten, Tomaten hinzufügen, mit Brühe ablöschen und köcheln lassen. Pürieren und abschmecken.",
-      "notes": ["Für extra Cremigkeit Sahne hinzufügen"]
+      "ingredients": ["2 Paprikas", "1 Zwiebel ","1kg Gnoccis", "600g Hähnchenbrustfilet", "500g TK Brokkoli"],
+      "instructions": "Hähnchen schneiden und anbraten, Zwiebeln dazugeben und mit etwas Salz, Pfeffer und Knoblauchpulver abschmecken. Anschließend Hähnchen aus der Pfanne nehmen. Gnoccis anbraten mit einem guten Schuss Öl. TK Brokkoli 8 Minuten in den Airfryer geben mit einem guten Schuss Sojasoße. Paprika schneiden und zu den Gnoccis geben, genauso wie den Brokkoli sobald alles Farbe bekommen hat. Anschließend Hähnchen und Zwiebeln wieder dazugeben und alles mit Öl und Sojasoße abschmecken.",
+      "notes": ["Gnoccis goldbraun backen, hierzu ist eine gute Menge Öl nötig."]
     },
     {
       "id": 2,
-      "name": "Bolognese One Pot",
-      "category": "One Pot Gericht",
+      "name": "Spaghetti Bolognese",
+      "category": "Sonstiges",
       "vegetarian": false,
       "carbohydrateSource": "Nudeln",
       "days": 2,
       "country": "Italien",
       "image": "images/bolognese.png",
-      "prepTime": "10 Min",
-      "cookTime": "30 Min",
-      "ingredients": ["500g Hackfleisch", "400g Nudeln", "400g Tomaten (Dose)", "1 Zwiebel", "2 Knoblauchzehen", "Oregano"],
-      "instructions": "Hackfleisch anbraten, Zwiebel und Knoblauch hinzufügen. Mit Tomaten ablöschen, Nudeln hinzufügen und garen.",
-      "notes": ["Auch mit Truthahn möglich", "Schmeckt am zweiten Tag noch besser"]
+      "prepTime": "20 Min",
+      "cookTime": "45 Min",
+      "ingredients": ["1 Zwiebel", "2 Karotten", "1 Stange Staudensellerie","500g Rinderhack", "1 Parmesan", "500g Spaghetti", "1 Dose gehackte Tomaten", "100 ml Rotwein"],
+      "instructions": "Hackfleisch im Topf anbraten bis es Röstaromen hat, Zwiebel und etwas Tomatenmark hinzufügen und mit Rotwein ablöschen und die Röstaromen vom Topfboden lösen. Anschließend das restliche Gemüse hinzugeben und anbraten. Die Masse mit Salz, Pfeffer und Paprika edelsüß abschmecken. Dann mit den gehackten Tomaten und einem guten Schluck Olivenöl auffüllen und die Bolognese 30 Minuten köcheln lassen und zum Ende die Spaghetti kochen. Vor dem Servieren einen kleinen Schuss Milch oder Sahne an die Soße für etwas mehr Cremigkeit geben. ",
+      "notes": ["Im Topf anbraten, um Röstaromen beim Anbraten des Hacks zu bekommen.", "Parmesan nicht vergessen ;)", "Rucola passt auch gut dazu", "Schmeckt am zweiten Tag noch besser"]
     },
     {
       "id": 3,
@@ -59,6 +59,36 @@
       "ingredients": ["Cherrytomaten ", "1 rote Zwiebel","1 Paprika", "1 Flammkuchenteig XXL", "1 Patros Kräuter Feta", "1 Creme Fraiche Kräuter"],
       "instructions": "Gemüse schneiden, Flammkuchen belegen, Flammkuchen im Ofen backen",
       "notes": ["Creme Fraiche salzen und pfeffern", "Leicht variierbar (z.B. Kürbis-Flammkuchen im Herbst 🍂"]
+    },
+    {
+      "id": 5,
+      "name": "Stanni",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Deutsch",
+      "image": "images/stanni.png",
+      "prepTime": "20 Min",
+      "cookTime": "25 Min",
+      "ingredients": ["Cherrytomaten ", "1 Zwiebel","2 Paprika", "1 Zuccini", "500g Rinderhack", "500g Fussili", "2 Creme Fraiche Kräuter"],
+      "instructions": "Hack anbraten, Zwiebel dazugeben und mit Salz, Pfeffer und Knoblauchpulver abschmecken. Gemüse schneiden und mit anbraten, außer die Tomaten! Parallel die Nudeln kochen. Sobald die Pfanne Farbe hat, kann die Creme Fraiche dazugegeben werden und kurz vor dem Servieren die Cherry Tomaten.",
+      "notes": ["Ein Drosselkamp-Klassiker 👨‍🍳"]
+    },
+    {
+      "id": 6,
+      "name": "Gallo Pinto",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "Costa Rica",
+      "image": "images/galloPinto.JPG",
+      "prepTime": "20 Min",
+      "cookTime": "25 Min",
+      "ingredients": ["Toastbrot ","2 reife Kochbananen ", "1 Dose schwarze Bohnen (Lateinamerikanischer Suoermarkt)","1 Packung Frijoles Refritos (Lateinamerikanischer Supermarkt)", "4 Eier", "300g Reis"],
+      "instructions": "Reis kochen. Die schwarzen Bohnen beinahe vollständig abgießen, mit etwas Restflüssigkeit in einen Topf zum Erwärmen geben. Kochbanane in Scheiben schneiden und in reichlich Öl auf leichter bis mittlerer Hitze goldbraun ausbacken. Frijoles Refritos in der Mikrowelle in einer Schüssel lauwarm erhitzen. Spiegeleier braten und alles zusammen auf einem Teller servieren. Wer es traditionell möchte, gibt etwas Salsa Lizano zu seinem Essen.",
+      "notes": ["Kochbananen gibt es im Asia-Markt in Elmshorn.", "Schwarze Bohnen und Frijoles Refritos gibt es im lateinamerianischen Supermarkt in Wandsbek", "DAS Costa Ricanische Nationalgericht 🇨🇷"]
     }
   ]
 }
