@@ -7,7 +7,8 @@ let activeFilters = {
     carbohydrate: 'all',
     days: 'all',
     country: 'all',
-    quick: false
+    quick: false,
+    groupFriendly: false
 };
 
 // Laden der Rezepte
@@ -156,6 +157,11 @@ function applyAllFilters() {
         });
     }
 
+    // Gruppenfreundlich-Filter
+    if (activeFilters.groupFriendly) {
+        filtered = filtered.filter(recipe => recipe.groupFriendly === true);
+    }
+
     filteredRecipes = filtered;
     displayRecipes(filtered);
     updateFilterIndicator();
@@ -188,7 +194,8 @@ function clearAllFilters() {
         carbohydrate: 'all',
         days: 'all',
         country: 'all',
-        quick: false
+        quick: false,
+        groupFriendly: false
     };
 
     // UI zurücksetzen
@@ -261,6 +268,7 @@ function openRecipeModal(recipeId) {
                 <span class="veggie-tag">
                     ${recipe.vegetarian ? '🌱 Vegetarisch' : '🥩 Mit Fleisch'}
                 </span>
+                ${recipe.groupFriendly ? '<span class="group-tag">👥 Gruppenfreundlich</span>' : ''}
                 ${recipe.carbohydrateSource ? `
                 <span class="carbohydrate-tag">
                     🌾 ${recipe.carbohydrateSource}
@@ -337,22 +345,26 @@ document.addEventListener('DOMContentLoaded', () => {
         btn.addEventListener('click', (e) => {
             const filter = e.target.dataset.filter;
 
-            // Wenn "quick" geklickt wird
+            // Wenn "quick" oder "groupFriendly" geklickt wird
             if (filter === 'quick') {
                 // Toggle quick filter
                 activeFilters.quick = !activeFilters.quick;
                 e.target.classList.toggle('active');
+            } else if (filter === 'groupFriendly') {
+                // Toggle groupFriendly filter
+                activeFilters.groupFriendly = !activeFilters.groupFriendly;
+                e.target.classList.toggle('active');
             } else {
                 // Normale Filter-Logik für all/vegetarian
                 document.querySelectorAll('.filter-btn').forEach(b => {
-                    if (b.dataset.filter !== 'quick') {
+                    if (b.dataset.filter !== 'quick' && b.dataset.filter !== 'groupFriendly') {
                         b.classList.remove('active');
                     }
                 });
                 e.target.classList.add('active');
                 activeFilters.type = filter;
 
-                // Quick-Filter bleibt erhalten, wird nicht deaktiviert
+                // Quick-Filter und groupFriendly-Filter bleiben erhalten
             }
 
             applyAllFilters();

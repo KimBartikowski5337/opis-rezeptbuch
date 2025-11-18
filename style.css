@@ -142,7 +142,8 @@ header h1 {
 }
 
 .category-tag,
-.veggie-tag {
+.veggie-tag,
+.group-tag {
     padding: 0.2rem 0.5rem;
     border-radius: 12px;
     font-size: 0.8rem;
@@ -157,6 +158,11 @@ header h1 {
 .veggie-tag {
     background: #e8f5e8;
     color: #2e7d32;
+}
+
+.group-tag {
+    background: #fff3e0;
+    color: #e65100;
 }
 
 .modal {
