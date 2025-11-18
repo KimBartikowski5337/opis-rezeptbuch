@@ -179,6 +179,36 @@
       "ingredients": ["1 große Zwiebel","2 große Karotten", "7 m. große Champignons", "1 Pck. Streukäse", "100g Kräuterfrischkäse","5 EL Milch", "500g passierte Tomaten", "150ml Sahne", "Lasagneplatten", "600g TK Rahmspinat"],
       "instructions": "Schneide Karotten, Champignons und Zwiebel klein, brate Zwiebel an, dann restliches Gemüse kurz mit. Gib Milch dazu und erhitze Rahmspinat, bis er aufgetaut und die Soße leicht dick ist. Verrühre Frischkäse und Gemüsebrühpulver, lasse köcheln, würze mit Knoblauch, Salz, Pfeffer und Chili. Erhitze Butter, verrühre mit Mehl zu glatter Masse. Gib passierte Tomaten und Sahne dazu, koche auf, würze mit Knoblauch, Salz und Pfeffer. Bedecke Boden der Auflaufform mit Tomatensoße und Spinat, schichte Lasagneplatten, Spinat und Tomatensoße abwechselnd. Schließe mit Soße ab, bestreue mit Käse. Backe bei 180 °C Umluft ca. 30 Minuten, lasse danach im ausgeschalteten Ofen ruhen.",
       "notes": ["Barilla Lasangeplatten sind die besten!"]
+    },
+    {
+      "id": 13,
+      "name": "Grillen",
+      "category": "Grillen",
+      "vegetarian": true,
+      "carbohydrateSource": "Brot",
+      "days": 1,
+      "country": "Deutschland",
+      "image": "images/grillen.png",
+      "prepTime": "0",
+      "cookTime": "20",
+      "ingredients": ["Grillgut", "Rougette Grillkäse Kräuter rund"],
+      "instructions": "",
+      "notes": ["Es gibt kein schlechtes Wetter zum Grillen! ;)"]
+    },
+    {
+      "id": 14,
+      "name": "Spinatknödel",
+      "category": "Grillen",
+      "vegetarian": true,
+      "carbohydrateSource": "Brot",
+      "days": 1,
+      "country": "Österreich",
+      "image": "images/spinatknoedel.png",
+      "prepTime": "30",
+      "cookTime": "30",
+      "ingredients": ["1 Zwiebel", "4 Brötchen vom Vortag", "2 Eier", "Parmesan", "Butter", "Paniermehl", "500g TK Blattspinat"],
+      "instructions": "TK-Blattspinat auftauen, ausdrücken, fein schneiden. Brötchen (4 altbackene) würfeln und in eine Schüssel geben. Zwiebel würfeln und in Butter glasig dünsten. Milch (125 ml) dazugeben, mit Salz, Pfeffer und Muskatnuss würzen und kurz erhitzen. Milch über die Brötchenwürfel gießen, Parmesan (3 EL), Paniermehl (3 EL), Spinat und Eier hinzufügen. Alles gut vermischen, bei Bedarf Paniermehl oder Milch ergänzen. Salzwasser erhitzen. Mit nassen Händen Knödel formen und im siedenden Wasser ca. 15 Minuten ziehen lassen.",
+      "notes": ["Extra Paniermehl/Semmelbrösel hinzugeben, wenn die Knödel sich noch zu feucht zum Ausbacken anfüllen.", "Lassen sich gut einfrieren"]
     }
   ]
 }
