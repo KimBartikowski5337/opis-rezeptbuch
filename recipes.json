@@ -351,6 +351,38 @@
       "ingredients": ["1 rote Paprika", "2 Zwiebeln", "150g Champignons", "500g Gyros", "125g Streukäse", "200g Schmand", "400ml Sahne","50g Tomatenmark", "500g Barilla langgezogene Fussili", "4cl Metaxa"],
       "instructions": "Nudeln in ausreichend Salzwasser kochen, abgießen und in eine Auflaufform geben. Gyros in Öl anbraten. Dann ebenfalls in die Auflaufform geben. Das Gemüse waschen, klein schneiden und in demselben Öl anbraten, in dem zuvor das Gyros angebraten wurde. Noch etwas mit Salz und Pfeffer würzen. Das Gemüse zum Gyros und den Nudeln in die Auflaufform geben und vermengen. Das Öl mit Sahne ablöschen und den Schmand einrühren. Nun auch Tomatenmark und Metaxa hinzugeben. Nach Belieben vom Tomatenmark und Metaxa etwas mehr hinzugeben. Mit Salz und Pfeffer, gegebenenfalls mit Paprikapulver und anderen Gewürzen würzen. Die Soße über die Zutaten in der Auflaufform gießen, Käse drüber streuen und bei 180 °C Umluft für 20 - 30 Minuten in den heißen Ofen, anschließend etwas abkühlen lassen und servieren.",
       "notes": [""]
+    },
+    {
+      "id": 23,
+      "name": "Gefüllte Paprika",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "Ungarn",
+      "image": "images/gefuelltePaprika.png",
+      "prepTime": "30",
+      "cookTime": "60",
+      "ingredients": ["4 rote Paprika", "1 Zwiebel", "500g Rinderhack", "125g Streukäse", "1 Feta", "500g gehackte Tomaten", "30g Tomatenmark", "400g Reis"],
+      "instructions": "Reis kochen. Hack im Dutch Oven ankbraten, gewürfelte Zwiebel dazugeben. Mit Salz und Pfeffer würzen. Anschließend Tomatenmark mit anbraten. Feta würfeln. Dann den Paprikadeckel abnehmen und Paprika zur Hälfte mit der angebrateten Füllung fast bis zur Hälfte füllen, die andere Hälfte mit Reis, etwas Platz lassen. Feta mit einfüllen und in den Paprikas vermischen. Paprikas mit reichlich Käse bestreuen. Übrigegebliebe Füllung und Reis kann im Dutch Oven einfach mitköcheln. Den Dutch Oven für 50 Minuten bei 180 Grad im Ofen köcheln lassen und die Paprikas heiß servieren.",
+      "notes": ["Am besten im Dutch Oven zubereiten"]
+    },
+    {
+      "id": 24,
+      "name": "Lauchsuppe",
+      "category": "Suppe",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Brot",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/lauchsuppe.png",
+      "prepTime": "25",
+      "cookTime": "40",
+      "ingredients": ["3 Stangen Lauch", "500g gemischtes Hack", "250g Schmelzkäse", "1 Becher Creme Fraiche", "Gemüsebrühe", "2 Ja! Steinofen Baguettes"],
+      "instructions": "Hackfleisch in einem großes Topf anbraten und mit Salz und Pfeffer würzen. Den Lauch putzen, in kleine Ringe schneiden und zum Hackfleisch geben. Ca. 5 Minuten mit anbraten. 1 Liter Gemüsebrühe dazugeben und alles ca. 10 Minuten auf kleiner Flamme köcheln lassen. Den Schmelzkäse einrühren und schmelzen lassen. Crème fraîche untermengen und noch einmal kurz aufkochen lassen. Die Suppe mit Salz, Pfeffer, Muskat, Knoblauch- und Zwiebelpulver kräftig abschmecken. Baguettes im Ofen backen und servieren.",
+      "notes": [""]
     }
   ]
 }
