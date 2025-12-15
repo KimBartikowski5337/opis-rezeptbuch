@@ -109,8 +109,8 @@
       "prepTime": "20 Min",
       "cookTime": "25 Min",
       "ingredients": ["600g Hähnchen", "4 Eier", "400g Reis", "1kg TK Wok Gemüse"],
-      "instructions": "Reis einen Tag vorher kochen. Helle Sojasoße, dunkle Sojasoße, Ingwer, Reisessig und ein Schuss Sonnenblumenöl vermischen und geschnittenes Hähnchen darin mehrere Stunden ziehen lassen. Zunächst das Rührei zubereiten und anschließend auf einem Teller ruhen lassen. Hähnchen anbraten, anschließend herausnehmen und das Wokgemüse anbraten. Dann Reis hinzugeben und gemeinsam anbraten. Am Schluss das Hähnchen und das Ei hinzugeben und alles noch etwas braten lassen und vor dem Servieren mit Sojasoße und Glutamat abschmecken.",
-      "notes": ["Hähnchen kann gut mit Scampis getauscht werden"]
+      "instructions": "Reis einen Tag vorher kochen. Helle Sojasoße, dunkle Sojasoße, Ingwer, Reisessig und ein Schuss Sonnenblumenöl vermischen und geschnittenes Hähnchen darin mehrere Stunden ziehen lassen. Zunächst das Rührei zubereiten und anschließend auf einem Teller ruhen lassen. Hähnchen in Maisstärke wenden, anbraten, anschließend herausnehmen und das Wokgemüse anbraten. Dann Reis hinzugeben und gemeinsam anbraten. Am Schluss das Hähnchen und das Ei hinzugeben und alles noch etwas braten lassen und vor dem Servieren mit Sojasoße und Glutamat abschmecken.",
+      "notes": ["Das Wenden des Hähnches in Stärke vor dem Braten ist die Velveting-Methode", "Hähnchen kann gut mit Scampis getauscht werden"]
     },
     {
       "id": 8,
@@ -348,7 +348,7 @@
       "image": "images/gyrosNudelauflaufMetaxa.png",
       "prepTime": "25",
       "cookTime": "60",
-      "ingredients": ["1 rote Paprika", "2 Zwiebeln", "150g Champignons", "500g Gyros", "125g Streukäse", "200g Schmand", "400ml Sahne","50g Tomatenmark", "500g Barilla langgezogene Fussili", "4cl Metaxa"],
+      "ingredients": ["1 rote Paprika", "2 Zwiebeln", "150g Champignons", "500g Gyros", "125g Streukäse", "200g Schmand", "400ml Sahne","50g Tomatenmark", "250g Barilla langgezogene Fussili", "4cl Metaxa"],
       "instructions": "Nudeln in ausreichend Salzwasser kochen, abgießen und in eine Auflaufform geben. Gyros in Öl anbraten. Dann ebenfalls in die Auflaufform geben. Das Gemüse waschen, klein schneiden und in demselben Öl anbraten, in dem zuvor das Gyros angebraten wurde. Noch etwas mit Salz und Pfeffer würzen. Das Gemüse zum Gyros und den Nudeln in die Auflaufform geben und vermengen. Das Öl mit Sahne ablöschen und den Schmand einrühren. Nun auch Tomatenmark und Metaxa hinzugeben. Nach Belieben vom Tomatenmark und Metaxa etwas mehr hinzugeben. Mit Salz und Pfeffer, gegebenenfalls mit Paprikapulver und anderen Gewürzen würzen. Die Soße über die Zutaten in der Auflaufform gießen, Käse drüber streuen und bei 180 °C Umluft für 20 - 30 Minuten in den heißen Ofen, anschließend etwas abkühlen lassen und servieren.",
       "notes": [""]
     },
@@ -382,6 +382,38 @@
       "cookTime": "40",
       "ingredients": ["3 Stangen Lauch", "500g gemischtes Hack", "250g Schmelzkäse", "1 Becher Creme Fraiche", "Gemüsebrühe", "2 Ja! Steinofen Baguettes"],
       "instructions": "Hackfleisch in einem großes Topf anbraten und mit Salz und Pfeffer würzen. Den Lauch putzen, in kleine Ringe schneiden und zum Hackfleisch geben. Ca. 5 Minuten mit anbraten. 1 Liter Gemüsebrühe dazugeben und alles ca. 10 Minuten auf kleiner Flamme köcheln lassen. Den Schmelzkäse einrühren und schmelzen lassen. Crème fraîche untermengen und noch einmal kurz aufkochen lassen. Die Suppe mit Salz, Pfeffer, Muskat, Knoblauch- und Zwiebelpulver kräftig abschmecken. Baguettes im Ofen backen und servieren.",
+      "notes": [""]
+    },
+    {
+      "id": 24,
+      "name": "Curry mit Reis",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "Indien",
+      "image": "images/curryMitReis.png",
+      "prepTime": "25",
+      "cookTime": "25",
+      "ingredients": ["1 Limette", "1 Zwiebel", "1 große Karotte","600g Hähnchen", "400g Reis", "400g Kokosmilch", "Gelbe Currypaste"],
+      "instructions": "Öl erhitzen, Hähnchenbrustwürfel scharf anbraten und beiseitestellen. Gehackte Zwiebel und Karottenscheiben andünsten. Currypaste kurz mitbraten. Gekochten Reis nach Packungsanleitung zubereiten. Kokosmilch dazugeben und kurz aufkochen lassen. Hähnchen zurück in die Soße geben und köcheln lassen, bis es gar ist. Limettensaft, Fischsauce (optional), Zucker (optional), Salz und Pfeffer dazugeben und abschmecken. Einen Stich Butter einrühren, um die Soße zu binden. Hähnchen-Curry mit Reis servieren.",
+      "notes": [""]
+    },
+    {
+      "id": 25,
+      "name": "Kürbissuppe",
+      "category": "Suppe",
+      "vegetarian": true,
+      "groupFriendly": true,
+      "carbohydrateSource": "Brot",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/kuerbissuppe.png",
+      "prepTime": "25",
+      "cookTime": "50",
+      "ingredients": ["700g Hokkaidokürbis", "1 Kartoffel", "1 JA! Steinofenbaguette", "200g Schmand", "400g Kokosmilch", "250g TK Scampis", "150ml Orangensaft"],
+      "instructions": "Wasche den Hokkaidokürbis, viertel ihn, entferne die Kerne und schneide ihn in Würfel. Schäle und würfele eine Kartoffel. Gib Kürbis, Kartoffel in den Topf und lasse sie in etwas Öl schonend anbraten. 400 ml Kokosmilch, 150 ml Orangensaft, 500 ml Gemüsebrühe, 1/4 TL Chiliflocken und 1 TL Currypulver in einen Topf und lass es aufkochen. Reduziere die Hitze und lass es 20-25 Minuten köcheln. Püriere die Suppe und schmecke sie mit Limettensaft, Salz, Pfeffer und Chiliflocken ab. Scampis anbraten und mit Knoblauch und Salz abschmecken. Das Baguette im Ofen aufbacken lassen. Die Suppe auf den Tellern mit Scampis, Schmand und Kürbisöl anrichten, Baguette dazureichen.",
       "notes": [""]
     }
   ]
