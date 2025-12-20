@@ -93,7 +93,7 @@
       "prepTime": "20 Min",
       "cookTime": "25 Min",
       "ingredients": ["Toastbrot ","2 reife Kochbananen ", "1 Dose schwarze Bohnen (Lateinamerikanischer Supermarkt)","1 Packung Frijoles Refritos (Lateinamerikanischer Supermarkt)", "4 Eier", "300g Reis"],
-      "instructions": "Reis kochen. Die schwarzen Bohnen beinahe vollständig abgießen, mit etwas Restflüssigkeit in einen Topf zum Erwärmen geben. Kochbanane in Scheiben schneiden und in reichlich Öl auf leichter bis mittlerer Hitze goldbraun ausbacken. Frijoles Refritos in der Mikrowelle in einer Schüssel lauwarm erhitzen. Spiegeleier braten und alles zusammen auf einem Teller servieren. Wer es traditionell möchte, gibt etwas Salsa Lizano zu seinem Essen.",
+      "instructions": "Reis kochen. Die schwarzen Bohnen beinahe vollständig abgießen, mit etwas Restflüssigkeit in einen Topf zum Erwärmen geben. Kochbanane in Scheiben schneiden und in reichlich Öl auf leichter bis mittlerer Hitze goldbraun ausbacken. Toast mit etwas Butter von beiden Seiten bestreichen, leicht salzen und inden Ofen zum Toasten geben. Frijoles Refritos in der Mikrowelle in einer Schüssel lauwarm erhitzen. Spiegeleier braten und alles zusammen auf einem Teller servieren. Wer es traditionell möchte, gibt etwas Salsa Lizano zu seinem Essen.",
       "notes": ["Kochbananen gibt es im Asia-Markt in Elmshorn.", "Schwarze Bohnen und Frijoles Refritos gibt es im lateinamerianischen Supermarkt in Wandsbek", "DAS Costa Ricanische Nationalgericht 🇨🇷"]
     },
     {
@@ -132,7 +132,7 @@
       "id": 9,
       "name": "Kaiserschmarrn",
       "category": "Nachtisch",
-      "vegetarian": false,
+      "vegetarian": true,
       "groupFriendly": false,
       "carbohydrateSource": "Brot",
       "days": 1,
@@ -140,7 +140,7 @@
       "image": "images/kaiserschmarrn.png",
       "prepTime": "15",
       "cookTime": "15",
-      "ingredients": ["4 Eier Größe M", "300ml Vollmilch", "40g Butter", "125g Mehl", "60g Zucker", "1 Päckchen Vanillezucker","75ml Mineralwasser"],
+      "ingredients": ["4 Eier Größe M", "300ml Vollmilch", "40g Butter", "125g Mehl", "60g Zucker", "Puderzucker", "1 Päckchen Vanillezucker","opt. Marmelade", "opt. Apfelmus", "75ml Mineralwasser"],
       "instructions": "Trenne Eier, schlage Eiweiß steif. Verrühre Eigelb mit Zucker, Vanillezucker und Salz. Rühre Mehl und Milch portionsweise unter, dann Mineralwasser. Hebe Eischnee unter. Backe Teig in Butter goldbraun, viertel und backe weiter. Zerreisse Schmarrn in Stücke, backe fertig. Bestäube mit Puderzucker.",
       "notes": ["Für die Rezeptmenge werden 2 Pfannen benötigt", "Auf keinen Fall den Kaiserschmarn in der Pfanne plattdrücken"]
     },
@@ -413,8 +413,56 @@
       "prepTime": "25",
       "cookTime": "50",
       "ingredients": ["700g Hokkaidokürbis", "1 Kartoffel", "1 JA! Steinofenbaguette", "200g Schmand", "400g Kokosmilch", "250g TK Scampis", "150ml Orangensaft"],
-      "instructions": "Wasche den Hokkaidokürbis, viertel ihn, entferne die Kerne und schneide ihn in Würfel. Schäle und würfele eine Kartoffel. Gib Kürbis, Kartoffel in den Topf und lasse sie in etwas Öl schonend anbraten. 400 ml Kokosmilch, 150 ml Orangensaft, 500 ml Gemüsebrühe, 1/4 TL Chiliflocken und 1 TL Currypulver in einen Topf und lass es aufkochen. Reduziere die Hitze und lass es 20-25 Minuten köcheln. Püriere die Suppe und schmecke sie mit Limettensaft, Salz, Pfeffer und Chiliflocken ab. Scampis anbraten und mit Knoblauch und Salz abschmecken. Das Baguette im Ofen aufbacken lassen. Die Suppe auf den Tellern mit Scampis, Schmand und Kürbisöl anrichten, Baguette dazureichen.",
+      "instructions": "Wasche den Hokkaidokürbis, viertel ihn, entferne die Kerne und schneide ihn in Würfel. Schäle und würfele eine Kartoffel. Gib Kürbis, Kartoffel in den Topf und lasse sie in etwas Öl schonend anbraten. 400 ml Kokosmilch, 150 ml Orangensaft, 500 ml Gemüsebrühe, 1/4 TL Chiliflocken und 1 TL Currypulver in den Topf zu dem Kürbis und den Kartoffeln geben und lass es aufkochen. Reduziere die Hitze und lass es 20-25 Minuten köcheln. Püriere die Suppe und schmecke sie mit Limettensaft, Salz, Pfeffer und Chiliflocken ab. Scampis anbraten und mit Knoblauch und Salz abschmecken. Das Baguette im Ofen aufbacken lassen. Die Suppe auf den Tellern mit Scampis, Schmand und Kürbisöl anrichten, Baguette dazureichen.",
       "notes": [""]
+    },
+    {
+      "id": 26,
+      "name": "Jägerschnitzel",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": false,
+      "carbohydrateSource": "Kartoffeln",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/jaegerschnitzel.png",
+      "prepTime": "3ß",
+      "cookTime": "4ß",
+      "ingredients": ["1 Zwiebel", "250g Cherry Tomaten", "1,5kg Kartoffeln", "400g Champignons","4 Schweineschnitzel", "2 Eier", "200ml Sahne", "Bohnenkraut", "600g TK-Brechbohnen", "Paniermehl"],
+      "instructions": "Die Bohnen in gesalzenem Wasser aldente kochen, anschließend abgießen. Schneide die Champignons in Scheiben und würfel die Zwiebel, brate die Champignons in einem Topf ohne Öl auf mittlerer Hitze an, gib dann 30g Butter und die Zwiebeln zu und dünste sie, rühre einen Teelöffel Tomatenmark unter und röste es kurz an, gib einen Esslöffel Mehl dazu, lösche den Topfinhalt mit 200ml Rinderbrühe Sahne ab und lasse die Soße unter Rühren 10 Minuten köcheln, bis sie cremig ist. Kartoffeln schälen, vierteln und in gesalzenem Wasser 25 Minuten kochen. Die Cherrytomaten vierteln und gemeinsam mit den Bohnen in einer Pfanne mit etwas Olivenöl schonend braten und kräftig mit Bohnenkraut und etwas Salz und Pfeffer würzen. Klopfe die Schnitzel flach und wende sie in einer Panierstraße zuerst in Mehl, ziehe sie dann durch die Eier und wende sie anschließend im Paniermehl, erhitze Sonnenblumenöl in einer Pfanne und brate die Schnitzel darin von beiden Seiten goldbraun, serviere die Schnitzel mit der Pilzrahmsoße, den Bohnen und Tomaten und den Kartoffeln. ",
+      "notes": ["Schweineschnitzel könnnen mit Kalbschnitzel ersetzt werden."]
+    },
+    {
+      "id": 27,
+      "name": "Saganaki mit Kritharaki Salat",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "groupFriendly": false,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Griechenland",
+      "image": "images/saganaki.png",
+      "prepTime": "30",
+      "cookTime": "15",
+      "ingredients": ["200g Rucola", "250g Cherrytomaten", "1 Bio-Zitrone", "1 Ei", "2 Blöcke neutraler Feta", "300g Mozarella", "Honig", "Paniermehl", "300g Kritharaki-Nudeln", "60g getrocknete Tomaten ohne Öl "],
+      "instructions": "Koche Kritharaki, schrecke sie mit kaltem Wasser ab und lasse sie abtropfen, röste Pinienkerne ohne Öl goldbraun und lasse sie auskühlen, wasche Rucola, viertel die Tomaten, schneide den Mozzarella klein, schneide getrocknete Tomaten in Streifen. Alles zusammen in eine große Schüssel geben. Dressing aus 3 EL Olivenöl, 1EL Essig, 3EL Wasser, Saft einer halben Zitrone und Abrieb einer halben Zitrone, 1 TL Salz, 1 TL Pfeffer, 1TL italienische Kräuter, 1TL Honig oder Rohrzucker anrühren und in der Salatschüssel unterheben. Salat in den Kühlschrank stellen. Trockne die 2 Blöcke Feta ab, verrühre in einem tiefen Teller 1 Ei, 1 TL Oregano, 1 TL Thymian und 1/8 TL schwarzen Pfeffer zu einer glatten Masse, stelle separate Teller mit 50g Mehl, der gewürzten Ei-Masse und 80g Paniermehl bereit (verwende selbstgemachtes Paniermehl oder welches vom Bäcker), wende jeden Feta-Block zuerst im Mehl, dann in der Ei-Masse und anschließend im Paniermehl. Saganaki in Airfryer legen, mit etwas Öl-Spray besprühen und ca. 10 Minuten goldbraun backen. Zusammen mit dem Kritharaki Salat servieren.",
+      "notes": [""]
+    },
+    {
+      "id": 28,
+      "name": "Crepes",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "groupFriendly": false,
+      "carbohydrateSource": "Brot",
+      "days": 1,
+      "country": "Frankreich",
+      "image": "images/crepes.png",
+      "prepTime": "15",
+      "cookTime": "15",
+      "ingredients": ["225g Mehl", "6 Eier", "450ml Milch", "60g Butter", "Crepe-Beläge nach Wahl - süß und herfzhaft"],
+      "instructions": "Mehl in eine Schüssel geben und mit Mlch glatt rühren. Eier aufschlagen und verrühren, zur Masse geben. Butter in der Mikrowelle flüssig schmelzen und mit einer Prise Salz zur Masse geben. Auf das Crepegerät etwas Butter geben und die Crepes nacheinander backen. ",
+      "notes": ["Ideen, um den Crepe zu belegen: Käse & Schinken, Zimt & Zucker, Nutella"]
     }
   ]
 }
