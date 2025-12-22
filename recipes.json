@@ -104,7 +104,7 @@
       "groupFriendly": true,
       "carbohydrateSource": "Reis",
       "days": 2,
-      "country": "Asiatisch",
+      "country": "China",
       "image": "images/friedRice.png",
       "prepTime": "20 Min",
       "cookTime": "25 Min",
@@ -495,6 +495,38 @@
       "ingredients": ["1 Zwiebel","1,5kg mehligkochende Kartoffeln", "1 Bund Suppengrün", "200g Schmand","Gemüsebrühe", "Meica Wiener Würstchen"],
       "instructions": "Zwiebel schneiden und glasig im großen Topf anbraten, anschließend wieder Herd ausmachen und Topf zur Seite stellen. Kartoffeln schälen und vierteln. Suppengrün sorgfältig putzen und klein schneiden und zum Topf dazugeben. Mit 1 1/2 Liter Gemüsebrühe auffüllen und aufkochen lassen. Ca. 20 Minuten köcheln lassen, anschließend pürieren und mit Salz, Pfeffer, Muskatnuss und Schmand abschmecken. Die Würstchen in Scheiben schneiden und zur Suppe servieren.",
       "notes": [""]
+    },
+    {
+      "id": 31,
+      "name": "Pad Thai",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reisnudeln",
+      "days": 2,
+      "country": "Thailand",
+      "image": "images/padThai.png",
+      "prepTime": "15",
+      "cookTime": "15",
+      "ingredients": ["4 Frühlingszwiebeln", "2 Limetten", "4 Eier", "3 EL brauner Zucker", "400g Reisnudeln (breit)", "200g Mungbohnenkeimlinge oder Sojasprossen", "5 EL Fischsauce", "3 EL Tamarindenpaste",",80g gehackte Erdnüsse", "250g TK Scampi"],
+      "instructions": "Reisnudeln nach Packungsanweisung einweichen. Zur Vorbereitung bereits Frühlingszwiebel anschrägt in dünne Scheiben schneiden und Erdnüsse kleinhacken. Scampi in etwas Öl anbraten und mit Salz, Knoblauchpulver  würzen und etwas Limettensaft dazugeben. Die Eier aufschlagen und verrühren. Nudeln, Fischsauce, Tamarindenpaste und Zucker hinzufügen. Wenn gewünscht nun auch etwas Glutmat dazugeben. Alles gut vermischen und 2-3 Minuten braten. Sojasprossen und Frühlingszwiebeln unterrühren. Mit gehackten Erdnüssen bestreuen und mit Limettenspalten servieren.",
+      "notes": ["Tamarindenpaste gibt es im Asialaden", "Kann auch vegetarisch mit Tofu zubereitet werden"]
+    },
+    {
+      "id": 32,
+      "name": "Rindergulasch",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Ungarn",
+      "image": "images/rindergulasch.png",
+      "prepTime": "25",
+      "cookTime": "120",
+      "ingredients": ["300g Schalotten", "600g Rindergulasch", "400ml Rinderfond", "40g Tomatenmark", "200ml trockener Rotwein"],
+      "instructions": "Gulaschfleisch im besten Fall 1 Tag vorher leicht salzen. Fleisch 30 Minuten vor Zubereitung aus dem Kühlschrank nehmen. Fleisch quer zur Faser in 3x3 cm Würfel schneiden und nur leicht salzen. Schalotten schälen und halbieren. Schalotten im Dutch Oven in etwas Butterschmalz, alternativSonnenblumenöl, glasig anbraten und herausnehmen. Fleisch bei hoher Hitze im Dutch Oven scharf anbraten, es soll ordentlich Röstaromen geben. Alles zurück in den Dutch Oven, Tomatenmark dazugeben und kurz mitrösten. Mit Rotwein ablöschen und auf 1/3 reduzieren. Knoblauchpulver, 1 TL Zitronenabrieb, 2 TL Paprikapulver, 1/2 TL Majoran und 1 Messerspitze Cayennepfeffer hinzufügen. Mit 400ml Rinderfond aufgießen und 1,5 Stunden mit Deckel bei geringer Hitze schmoren. Nach 1 Stunde prüfen - bei zu flüssiger Sauce die letzten 30 Minuten ohne Deckel garen. Abschmecken und eventuell mit etwas kalter Butter andicken. Die Spätzle kochen und alles zusammen servieren.",
+      "notes": ["Schmeckt am zweiten Tag noch besser", "Auch sehr lecker mit Klößen oder Bandnudeln."]
     }
   ]
 }
