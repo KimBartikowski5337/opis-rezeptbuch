@@ -426,9 +426,9 @@
       "days": 2,
       "country": "Deutschland",
       "image": "images/jaegerschnitzel.png",
-      "prepTime": "3ß",
-      "cookTime": "4ß",
-      "ingredients": ["1 Zwiebel", "250g Cherry Tomaten", "1,5kg Kartoffeln", "400g Champignons","4 Schweineschnitzel", "2 Eier", "200ml Sahne", "Bohnenkraut", "600g TK-Brechbohnen", "Paniermehl"],
+      "prepTime": "30",
+      "cookTime": "40",
+      "ingredients": ["1 Zwiebel", "250g Cherry Tomaten", "1,5kg Kartoffeln oder Kroketten", "400g Champignons","4 Schweineschnitzel", "2 Eier", "200ml Sahne", "Bohnenkraut", "600g TK-Brechbohnen", "Paniermehl"],
       "instructions": "Die Bohnen in gesalzenem Wasser aldente kochen, anschließend abgießen. Schneide die Champignons in Scheiben und würfel die Zwiebel, brate die Champignons in einem Topf ohne Öl auf mittlerer Hitze an, gib dann 30g Butter und die Zwiebeln zu und dünste sie, rühre einen Teelöffel Tomatenmark unter und röste es kurz an, gib einen Esslöffel Mehl dazu, lösche den Topfinhalt mit 200ml Rinderbrühe Sahne ab und lasse die Soße unter Rühren 10 Minuten köcheln, bis sie cremig ist. Kartoffeln schälen, vierteln und in gesalzenem Wasser 25 Minuten kochen. Die Cherrytomaten vierteln und gemeinsam mit den Bohnen in einer Pfanne mit etwas Olivenöl schonend braten und kräftig mit Bohnenkraut und etwas Salz und Pfeffer würzen. Klopfe die Schnitzel flach und wende sie in einer Panierstraße zuerst in Mehl, ziehe sie dann durch die Eier und wende sie anschließend im Paniermehl, erhitze Sonnenblumenöl in einer Pfanne und brate die Schnitzel darin von beiden Seiten goldbraun, serviere die Schnitzel mit der Pilzrahmsoße, den Bohnen und Tomaten und den Kartoffeln. ",
       "notes": ["Schweineschnitzel könnnen mit Kalbschnitzel ersetzt werden."]
     },
@@ -461,8 +461,40 @@
       "prepTime": "15",
       "cookTime": "15",
       "ingredients": ["225g Mehl", "6 Eier", "450ml Milch", "60g Butter", "Crepe-Beläge nach Wahl - süß und herfzhaft"],
-      "instructions": "Mehl in eine Schüssel geben und mit Mlch glatt rühren. Eier aufschlagen und verrühren, zur Masse geben. Butter in der Mikrowelle flüssig schmelzen und mit einer Prise Salz zur Masse geben. Auf das Crepegerät etwas Butter geben und die Crepes nacheinander backen. ",
+      "instructions": "Mehl in eine Schüssel geben und mit Milch glatt rühren. Eier aufschlagen und verrühren, zur Masse geben. Butter in der Mikrowelle flüssig schmelzen und mit einer Prise Salz zur Masse geben. Auf das Crepegerät etwas Butter geben und die Crepes nacheinander backen. ",
       "notes": ["Ideen, um den Crepe zu belegen: Käse & Schinken, Zimt & Zucker, Nutella"]
+    },
+    {
+      "id": 29,
+      "name": "Raclette",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/raclette.png",
+      "prepTime": "20",
+      "cookTime": "45",
+      "ingredients": ["Zwiebeln", "Tomaten", "Kartoffeln", "Champignons", "Paprika", "Baguette", "Mageres Rindersteak", "Aioli", "Cocktail Dip", "Raclettekäse", "Mozarella", "Gouda", "Mais", "Gurken aus dem Glas", "TK Scampis", "TK Brokkoli"],
+      "instructions": "Nudeln und Gemüse vorkochen, Steak in dünne Scheiben schneiden. Dann kann das Raclette Gerät auch schon angeworfen werden und die Party losgehen!",
+      "notes": [""]
+    },
+    {
+      "id": 30,
+      "name": "Kartoffelsuppe",
+      "category": "Suppe",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Kartoffeln",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/kartoffelsuppe.png",
+      "prepTime": "25",
+      "cookTime": "45",
+      "ingredients": ["1 Zwiebel","1,5kg mehligkochende Kartoffeln", "1 Bund Suppengrün", "200g Schmand","Gemüsebrühe", "Meica Wiener Würstchen"],
+      "instructions": "Zwiebel schneiden und glasig im großen Topf anbraten, anschließend wieder Herd ausmachen und Topf zur Seite stellen. Kartoffeln schälen und vierteln. Suppengrün sorgfältig putzen und klein schneiden und zum Topf dazugeben. Mit 1 1/2 Liter Gemüsebrühe auffüllen und aufkochen lassen. Ca. 20 Minuten köcheln lassen, anschließend pürieren und mit Salz, Pfeffer, Muskatnuss und Schmand abschmecken. Die Würstchen in Scheiben schneiden und zur Suppe servieren.",
+      "notes": [""]
     }
   ]
 }
