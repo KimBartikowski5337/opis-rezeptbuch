@@ -72,7 +72,7 @@
       "groupFriendly": true,
       "carbohydrateSource": "Nudeln",
       "days": 2,
-      "country": "Deutsch",
+      "country": "Deutschland",
       "image": "images/stanni.png",
       "prepTime": "20 Min",
       "cookTime": "25 Min",
@@ -477,7 +477,7 @@
       "prepTime": "20",
       "cookTime": "45",
       "ingredients": ["Zwiebeln", "Tomaten", "Kartoffeln", "Champignons", "Paprika", "Baguette", "Mageres Rindersteak", "Aioli", "Cocktail Dip", "Raclettekäse", "Mozarella", "Gouda", "Mais", "Gurken aus dem Glas", "TK Scampis", "TK Brokkoli"],
-      "instructions": "Nudeln und Gemüse vorkochen, Steak in dünne Scheiben schneiden. Dann kann das Raclette Gerät auch schon angeworfen werden und die Party losgehen!",
+      "instructions": "Kartoffeln, Nudeln und Brokkoli vorkochen, Steak in dünne Scheiben schneiden und in Sojasoße marinieren. Dann kann das Raclette Gerät auch schon angeworfen werden und die Party losgehen!",
       "notes": [""]
     },
     {
@@ -524,8 +524,40 @@
       "image": "images/rindergulasch.png",
       "prepTime": "25",
       "cookTime": "120",
-      "ingredients": ["300g Schalotten", "600g Rindergulasch", "400ml Rinderfond", "40g Tomatenmark", "200ml trockener Rotwein"],
+      "ingredients": ["300g Schalotten", "600g Rindergulasch", "400ml Rinderfond", "40g Tomatenmark", "500g getrocknete Spätzle", "200ml trockener Rotwein"],
       "instructions": "Gulaschfleisch im besten Fall 1 Tag vorher leicht salzen. Fleisch 30 Minuten vor Zubereitung aus dem Kühlschrank nehmen. Fleisch quer zur Faser in 3x3 cm Würfel schneiden und nur leicht salzen. Schalotten schälen und halbieren. Schalotten im Dutch Oven in etwas Butterschmalz, alternativSonnenblumenöl, glasig anbraten und herausnehmen. Fleisch bei hoher Hitze im Dutch Oven scharf anbraten, es soll ordentlich Röstaromen geben. Alles zurück in den Dutch Oven, Tomatenmark dazugeben und kurz mitrösten. Mit Rotwein ablöschen und auf 1/3 reduzieren. Knoblauchpulver, 1 TL Zitronenabrieb, 2 TL Paprikapulver, 1/2 TL Majoran und 1 Messerspitze Cayennepfeffer hinzufügen. Mit 400ml Rinderfond aufgießen und 1,5 Stunden mit Deckel bei geringer Hitze schmoren. Nach 1 Stunde prüfen - bei zu flüssiger Sauce die letzten 30 Minuten ohne Deckel garen. Abschmecken und eventuell mit etwas kalter Butter andicken. Die Spätzle kochen und alles zusammen servieren.",
+      "notes": ["Schmeckt am zweiten Tag noch besser", "Auch sehr lecker mit Klößen oder Bandnudeln."]
+    },
+    {
+      "id": 33,
+      "name": "Nudeln mit Fisch und Blattspinat",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/nudelnFischSpinat.png",
+      "prepTime": "25",
+      "cookTime": "20",
+      "ingredients": ["2 Schalotten", "1 Bio Zitrone", "500g Bandnudeln","500g TK Kabeljaufilet"],
+      "instructions": "Kabeljau 2-3 Stunden vor Zubereitung im Kühlschrank auftauen lassen und trocken tupfen. In mundgerechte Stücke schneiden, leicht salzen und pfeffern. Schalotten fein würfeln. Butter in einer großen Pfanne erhitzen, Schalotten glasig andünsten. Mit Gemüsebrühe ablöschen und 5 Minuten köcheln lassen. TK Spinat hinzugeben und auftauen lassen. Schmand einrühren und mit Salz, Pfeffer, Knoblauchpulver, Muskatnuss, Zitronensaft und etwas Zitronenabrieb abschmecken. Kabeljau vorsichtig in die Sauce geben und bei mittlerer Hitze 8-10 Minuten ziehen lassen, nicht kochen. Währenddessen Nudeln nach Packungsanweisung kochen. Wenn gewünscht Dill unter die Sauce heben. Mit den abgetropften Nudeln servieren und zusätzlichem Dill und Zitrone servieren.",
+      "notes": ["Schmeckt am zweiten Tag noch besser", "Auch sehr lecker mit Klößen oder Bandnudeln."]
+    },
+    {
+      "id": 34,
+      "name": "Traditionelle spanische Tortilla",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "groupFriendly": false,
+      "carbohydrateSource": "Kartoffeln",
+      "days": 1,
+      "country": "Spanien",
+      "image": "images/spanischeTortilla.png",
+      "prepTime": "30",
+      "cookTime": "30",
+      "ingredients": ["150g Zwiebeln", "500g vorwiegend festkochende Kartoffeln", "4 Eier", "250ml Olivenöl"],
+      "instructions": "Kartoffeln schälen, in kleine 0,5 - 1 cm Würfel schneiden und mit dem Salz bestreuen. Die Zwiebeln fein hacken. Olivenöl in einer Pfanne (24 cm Durchmesser) erhitzen und die Kartoffelwürfel zugeben. Die Kartoffeln sollten mit Öl gerade bedeckt sein. Die Temperatur auf mittlere Hitze zurückstellen und die Kartoffeln etwa 12 - 15 Minuten braten. Die Zwiebeln in einer zweiten Pfanne mit ein wenig Olivenöl in 10 - 15 Minuten glasig und goldbraun anschwitzen. Die Eier in eine große Schüssel geben und mit einem Schneebesen kräftig schlagen und salzen. Die Kartoffeln mit einem Sieb vom Olivenöl trennen. Kartoffeln und Zwiebeln zu den Eiern in die Schüssel geben und 3 - 5 Minuten ziehen lassen. Ca. 2 - 3 Esslöffel Olivenöl stark erhitzen, die Tortillamasse in die Pfanne geben und 2 Minuten braten. Wenn die Masse anfängt zu bräunen (die Eier nicht stocken lassen), die Tortilla mithilfe eines Tellers umdrehen. Einfach den Teller auf die Tortilla legen und die Pfanne umdrehen, sodass die Tortilla auf dem Teller liegt. Dann die Tortilla in die Pfanne gleiten lassen. Von der Rückseite 1 Minute braten. Die Tortilla soll innen noch flüssig sein.",
       "notes": ["Schmeckt am zweiten Tag noch besser", "Auch sehr lecker mit Klößen oder Bandnudeln."]
     }
   ]
