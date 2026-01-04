@@ -332,8 +332,8 @@
       "image": "images/rioNudeln.png",
       "prepTime": "10",
       "cookTime": "25",
-      "ingredients": ["1-2 Bio Limetten, je nachdem wie groß sie ausfallen", "2 Knoblauchzehen", "500g Spaghetti", "225g TK Scampis"],
-      "instructions": "Scampis auftauen, in einer Mischung aus etwas Olivenöl, Saft einer Limette, und den kleingehackten Knoblauchzehen, etwas Salz und wenig Chilipulver einige Stunden im Kühlschrank ziehen lassen. Nudeln kochen, parallel Scampis anbraten. Etwas vom Pastawasser beibehalten, in einer seperaten Pfanne die Portiosgröße des Tages der Nudeln und der Scampis mit etwas Pasta Wasser emulgieren lassen und frische Limettenzeste dazugeben. Mit Salz und Pfeffer abschmecken und servieren.",
+      "ingredients": ["1-2 Bio Limetten, je nachdem wie groß sie ausfallen", "2 Knoblauchzehen", "200g Naturjoghurt", "500g Spaghetti", "225g TK Scampis"],
+      "instructions": "Scampis auftauen, in einer Mischung aus Joghurt, etwas Olivenöl, Saft einer Limette, und den kleingehackten Knoblauchzehen, etwas Salz und wenig Chilipulver einige Stunden im Kühlschrank ziehen lassen. Nudeln kochen, parallel Scampis anbraten. Etwas vom Pastawasser beibehalten, in einer seperaten Pfanne die Portiosgröße des Tages der Nudeln und der Scampis mit etwas Pasta Wasser emulgieren lassen und frische Limettenzeste dazugeben. Mit Salz und Pfeffer abschmecken und servieren.",
       "notes": ["Dass die Limette BIO ist, ist besonders wichtig, da die Limettenzeste mitverwendet wird."]
     },
     {
@@ -344,7 +344,7 @@
       "groupFriendly": true,
       "carbohydrateSource": "Nudeln",
       "days": 2,
-      "country": "Griechisch",
+      "country": "Griechenland",
       "image": "images/gyrosNudelauflaufMetaxa.png",
       "prepTime": "25",
       "cookTime": "60",
@@ -502,7 +502,7 @@
       "category": "Sonstiges",
       "vegetarian": false,
       "groupFriendly": true,
-      "carbohydrateSource": "Reisnudeln",
+      "carbohydrateSource": "Nudeln",
       "days": 2,
       "country": "Thailand",
       "image": "images/padThai.png",
@@ -542,7 +542,7 @@
       "cookTime": "20",
       "ingredients": ["2 Schalotten", "1 Bio Zitrone", "500g Bandnudeln","500g TK Kabeljaufilet"],
       "instructions": "Kabeljau 2-3 Stunden vor Zubereitung im Kühlschrank auftauen lassen und trocken tupfen. In mundgerechte Stücke schneiden, leicht salzen und pfeffern. Schalotten fein würfeln. Butter in einer großen Pfanne erhitzen, Schalotten glasig andünsten. Mit Gemüsebrühe ablöschen und 5 Minuten köcheln lassen. TK Spinat hinzugeben und auftauen lassen. Schmand einrühren und mit Salz, Pfeffer, Knoblauchpulver, Muskatnuss, Zitronensaft und etwas Zitronenabrieb abschmecken. Kabeljau vorsichtig in die Sauce geben und bei mittlerer Hitze 8-10 Minuten ziehen lassen, nicht kochen. Währenddessen Nudeln nach Packungsanweisung kochen. Wenn gewünscht Dill unter die Sauce heben. Mit den abgetropften Nudeln servieren und zusätzlichem Dill und Zitrone servieren.",
-      "notes": ["Schmeckt am zweiten Tag noch besser", "Auch sehr lecker mit Klößen oder Bandnudeln."]
+      "notes": [""]
     },
     {
       "id": 34,
@@ -558,7 +558,39 @@
       "cookTime": "30",
       "ingredients": ["150g Zwiebeln", "500g vorwiegend festkochende Kartoffeln", "4 Eier", "250ml Olivenöl"],
       "instructions": "Kartoffeln schälen, in kleine 0,5 - 1 cm Würfel schneiden und mit dem Salz bestreuen. Die Zwiebeln fein hacken. Olivenöl in einer Pfanne (24 cm Durchmesser) erhitzen und die Kartoffelwürfel zugeben. Die Kartoffeln sollten mit Öl gerade bedeckt sein. Die Temperatur auf mittlere Hitze zurückstellen und die Kartoffeln etwa 12 - 15 Minuten braten. Die Zwiebeln in einer zweiten Pfanne mit ein wenig Olivenöl in 10 - 15 Minuten glasig und goldbraun anschwitzen. Die Eier in eine große Schüssel geben und mit einem Schneebesen kräftig schlagen und salzen. Die Kartoffeln mit einem Sieb vom Olivenöl trennen. Kartoffeln und Zwiebeln zu den Eiern in die Schüssel geben und 3 - 5 Minuten ziehen lassen. Ca. 2 - 3 Esslöffel Olivenöl stark erhitzen, die Tortillamasse in die Pfanne geben und 2 Minuten braten. Wenn die Masse anfängt zu bräunen (die Eier nicht stocken lassen), die Tortilla mithilfe eines Tellers umdrehen. Einfach den Teller auf die Tortilla legen und die Pfanne umdrehen, sodass die Tortilla auf dem Teller liegt. Dann die Tortilla in die Pfanne gleiten lassen. Von der Rückseite 1 Minute braten. Die Tortilla soll innen noch flüssig sein.",
-      "notes": ["Schmeckt am zweiten Tag noch besser", "Auch sehr lecker mit Klößen oder Bandnudeln."]
+      "notes": [""]
+    },
+    {
+      "id": 35,
+      "name": "Burger",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": false,
+      "carbohydrateSource": "Brot",
+      "days": 1,
+      "country": "Amerika",
+      "image": "images/burger.png",
+      "prepTime": "20",
+      "cookTime": "25",
+      "ingredients": ["1 Zwiebel", "1 große Rispentomate", "1 Eisbergsalat", "Burgerbrötchen", "500g Rindfleisch", "Schmelzkäsescheiben"],
+      "instructions": "Rindfleisch in 125g Portionen aufteilen und mit einem kleinem Schuss Worcestersauce würzen. Patties formen, dabei 50% breiter als das Burger Bun formen, da sich die Patties noch zusammenziehen. Noch nicht salzen! Burgerpatties in den Kühlschrank stellen. Zwiebel in Ringe schneiden. Tomate in Scheiben schneiden. Vom Eisbergsalat schöne Salatblätter zupfen. Brötchen aufschneiden und das Innere der Brötchenseiten je nach Geschmack in einer Pfanne mit etwas Butter anrösten oder im Ofen backen. Pommes im Airfryer für ca. 15 Minuten in den Airfryer geben und regelmäßig schütteln. Nun Patties aus dem Kühlschrank holen, salzen und in einer sehr heißen Edelstahlpfanne braten. Nach dem Wenden eine Scheibe Schmelzkäse auf jedes Patty legen und die Pfanne mit einem Deckel verschließen, damit der Käse anschmilzt. Nun Burger zusammenbauen, als Soßen z.B. Mayo und Ketchup und mit Pommes und Cola servieren. ",
+      "notes": ["Burgerpatties können bereits einige Stunden im Vorraus geformt werden. Das Durchkühlen im Kühlschrank verhindert, dass sie beim Braten auseinanderfallen!"]
+    },
+    {
+      "id": 36,
+      "name": "Cremigste Pasta",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Frankreich",
+      "image": "images/cremigstePasta.png",
+      "prepTime": "15",
+      "cookTime": "30",
+      "ingredients": ["6 Zwiebeln", "Frische glatte Petersilie", "400g Sahne", "1 TL Sambal Oelek", "500g Nudeln Linguine"],
+      "instructions": "Schneide die Zwiebeln in dünne Streifen. Erhitze Butter und Olivenöl in einer großen Edelstahlpfanne und brate die Zwiebeln bei mittlerer Hitze 15-20 Minuten langsam goldbraun und karamellisiert - falls sie am Pfannenboden ansetzen, lösche mit etwas Wasser ab. Koche währenddessen die Pasta in Salzwasser al dente und hebe etwas Nudelwasser auf. Sobald die Zwiebeln goldbraun sind, gib Knoblauchpulver, 2 TL süßes Paprikapulver, 2 TL Salz, 2 TL frisch gemahlener Pfeffer, 2 TL italienischer Kräuter dazu und brate alles 1 Minute an. Gieße dann die Sahne dazu, füge 1 TL Sambal Oelek und gehackte Petersilie hinzu und lasse die Sauce 2-3 Minuten köcheln bis sie cremig ist. Gib die Pasta direkt in die Sauce und vermische alles gut - falls die Sauce zu dick ist, rühre nach und nach etwas Nudelwasser unter bis sie seidig wird. Serviere das Gericht und garniere nach Belieben mit frischer Petersilie.",
+      "notes": ["Wer Fleisch dazu möchte kann Pancetta in Würfel schneiden, langsam in der Pfanne ausgehen lassen und zu den Nudeln servieren."]
     }
   ]
 }
