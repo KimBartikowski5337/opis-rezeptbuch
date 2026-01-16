@@ -220,9 +220,9 @@
       "image": "images/spinatknoedel.png",
       "prepTime": "30",
       "cookTime": "30",
-      "ingredients": ["1 Zwiebel", "4 Brötchen vom Vortag", "2 Eier", "Parmesan", "Butter", "Paniermehl", "500g TK Blattspinat"],
-      "instructions": "TK-Blattspinat auftauen, ausdrücken, fein schneiden. Brötchen (4 altbackene) würfeln und in eine Schüssel geben. Zwiebel würfeln und in Butter glasig dünsten. Milch (125 ml) dazugeben, mit Salz, Pfeffer und Muskatnuss würzen und kurz erhitzen. Milch über die Brötchenwürfel gießen, Parmesan (3 EL), Paniermehl (3 EL), Spinat und Eier hinzufügen. Alles gut vermischen, bei Bedarf Paniermehl oder Milch ergänzen. Salzwasser erhitzen. Mit nassen Händen Knödel formen und im siedenden Wasser ca. 15 Minuten ziehen lassen.",
-      "notes": ["Extra Paniermehl/Semmelbrösel hinzugeben, wenn die Knödel sich noch zu feucht zum Ausbacken anfüllen.", "Lassen sich gut einfrieren"]
+      "ingredients": ["2 Zwiebeln", "6 Brötchen vom Vortag", "3 Eier", "Parmesan", "Butter", "Paniermehl", "750g TK Blattspinat fein gehackt"],
+      "instructions": "TK-Blattspinat auftauen und ausdrücken. Brötchen (6 altbackene) würfeln und in eine Schüssel geben. Zwiebel würfeln und in Butter glasig dünsten. Milch (175 ml) dazugeben, mit Salz, Pfeffer und Muskatnuss würzen und kurz erhitzen. Milch über die Brötchenwürfel gießen, Parmesan (3 EL), Paniermehl (7 EL), Spinat und Eier hinzufügen. Alles gut vermischen, bei Bedarf Paniermehl oder Milch ergänzen. Salzwasser erhitzen. Mit nassen Händen Knödel formen und im siedenden Wasser ca. 15 Minuten ziehen lassen.",
+      "notes": ["Extra Paniermehl/Semmelbrösel hinzugeben, wenn die Knödel sich noch zu feucht zum Ausbacken anfüllen.", "Vor dem Kochen die Knödel im Kühlschrank festigen lassen, damit sie beim Kochen nicht auseinanderfallen.", "Lassen sich gut einfrieren"]
     },
     {
       "id": 15,
@@ -428,8 +428,8 @@
       "image": "images/jaegerschnitzel.png",
       "prepTime": "30",
       "cookTime": "40",
-      "ingredients": ["1 Zwiebel", "250g Cherry Tomaten", "1,5kg Kartoffeln oder Kroketten", "400g Champignons","4 Schweineschnitzel", "2 Eier", "200ml Sahne", "Bohnenkraut", "600g TK-Brechbohnen", "Paniermehl"],
-      "instructions": "Die Bohnen in gesalzenem Wasser aldente kochen, anschließend abgießen. Schneide die Champignons in Scheiben und würfel die Zwiebel, brate die Champignons in einem Topf ohne Öl auf mittlerer Hitze an, gib dann 30g Butter und die Zwiebeln zu und dünste sie, rühre einen Teelöffel Tomatenmark unter und röste es kurz an, gib einen Esslöffel Mehl dazu, lösche den Topfinhalt mit 200ml Rinderbrühe Sahne ab und lasse die Soße unter Rühren 10 Minuten köcheln, bis sie cremig ist. Kartoffeln schälen, vierteln und in gesalzenem Wasser 25 Minuten kochen. Die Cherrytomaten vierteln und gemeinsam mit den Bohnen in einer Pfanne mit etwas Olivenöl schonend braten und kräftig mit Bohnenkraut und etwas Salz und Pfeffer würzen. Klopfe die Schnitzel flach und wende sie in einer Panierstraße zuerst in Mehl, ziehe sie dann durch die Eier und wende sie anschließend im Paniermehl, erhitze Sonnenblumenöl in einer Pfanne und brate die Schnitzel darin von beiden Seiten goldbraun, serviere die Schnitzel mit der Pilzrahmsoße, den Bohnen und Tomaten und den Kartoffeln. ",
+      "ingredients": ["1 Zwiebel", "250g Cherry Tomaten", "TK Kroketten", "400g Champignons","4 Schweineschnitzel jeweils ca. 150g", "2 Eier", "200ml Sahne", "Bohnenkraut", "600g TK-Prinzessbohnen", "Paniermehl"],
+      "instructions": "Klopfe die Schnitzel flach von innen nach außen. Salze die Schnitzel und lasse sie einige Minuten ruhen. Die Bohnen in gesalzenem Wasser aldente kochen, anschließend abgießen. Schneide die Champignons in Scheiben und würfel die Zwiebel, brate die Champignons in einem Topf ohne Öl auf mittlerer Hitze an, gib dann 30g Butter und die Zwiebeln zu und dünste sie, rühre einen Teelöffel Tomatenmark unter und röste es kurz an, gib einen Esslöffel Mehl dazu, lösche den Topfinhalt mit 200ml Rinderbrühe und Sahne ab und lasse die Soße unter Rühren 10 Minuten köcheln, bis sie cremig ist. Die Cherrytomaten vierteln und gemeinsam mit den Bohnen in einer Pfanne mit etwas Olivenöl schonend braten und kräftig mit Bohnenkraut und etwas Salz und Pfeffer würzen. Kroketten in der Heißluftfritteuse zubereiten. Wende die Schnitzel in einer Panierstraße zuerst in Mehl, ziehe sie dann durch die Eier und wende sie anschließend im Paniermehl, erhitze Sonnenblumenöl in einer Pfanne und brate die Schnitzel darin von beiden Seiten goldbraun. Schwenke die Pfanne dabei, um das Schnitzel zu soufflieren und somit fluffig auszubacken. Gebe immer wieder etwas Butter hinzu, um diesen Effekt zu verstärken. Serviere die Schnitzel mit der Pilzrahmsoße, den Bohnen und Tomaten und den Kroketten. ",
       "notes": ["Schweineschnitzel könnnen mit Kalbschnitzel ersetzt werden."]
     },
     {
@@ -591,6 +591,22 @@
       "ingredients": ["6 Zwiebeln", "Frische glatte Petersilie", "400g Sahne", "1 TL Sambal Oelek", "500g Nudeln Linguine"],
       "instructions": "Schneide die Zwiebeln in dünne Streifen. Erhitze Butter und Olivenöl in einer großen Edelstahlpfanne und brate die Zwiebeln bei mittlerer Hitze 15-20 Minuten langsam goldbraun und karamellisiert - falls sie am Pfannenboden ansetzen, lösche mit etwas Wasser ab. Koche währenddessen die Pasta in Salzwasser al dente und hebe etwas Nudelwasser auf. Sobald die Zwiebeln goldbraun sind, gib Knoblauchpulver, 2 TL süßes Paprikapulver, 2 TL Salz, 2 TL frisch gemahlener Pfeffer, 2 TL italienischer Kräuter dazu und brate alles 1 Minute an. Gieße dann die Sahne dazu, füge 1 TL Sambal Oelek und gehackte Petersilie hinzu und lasse die Sauce 2-3 Minuten köcheln bis sie cremig ist. Gib die Pasta direkt in die Sauce und vermische alles gut - falls die Sauce zu dick ist, rühre nach und nach etwas Nudelwasser unter bis sie seidig wird. Serviere das Gericht und garniere nach Belieben mit frischer Petersilie.",
       "notes": ["Wer Fleisch dazu möchte kann Pancetta in Würfel schneiden, langsam in der Pfanne ausgehen lassen und zu den Nudeln servieren."]
+    },
+    {
+      "id": 37,
+      "name": "Beef Stir Fry",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "China",
+      "image": "images/beefStirFry.png",
+      "prepTime": "30",
+      "cookTime": "30",
+      "ingredients": ["3 Zwiebeln", "Frühlingszwiebeln", "650g Kurzgebratenes Rindfleisch (Rinderhüfte, Roastbeef)", "350g Basmatireis", "500g TK Bohnen", "400g TK Brokkoli"],
+      "instructions": "Rindfleisch in dünne Streifen schneiden. In 3 EL Stärke, 1 1/2 TL Zucker, 3 TL Backupulver, Ingwer, Pfeffer, 2 EL helle Sojasoße, 2 EL Erdnussöl und etwas kalten Wasser marinieren. Zusätzlich eine Sauce seperat in einer Schüssel vorbereiten aus 3 EL Austernsauce, 1 EL helle Sojasoße, 1 EL dunkle Sojasoße, 3 EL chinesicher Kochwein, 2 EL Wasser, 2 EL Zucker, 1 1/2 TL Stärke und 1 1/2 TL Glutamat. Bohnen und Brokkoli in Salzwasser aldente kochen und abgießen. Die Zwiebeln in Streifen schneiden. Frühlingszwiebeln im Ganzen vierteln und in Sterifen runterschneiden. Edelstahlpfanne hoch erhitzen und Öl hinzugeben. Wenn die Pfanne richtig heiß ist, Fleisch scharf anbraten. Dann Fleisch entfernen und das Gemüse ebenfalls kurz scharf anbraten. Anschließend mit der vorher vorbereiteen Sauce abschrecken und das Rind hinzugeben. Die Schärfe des Stir Fries mit einem halben TL Sambal Olek oder je nach Wunsch dosieren und mit dem Reis servieren.",
+      "notes": ["Erfordert verschiedene Saucen, genau das Rezept vorher durchlesen."]
     }
   ]
 }
