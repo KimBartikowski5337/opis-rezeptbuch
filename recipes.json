@@ -60,7 +60,7 @@
       "image": "images/flammkuchen.png",
       "prepTime": "20 Min",
       "cookTime": "15 Min",
-      "ingredients": ["Cherrytomaten ", "1 rote Zwiebel","1 Paprika", "1 Flammkuchenteig XXL", "1 Patros Kräuter Feta", "1 Creme Fraiche Kräuter"],
+      "ingredients": ["Cherrytomaten", "1 rote Zwiebel","1 Paprika", "1 Flammkuchenteig XXL", "1 Patros Kräuter Feta", "1 Creme Fraiche Kräuter"],
       "instructions": "Gemüse schneiden, Flammkuchen belegen, Flammkuchen im Ofen backen",
       "notes": ["Creme Fraiche salzen und pfeffern", "Leicht variierbar (z.B. Kürbis-Flammkuchen im Herbst 🍂"]
     },
@@ -76,7 +76,7 @@
       "image": "images/stanni.png",
       "prepTime": "20 Min",
       "cookTime": "25 Min",
-      "ingredients": ["Cherrytomaten ", "1 Zwiebel","2 Paprika", "1 Zuccini", "500g Rinderhack", "500g Fussili", "2 Creme Fraiche Kräuter"],
+      "ingredients": ["Cherrytomaten", "1 Zwiebel","2 Paprika", "1 Zuccini", "500g Rinderhack", "500g Fussili", "2 Creme Fraiche Kräuter"],
       "instructions": "Hack anbraten, Zwiebel dazugeben und mit Salz, Pfeffer und Knoblauchpulver abschmecken. Gemüse schneiden und mit anbraten, außer die Tomaten! Parallel die Nudeln kochen. Sobald die Pfanne Farbe hat, kann die Creme Fraiche dazugegeben werden und kurz vor dem Servieren die Cherry Tomaten.",
       "notes": ["Ein Drosselkamp-Klassiker 👨‍🍳"]
     },
@@ -156,7 +156,7 @@
       "image": "images/caesarSalad.png",
       "prepTime": "15",
       "cookTime": "20",
-      "ingredients": ["1 Block House Caesar Dressing", "Cherrytomaten ","1 Eisbergsalat", "1 Packung Ja! Weizenbaguettes", "600g Hähnchen", "1 Ofenkäse Gartenkräuter", "Parmesan", "Coutons Kräuter"],
+      "ingredients": ["1 Block House Caesar Dressing", "Cherrytomaten","1 Eisbergsalat", "1 Packung Ja! Weizenbaguettes", "600g Hähnchen", "1 Ofenkäse Gartenkräuter", "Parmesan", "Coutons Kräuter"],
       "instructions": "Hähnchen anbraten und mit Salz, Pfeffer, Knoblauch, Ingwer und Sojasoße abschmecken. Ofenkäse in Ofen tun, dazu das Baguette backen. Währenddessen den Salat schneiden und mit Crouons, Dressing und Parmesan dabei servieren.",
       "notes": [""]
     },
@@ -220,8 +220,8 @@
       "image": "images/spinatknoedel.png",
       "prepTime": "30",
       "cookTime": "30",
-      "ingredients": ["2 Zwiebeln", "6 Brötchen vom Vortag", "3 Eier", "Parmesan", "Butter", "Paniermehl", "750g TK Blattspinat fein gehackt"],
-      "instructions": "TK-Blattspinat auftauen und ausdrücken. Brötchen (6 altbackene) würfeln und in eine Schüssel geben. Zwiebel würfeln und in Butter glasig dünsten. Milch (175 ml) dazugeben, mit Salz, Pfeffer und Muskatnuss würzen und kurz erhitzen. Milch über die Brötchenwürfel gießen, Parmesan (3 EL), Paniermehl (7 EL), Spinat und Eier hinzufügen. Alles gut vermischen, bei Bedarf Paniermehl oder Milch ergänzen. Salzwasser erhitzen. Mit nassen Händen Knödel formen und im siedenden Wasser ca. 15 Minuten ziehen lassen.",
+      "ingredients": ["2 Zwiebeln", "6 Brötchen vom Vortag", "200g Emmentaler am Stück", "3 Eier", "Parmesan", "Butter", "Paniermehl", "750g TK Blattspinat fein gehackt"],
+      "instructions": "TK-Blattspinat auftauen und ausdrücken. Brötchen (6 altbackene) würfeln und in eine Schüssel geben. Zwiebel würfeln und in Butter glasig dünsten. Milch (175 ml) dazugeben, mit Salz, Pfeffer und Muskatnuss würzen und kurz erhitzen. Milch über die Brötchenwürfel gießen, Parmesan (3 EL), Paniermehl (7 EL), Spinat, gewürfelter Emmentaler und Eier hinzufügen. Alles gut vermischen, bei Bedarf Paniermehl oder Milch ergänzen. Salzwasser erhitzen. Mit nassen Händen Knödel formen und im siedenden Wasser ca. 15 Minuten ziehen lassen.",
       "notes": ["Extra Paniermehl/Semmelbrösel hinzugeben, wenn die Knödel sich noch zu feucht zum Ausbacken anfüllen.", "Vor dem Kochen die Knödel im Kühlschrank festigen lassen, damit sie beim Kochen nicht auseinanderfallen.", "Lassen sich gut einfrieren"]
     },
     {
@@ -607,6 +607,38 @@
       "ingredients": ["3 Zwiebeln", "Frühlingszwiebeln", "650g Kurzgebratenes Rindfleisch (Rinderhüfte, Roastbeef)", "350g Basmatireis", "500g TK Bohnen", "400g TK Brokkoli"],
       "instructions": "Rindfleisch in dünne Streifen schneiden. In 3 EL Stärke, 1 1/2 TL Zucker, 3 TL Backupulver, Ingwer, Pfeffer, 2 EL helle Sojasoße, 2 EL Erdnussöl und etwas kalten Wasser marinieren. Zusätzlich eine Sauce seperat in einer Schüssel vorbereiten aus 3 EL Austernsauce, 1 EL helle Sojasoße, 1 EL dunkle Sojasoße, 3 EL chinesicher Kochwein, 2 EL Wasser, 2 EL Zucker, 1 1/2 TL Stärke und 1 1/2 TL Glutamat. Bohnen und Brokkoli in Salzwasser aldente kochen und abgießen. Die Zwiebeln in Streifen schneiden. Frühlingszwiebeln im Ganzen vierteln und in Sterifen runterschneiden. Edelstahlpfanne hoch erhitzen und Öl hinzugeben. Wenn die Pfanne richtig heiß ist, Fleisch scharf anbraten. Dann Fleisch entfernen und das Gemüse ebenfalls kurz scharf anbraten. Anschließend mit der vorher vorbereiteen Sauce abschrecken und das Rind hinzugeben. Die Schärfe des Stir Fries mit einem halben TL Sambal Olek oder je nach Wunsch dosieren und mit dem Reis servieren.",
       "notes": ["Erfordert verschiedene Saucen, genau das Rezept vorher durchlesen."]
+    },
+    {
+      "id": 38,
+      "name": "Orange Chicken",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": false,
+      "carbohydrateSource": "Keine",
+      "days": 1,
+      "country": "China",
+      "image": "images/orangeChicken.png",
+      "prepTime": "30",
+      "cookTime": "30",
+      "ingredients": ["600g Hähnchenbrust", "200ml Orangensaft oder frische Orangen"],
+      "instructions": "Hühnerbrust in kleine Stücke schneiden und mit 2 EL Sojasoße, 1 EL Sesamöl und Ingwer marinieren. Panade aus 4 EL Maisstärke, 2 EL Mehl, Salz, Pfeffer und Knoblauchpulver panieren. Hühnerbrust in der Panade marinieren und in Rapsöl erstmalig frittieren. Anschließend Hühnchen rausnehmen und auf einem Gitter abtropfen lassen. 1EL Braunen Zucker in einer Pfanne karamellisieren lassen. 200ml Orangensaft mit 1 EL Reisessig vermischen und damit ablöschen. Hühnchen erneut frittieren. Die Soße bis zur gewünschten Konsistenz reduzieren und das Hühnchen hinzugeben.",
+      "notes": ["Am besten frische Orangen nehmen und pressen 🍊."]
+    },
+    {
+      "id": 39,
+      "name": "Avocado Pasta",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 1,
+      "country": "Mexiko",
+      "image": "images/avocadoPasta.png",
+      "prepTime": "5",
+      "cookTime": "15",
+      "ingredients": ["1 Avocado", "250g Cherry-Tomaten", "300g Spaghetti"],
+      "instructions": "Spaghetti kochen. Cherrytomaten vierteln und salzen. Avocado in einer Schüssel mit Salz und Pfeffer cremig verrühren und einen EL Pastawasser dazugeben. Die Soße zu den Spaghetti geben gemeinsam mit den Tomaten und frischen Parmesan genießen.",
+      "notes": ["Perfekt im Sommer 🏖️"]
     }
   ]
 }
