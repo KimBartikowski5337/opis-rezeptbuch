@@ -189,7 +189,7 @@
       "prepTime": "30",
       "cookTime": "45",
       "ingredients": ["1 große Zwiebel","2 große Karotten", "7 m. große Champignons", "1 Pck. Streukäse", "100g Kräuterfrischkäse","5 EL Milch", "500g passierte Tomaten", "150ml Sahne", "Lasagneplatten", "600g TK Rahmspinat"],
-      "instructions": "Schneide Karotten, Champignons und Zwiebel klein, brate Zwiebel an, dann restliches Gemüse kurz mit. Gib Milch dazu und erhitze Rahmspinat, bis er aufgetaut und die Soße leicht dick ist. Verrühre Frischkäse und Gemüsebrühpulver, lasse köcheln, würze mit Knoblauch, Salz, Pfeffer und Chili. Erhitze Butter, verrühre mit Mehl zu glatter Masse. Gib passierte Tomaten und Sahne dazu, koche auf, würze mit Knoblauch, Salz und Pfeffer. Bedecke Boden der Auflaufform mit Tomatensoße und Spinat, schichte Lasagneplatten, Spinat und Tomatensoße abwechselnd. Schließe mit Soße ab, bestreue mit Käse. Backe bei 180 °C Umluft ca. 30 Minuten, lasse danach im ausgeschalteten Ofen ruhen.",
+      "instructions": "Schneide Karotten, Champignons und Zwiebel klein, brate Zwiebel an, dann restliches Gemüse kurz mit. Gib Milch dazu und erhitze Rahmspinat, bis er aufgetaut und die Soße leicht dick ist. Verrühre Frischkäse und Gemüsebrühpulver, lasse köcheln, würze mit Knoblauch, Salz, Pfeffer und Chili. Erhitze 3 EL Butter, verrühre mit 2 EL Mehl zu glatter Masse. Gib passierte Tomaten und Sahne dazu, koche auf, würze mit Knoblauch, Salz und Pfeffer. Bedecke Boden der Auflaufform mit Tomatensoße und Spinat, schichte Lasagneplatten, Spinat und Tomatensoße abwechselnd. Schließe mit Soße ab, bestreue mit Käse. Backe bei 180 °C Umluft ca. 30 Minuten, lasse danach im ausgeschalteten Ofen ruhen.",
       "notes": ["Barilla Lasangeplatten sind die besten!"]
     },
     {
@@ -703,6 +703,38 @@
       "ingredients": ["300g Udon Nudeln", "2EL Erdnussbutter", "1 EL Chili Crisp", "2 Frühlingszwiebeln", "1 EL Sesamsamen"],
       "instructions": "In eine Edelstahlpfanne getrennt von einander die Erdnussbutter, den Chili Crisp, 2/3 der Frühlingszwiebel, Sesamsamen, 1 EL dunkle Sojasoße, 1 TL Reisessig geben - noch nicht verrühren!. In einem Topf die Nudeln in Salzwasser kochen, etwas Nudelwasser aufbewahren!. In einem seperaten Topf ca. 50 ml neutrales Öl hoch erhitzen. Das heiße Öl über die Zutaten in der Pfanne gießen und nun alles verrühren und 4 EL Nudelwasser hinzugeben. Dann die Nudeln mit unterrühren und auf dem Teller mit dem Rest der Frühlingszwiebeln garnieren.",
       "notes": [""]
+    },
+    {
+      "id": 44,
+      "name": "Ceviche",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": false,
+      "carbohydrateSource": "Kartoffeln",
+      "days": 1,
+      "country": "Peru",
+      "image": "images/ceviche.png",
+      "prepTime": "25",
+      "cookTime": "30",
+      "ingredients": ["1 große Dorade 🐟 ca. 500 Gramm", "1 rote Zwiebel", "2 Knoblauchzehen", "frische glatte Petersilie", "4 Limetten", "3 kl. Chilis", "1 große Süßkartoffel", "Gerösteter Mais"],
+      "instructions": "Süßkatoffel schälen und in Scheiben schneiden. In kaltes Salzwasser geben und sobald das Wasser kocht für ca. 20 Minuten kochen, anschließend vorsichtig abgießen. Fisch filettieren (s. Tipps) und in mittelgroße Würfel schneiden. Halbe Zwiebel in feine Scheiben schneiden und die andere Hälfte fein würfeln. Knoblauch und 2 Chilis schneiden. Nun 1 EL Fisch feinhacken, und mit dem Saft der Limetten, dem Knoblauch, der gehackten Chili, gehackter Zwiebel und etwas gehackter Petersilie in einen Mixer geben. Alles gut durchmixen und absieben! Restliche Chili, etwas Petersilie und die Zwiebelscheiben als extra Toppings zur Seite stellen. Ca. 15 Minuten bevor serviert werden soll, den Fisch in die abgesiebte Soße (Leche de Tigre) geben. Dann, den Fisch, gemeinsam mit den lauwarmen Süßkartoffelscheiben, den extra Toppings und dem gerösteten Mais servieren.",
+      "notes": ["Die Dorade frisch an dem Tag beim Fischhändler kaufen 🐟!", "Die Dorade am besten im Fischhandel entnehmen lassen!", "Nach dem Kauf den Fisch aus der Tüte nehmen, abtrocknen und auf einem flachen Teller mit Frischhaltefolie bedeckt in den Kühlschrank tun!.", "Die Fischfilets können am besten entfernt werden, indem man schräg, an den Mittelgräten runterschneidet und nach außen hin, eng an der Haut das Filet abtrennt. So werden aus jeder Hälfte jeweils 2 Filets."]
+    },
+    {
+      "id": 45,
+      "name": "Kichererbsen-Curry",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "Indien",
+      "image": "images/kichererbsenCurry.png",
+      "prepTime": "25",
+      "cookTime": "30",
+      "ingredients": ["2 Bio Limetten", "1 Schalotte", "1 Chili", "etwas frischer Ingwer", "5 Knoblauchzehen", "300g Griechischer Joghurt", "480g Reis", "500ml Aroy-D Kokosmilch", "2 Dosen Kichererbsen", "600g TK Blattspinat"],
+      "instructions": "Den griechischen Joghurt in einer Schale mit 1EL Mayonaise, dem Saft einer halben Limette und Salz und Pfeffer anrühren und im Kühlschrank ziehen lassen. Die Schale einer Drittel Limette, eine halbe Schalotte, die Knoblauchzehen, die Chili und den Ingwer mit einer guten Prise Salz in einem Mörser zu einer Paste stößeln. Nun den Reis anfangen zu kochen. Die Paste in einer Pfanne mit etwas Olivenöl anbraten und nach kurzer Zeit 1 EL Tomatenmark mit dazugeben. Einen guten Schuss Kokosmilch dazugeben. Dann den Blattspinat dazugeben und einkochen lassen. Dann den Rest der Kokosmilch, viel Kurkuma und geräucherte Paprika dazugeben und mit Salz abschmecken. Das Curry auf dem Reis servieren, einen Klecks von der Joghurtsoße drauf geben und die Limette dazugeben.",
+      "notes": ["Reicht sogar für 3 Tage"]
     }
   ]
 }
