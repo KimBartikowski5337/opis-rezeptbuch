@@ -735,6 +735,38 @@
       "ingredients": ["2 Bio Limetten", "1 Schalotte", "1 Chili", "etwas frischer Ingwer", "5 Knoblauchzehen", "300g Griechischer Joghurt", "480g Reis", "500ml Aroy-D Kokosmilch", "2 Dosen Kichererbsen", "600g TK Blattspinat"],
       "instructions": "Den griechischen Joghurt in einer Schale mit 1EL Mayonaise, dem Saft einer halben Limette und Salz und Pfeffer anrühren und im Kühlschrank ziehen lassen. Die Schale einer Drittel Limette, eine halbe Schalotte, die Knoblauchzehen, die Chili und den Ingwer mit einer guten Prise Salz in einem Mörser zu einer Paste stößeln. Nun den Reis anfangen zu kochen. Die Paste in einer Pfanne mit etwas Olivenöl anbraten und nach kurzer Zeit 1 EL Tomatenmark mit dazugeben. Einen guten Schuss Kokosmilch dazugeben. Dann den Blattspinat dazugeben und einkochen lassen. Dann den Rest der Kokosmilch, viel Kurkuma und geräucherte Paprika dazugeben und mit Salz abschmecken. Das Curry auf dem Reis servieren, einen Klecks von der Joghurtsoße drauf geben und die Limette dazugeben.",
       "notes": ["Reicht sogar für 3 Tage"]
+    },
+    {
+      "id": 46,
+      "name": "Pad Kra Pao",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": false,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "Thailand",
+      "image": "images/padKraPao.png",
+      "prepTime": "10",
+      "cookTime": "25",
+      "ingredients": ["Thai Basilikum", "2 rote Chilis", "5 Knoblauchzehen", "1 Schalotte", "4 Eier", "500g gemischtes Hack", "400g Reis"],
+      "instructions": "Das Hack bei hoher Hitze knusprig anbraten und anschließend aus der Pfanne nehmen! Reis kochen. Schalotte und Knoblauch fein hacken und die Chili in Scheiben schneiden. In der Pfanne die Chilis in etwas Öl anbraten, dann Zwiebeln und Knoblauch dazugeben, nach kurzer Zeit auch das Hack wieder in die Pfanne geben. Dann Thai Basilikum zupfen und in die Pfanne geben. 2 TL helle Sojasoße und 3 EL dunkle Sojasoße, 1 TL Austernsoße, 1 TL Fischsauce, 1TL braunen Zucker und 1 TL Glutamat dazugeben. Zum Schluss das Spiegelei braten und alles zusammen servieren.",
+      "notes": ["Thai Basilikum 🌿 im Asia Laden kaufen - liegt im Kühlschrank"]
+    },
+    {
+      "id": 47,
+      "name": "Tom Kha Gai",
+      "category": "Suppe",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "Thailand",
+      "image": "images/tomKhaGai.png",
+      "prepTime": "15",
+      "cookTime": "30",
+      "ingredients": ["7cm Galgant ODER Ingwer", "5 Stängel Zitronengras", "3 Chilischoten", "100g Enoki Pilze", "2 Limetten", "400g Champignons", "600g Hähnchenbrust", "800ml Kokosmilch", "200g Reis"],
+      "instructions": "Reis kochen. Das Zitronengras in 4 cm lange Stücke schneiden und mit dem Messerrücken leicht klopfen, Chilis entkernen und in Streifen schneiden und Galgant oder Ingwer schälen und in Scheiben schneiden. Die Brühe und die Hälfte der Kokosmilch zum Kochen bringen, und das Zitronengras, den Galgant und die Chilis hineingeben. Mit 5 EL Fischsauce würzen und 10 Minuten köcheln lassen. Die Champignons und Enoki-Pilze hinzufügen und weitere 5 Minuten kochen, dann das Hühnerfleisch unterrühren und wenige Minuten auf kleiner Flamme garen. Die restliche Kokosmilch zufügen und mit Limettensaft, Zucker und Fischsauce abschmecken. In Schalen anrichten und mit Chilistreifen garnieren.",
+      "notes": ["Zitronengras und Galgant im Asia Laden kaufen - liegt im Kühlschrank", "Zitronengras und Galgant oder Ingwer sind Würzzutaten und werden nicht mitgegessen. Wer sich das Trennen während des Essens ersparen möchte, fischt sie mit einem Schaumlöffel aus der Suppe, bevor die Pilze dazu kommen."]
     }
   ]
 }
