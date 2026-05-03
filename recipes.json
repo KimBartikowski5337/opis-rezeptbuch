@@ -540,7 +540,7 @@
       "image": "images/nudelnFischSpinat.png",
       "prepTime": "25",
       "cookTime": "20",
-      "ingredients": ["2 Schalotten", "1 Bio Zitrone", "500g Bandnudeln","500g TK Kabeljaufilet"],
+      "ingredients": ["2 Schalotten", "1 Bio Zitrone", "200g Schmand", "500g Bandnudeln","500g TK Kabeljaufilet"],
       "instructions": "Kabeljau 2-3 Stunden vor Zubereitung im Kühlschrank auftauen lassen und trocken tupfen. In mundgerechte Stücke schneiden, leicht salzen und pfeffern. Schalotten fein würfeln. Butter in einer großen Pfanne erhitzen, Schalotten glasig andünsten. Mit Gemüsebrühe ablöschen und 5 Minuten köcheln lassen. TK Spinat hinzugeben und auftauen lassen. Schmand einrühren und mit Salz, Pfeffer, Knoblauchpulver, Muskatnuss, Zitronensaft und etwas Zitronenabrieb abschmecken. Kabeljau vorsichtig in die Sauce geben und bei mittlerer Hitze 8-10 Minuten ziehen lassen, nicht kochen. Währenddessen Nudeln nach Packungsanweisung kochen. Wenn gewünscht Dill unter die Sauce heben. Mit den abgetropften Nudeln servieren und zusätzlichem Dill und Zitrone servieren.",
       "notes": [""]
     },
@@ -572,8 +572,8 @@
       "image": "images/burger.png",
       "prepTime": "20",
       "cookTime": "25",
-      "ingredients": ["1 Zwiebel", "1 große Rispentomate", "1 Eisbergsalat", "Burgerbrötchen", "500g Rindfleisch", "Schmelzkäsescheiben"],
-      "instructions": "Rindfleisch in 125g Portionen aufteilen und mit einem kleinem Schuss Worcestersauce würzen. Patties formen, dabei 50% breiter als das Burger Bun formen, da sich die Patties noch zusammenziehen. Noch nicht salzen! Burgerpatties in den Kühlschrank stellen. Zwiebel in Ringe schneiden. Tomate in Scheiben schneiden. Vom Eisbergsalat schöne Salatblätter zupfen. Brötchen aufschneiden und das Innere der Brötchenseiten je nach Geschmack in einer Pfanne mit etwas Butter anrösten oder im Ofen backen. Pommes im Airfryer für ca. 15 Minuten in den Airfryer geben und regelmäßig schütteln. Nun Patties aus dem Kühlschrank holen, salzen und in einer sehr heißen Edelstahlpfanne braten. Nach dem Wenden eine Scheibe Schmelzkäse auf jedes Patty legen und die Pfanne mit einem Deckel verschließen, damit der Käse anschmilzt. Nun Burger zusammenbauen, als Soßen z.B. Mayo und Ketchup und mit Pommes und Cola servieren. ",
+      "ingredients": ["1 Zwiebel", "1 große Rispentomate", "1 Eisbergsalat", "Burgerbrötchen", "500g Rindfleisch", "Schmelzkäsescheiben", "TK Pommes"],
+      "instructions": "Rindfleisch in 125g Portionen aufteilen und mit einem kleinem Schuss Worcestersauce würzen. Patties formen, dabei 50% breiter als das Burger Bun formen, da sich die Patties noch zusammenziehen. Noch nicht salzen! Burgerpatties in den Kühlschrank stellen. Zwiebel in Ringe schneiden. Tomate in Scheiben schneiden. Vom Eisbergsalat schöne Salatblätter zupfen. Brötchen aufschneiden und das Innere der Brötchenseiten je nach Geschmack in einer Pfanne mit etwas Butter anrösten oder im Ofen backen. Pommes für ca. 15 Minuten in den Airfryer geben und regelmäßig schütteln. Nun Patties aus dem Kühlschrank holen, salzen und in einer sehr heißen Edelstahlpfanne braten. Nach dem Wenden eine Scheibe Schmelzkäse auf jedes Patty legen und die Pfanne mit einem Deckel verschließen, damit der Käse anschmilzt. Nun Burger zusammenbauen, als Soßen z.B. Mayo und Ketchup und mit Pommes und Cola servieren. ",
       "notes": ["Burgerpatties können bereits einige Stunden im Vorraus geformt werden. Das Durchkühlen im Kühlschrank verhindert, dass sie beim Braten auseinanderfallen!"]
     },
     {
@@ -669,7 +669,7 @@
       "prepTime": "20",
       "cookTime": "25",
       "ingredients": ["400g Cherrytomaten", "3 helle Zwiebeln", "3 rote Zwiebeln", "frische glatte Petersilie", "1 Zitrone", "600g Hühnchen", "1 ganzer Knoblauch", "300g Reis", "200g griechischer Joghurt"],
-      "instructions": "Die Hähnchenbrustfilets der Länge nach einmal durchschneiden, um mehrere kleiner Filets zu haben. In einer Schüssel das Hähnchen mit 2 Zehen Knoblauch, 3 TL Olivenöl, dem Saft einer halben Zitrone, 1 TL Paprika edelsüß, 1 TL Zwiebelpulver, 2 TL Kurkuma, 2 TL Pfeffer, 1 TL Salz und 1 TL Hühnerbrühe vermischen und einmassieren. Anschließend solange marinieren lassen wie möglich. Nun in einer unbeschichteten Pfanne das Hähnchen auf hoher Hitze fertig braten. Anschließend aus der Pfanne nehmen. Zwiebeln schneiden und in die vorher benutzte Pfanne mit ca. 30 Gramm Butter geben. Glasig braten. Anschließend Reis in die Pfanne (!) hinzugeben, mit 1 TL Kurkuma, 2 TL Paprika edelsüß, 2 TL Knoblauchpulver, 2 TL Pfeffer und 2 TL Hühnerbrühe würzen und mit der 1,8 fachen Menge an Wasser aufgießen. Deckel drauf und ca. 20 mMinuten bei geringer hitze köcheln lassen. In der Zwischenzeit die roten Zwiebeln in dünne Ringe schneiden und die Cherry-Tomaten vierteln. Zwiebeln und Tomaten in einer Schüssel mit dem Saft einer halben Zitrone, 3 TL Olivenöl, 1 TL Salz und 1 TL Pfeffer vermischen. Für die Knoblauchsauce den griechischen Joghurt mit der Hälfte der Menge Mayonaise vermischen. 1 Knoblauchzehe, dem Saft einer halben Zitrone, 2 TL Olivenöl, 1 TL Salz, 1 TL Pfeffer hinzugeben und die Sauce im Kühlschrank ziehen lassen. Sobald der Reis fertig ist, das Hähnchen in der Mikrowelle erhitzen, in Streifen schneiden und alles gemeinsam auf einem tiefen Teller als Bowl servieren.",
+      "instructions": "Die Hähnchenbrustfilets der Länge nach einmal durchschneiden, um mehrere kleiner Filets zu haben. In einer Schüssel das Hähnchen mit 2 Zehen Knoblauch, 3 TL Olivenöl, dem Saft einer halben Zitrone, 1 TL Paprika edelsüß, 1 TL Zwiebelpulver, 2 TL Kurkuma, 2 TL Pfeffer, 1 TL Salz und 1 TL Hühnerbrühe vermischen und einmassieren. Anschließend solange marinieren lassen wie möglich. Nun in einer unbeschichteten Pfanne das Hähnchen auf hoher Hitze fertig braten. Anschließend aus der Pfanne nehmen. Die weißen Zwiebeln schneiden und in die vorher benutzte Pfanne mit ca. 30 Gramm Butter geben. Glasig braten. Anschließend Reis in die Pfanne (!) hinzugeben, mit 1 TL Kurkuma, 2 TL Paprika edelsüß, 2 TL Knoblauchpulver, 2 TL Pfeffer und 2 TL Hühnerbrühe würzen und mit der 1,8 fachen Menge an Wasser aufgießen. Deckel drauf und ca. 20 mMinuten bei geringer hitze köcheln lassen. In der Zwischenzeit die roten Zwiebeln in dünne Ringe schneiden und die Cherry-Tomaten vierteln. Zwiebeln und Tomaten in einer Schüssel mit dem Saft einer halben Zitrone, 3 TL Olivenöl, 1 TL Salz und 1 TL Pfeffer vermischen. Für die Knoblauchsauce den griechischen Joghurt mit einem Viertel der Menge Mayonaise vermischen. 1 Knoblauchzehe, dem Saft einer halben Zitrone, 2 TL Olivenöl, 1 TL Salz, 1 TL Pfeffer hinzugeben und die Sauce im Kühlschrank ziehen lassen. Sobald der Reis fertig ist, das Hähnchen in der Mikrowelle erhitzen, in Streifen schneiden und alles gemeinsam auf einem tiefen Teller als Bowl servieren.",
       "notes": [""]
     },
     {
@@ -764,9 +764,41 @@
       "image": "images/tomKhaGai.png",
       "prepTime": "15",
       "cookTime": "30",
-      "ingredients": ["7cm Galgant ODER Ingwer", "5 Stängel Zitronengras", "3 Chilischoten", "100g Enoki Pilze", "2 Limetten", "400g Champignons", "600g Hähnchenbrust", "800ml Kokosmilch", "200g Reis"],
+      "ingredients": ["7cm Galgant ODER Ingwer", "5 Stängel Zitronengras", "3 Chilischoten", "100g Enoki Pilze", "2 Limetten", "400g Champignons", "600g Hähnchenbrust", "800ml Aroy D Kokosmilch", "200g Reis"],
       "instructions": "Reis kochen. Das Zitronengras in 4 cm lange Stücke schneiden und mit dem Messerrücken leicht klopfen, Chilis entkernen und in Streifen schneiden und Galgant oder Ingwer schälen und in Scheiben schneiden. Die Brühe und die Hälfte der Kokosmilch zum Kochen bringen, und das Zitronengras, den Galgant und die Chilis hineingeben. Mit 5 EL Fischsauce würzen und 10 Minuten köcheln lassen. Die Champignons und Enoki-Pilze hinzufügen und weitere 5 Minuten kochen, dann das Hühnerfleisch unterrühren und wenige Minuten auf kleiner Flamme garen. Die restliche Kokosmilch zufügen und mit Limettensaft, Zucker und Fischsauce abschmecken. In Schalen anrichten und mit Chilistreifen garnieren.",
       "notes": ["Zitronengras und Galgant im Asia Laden kaufen - liegt im Kühlschrank", "Zitronengras und Galgant oder Ingwer sind Würzzutaten und werden nicht mitgegessen. Wer sich das Trennen während des Essens ersparen möchte, fischt sie mit einem Schaumlöffel aus der Suppe, bevor die Pilze dazu kommen."]
+    },
+    {
+      "id": 48,
+      "name": "Mexikanische Bowl",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "Mexiko",
+      "image": "images/mexikanischeBowl.png",
+      "prepTime": "15",
+      "cookTime": "15",
+      "ingredients": ["2 rote Zwiebeln", "500g Cherrytomaten", "1 Packung Romana Salat", "1 gelbe Paprika", "2 Avocados", "1 Zitrone", "600g Hähnchen", "200g Naturjoghurt", "1 kleine Dose Kidneybohnen", "1 Dose Mais"],
+      "instructions": "Salat, Paprika, rote Zwiebeln, und Cherrytomaten mundgerecht vorbereiten. Die Hälfte der Avocado ebenfalls in Scheiben schneiden. Für die Soße in einer Schüssel die andere Hälfte der Avocado, mit dem Saft einer halben Zitrone, 1 TL Avocado Gewürz und 1 TL Agavendicksaft, 2 EL Naturjoghurt und 1 EL Weißweinessig und einem Schuss Milch vermengen. Reis kochen. Das Hähnchen mit Salz, Paprikapulver und Knoblauch würzen und anbraten. Nun alles als Bowl anrichten und nach Geschmack würzen.",
+      "notes": [""]
+    },
+    {
+      "id": 49,
+      "name": "Nudeln in Spargel-Feta-Soße",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/nudelnSpargelFeta.png",
+      "prepTime": "15",
+      "cookTime": "30",
+      "ingredients": ["500g Cherrytomaten", "1 Knoblauch", "500g grüner Spargel", "2 Feta 'Natur'", "500g Spaghetti"],
+      "instructions": "Feta im Ganzen in die Auflaufform legen. Cherrytomaten vierteln und mit in die Auflaufform geben. Vom Spargel das holzige Ende abschneiden - den Rest des Spargels in mundgerechte Stücke schneiden und zu den Tomaten und dem Feta geben. 4 Knoblauchzehen schneiden und mit in die Auflaufform geben und alles mit Olivenöl, Salz und Pfeffer würzen und vermengen. Auflaufform bei 200 Grad für 30 Minuten in den Ofen geben. Spaghettis so kochen, dass sie pünktlich mit der Auflaufform fertig sind. Beim Abgießen etwas Nudelwasser behalten und die Spaghetti darin mit etwas kalter Butter umrühren. Sobald die Auflaufform fertig ist, alles in der AUflaufform kräftig verrühren, damit der Feta eine Soße bildet. Nun die Soße gemeinsam mit den Nudeln servieren.",
+      "notes": [""]
     }
   ]
 }
