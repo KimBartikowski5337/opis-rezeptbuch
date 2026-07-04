@@ -385,8 +385,8 @@
       "notes": [""]
     },
     {
-      "id": 24,
-      "name": "Curry mit Reis",
+      "id": 25,
+      "name": "Indisches Curry mit Reis",
       "category": "Sonstiges",
       "vegetarian": false,
       "groupFriendly": true,
@@ -397,11 +397,11 @@
       "prepTime": "25",
       "cookTime": "25",
       "ingredients": ["1 Limette", "1 Zwiebel", "1 große Karotte","600g Hähnchen", "400g Reis", "400g Kokosmilch", "Gelbe Currypaste"],
-      "instructions": "Öl erhitzen, Hähnchenbrustwürfel scharf anbraten und beiseitestellen. Gehackte Zwiebel und Karottenscheiben andünsten. Currypaste kurz mitbraten. Gekochten Reis nach Packungsanleitung zubereiten. Kokosmilch dazugeben und kurz aufkochen lassen. Hähnchen zurück in die Soße geben und köcheln lassen, bis es gar ist. Limettensaft, Fischsauce (optional), Zucker (optional), Salz und Pfeffer dazugeben und abschmecken. Einen Stich Butter einrühren, um die Soße zu binden. Hähnchen-Curry mit Reis servieren.",
+      "instructions": "Öl erhitzen, Hähnchenbrustwürfel scharf anbraten und beiseitestellen. Gehackte Zwiebel und Karottenscheiben andünsten. 2 TL Currypaste kurz mitbraten. Reis kochen. Wenn das Gemüse glasig angebraten ist, Kokosmilch zur Pfanne dazugeben und kurz aufkochen lassen. Hähnchen zurück in die Soße geben und köcheln lassen, bis es gar ist. Limettensaft, Fischsauce (optional), Zucker (optional), Salz und Pfeffer dazugeben und abschmecken. Einen Stich Butter einrühren, um die Soße zu binden. Hähnchen-Curry mit Reis servieren.",
       "notes": [""]
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "Kürbissuppe",
       "category": "Suppe",
       "vegetarian": true,
@@ -417,7 +417,7 @@
       "notes": [""]
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "Jägerschnitzel",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -433,7 +433,7 @@
       "notes": ["Schweineschnitzel könnnen mit Kalbschnitzel ersetzt werden."]
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "Saganaki mit Kritharaki Salat",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -444,12 +444,12 @@
       "image": "images/saganaki.png",
       "prepTime": "30",
       "cookTime": "15",
-      "ingredients": ["200g Rucola", "250g Cherrytomaten", "1 Bio-Zitrone", "1 Ei", "2 Blöcke neutraler Feta", "300g Mozarella", "Honig", "Paniermehl", "300g Kritharaki-Nudeln", "60g getrocknete Tomaten ohne Öl "],
+      "ingredients": ["200g Rucola", "250g Cherrytomaten", "1 Bio-Zitrone", "1 Ei", "2 Blöcke neutraler Feta", "300g Mozarella", "Honig", "50g Pinienkerne", "Paniermehl", "300g Kritharaki-Nudeln", "60g getrocknete Tomaten ohne Öl "],
       "instructions": "Koche Kritharaki, schrecke sie mit kaltem Wasser ab und lasse sie abtropfen, röste Pinienkerne ohne Öl goldbraun und lasse sie auskühlen, wasche Rucola, viertel die Tomaten, schneide den Mozzarella klein, schneide getrocknete Tomaten in Streifen. Alles zusammen in eine große Schüssel geben. Dressing aus 3 EL Olivenöl, 1EL Essig, 3EL Wasser, Saft einer halben Zitrone und Abrieb einer halben Zitrone, 1 TL Salz, 1 TL Pfeffer, 1TL italienische Kräuter, 1TL Honig oder Rohrzucker anrühren und in der Salatschüssel unterheben. Salat in den Kühlschrank stellen. Trockne die 2 Blöcke Feta ab, verrühre in einem tiefen Teller 1 Ei, 1 TL Oregano, 1 TL Thymian und 1/8 TL schwarzen Pfeffer zu einer glatten Masse, stelle separate Teller mit 50g Mehl, der gewürzten Ei-Masse und 80g Paniermehl bereit (verwende selbstgemachtes Paniermehl oder welches vom Bäcker), wende jeden Feta-Block zuerst im Mehl, dann in der Ei-Masse und anschließend im Paniermehl. Saganaki in Airfryer legen, mit etwas Öl-Spray besprühen und ca. 10 Minuten goldbraun backen. Zusammen mit dem Kritharaki Salat servieren.",
       "notes": [""]
     },
     {
-      "id": 28,
+      "id": 29,
       "name": "Crepes",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -465,7 +465,7 @@
       "notes": ["Ideen, um den Crepe zu belegen: Käse & Schinken, Zimt & Zucker, Nutella"]
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "Raclette",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -481,7 +481,7 @@
       "notes": [""]
     },
     {
-      "id": 30,
+      "id": 31,
       "name": "Kartoffelsuppe",
       "category": "Suppe",
       "vegetarian": false,
@@ -497,7 +497,7 @@
       "notes": [""]
     },
     {
-      "id": 31,
+      "id": 32,
       "name": "Pad Thai",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -513,7 +513,7 @@
       "notes": ["Tamarindenpaste gibt es im Asialaden", "Kann auch vegetarisch mit Tofu zubereitet werden"]
     },
     {
-      "id": 32,
+      "id": 33,
       "name": "Rindergulasch",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -529,7 +529,7 @@
       "notes": ["Schmeckt am zweiten Tag noch besser", "Auch sehr lecker mit Klößen oder Bandnudeln."]
     },
     {
-      "id": 33,
+      "id": 34,
       "name": "Nudeln mit Fisch und Blattspinat",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -545,7 +545,7 @@
       "notes": [""]
     },
     {
-      "id": 34,
+      "id": 35,
       "name": "Traditionelle spanische Tortilla",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -561,7 +561,7 @@
       "notes": [""]
     },
     {
-      "id": 35,
+      "id": 36,
       "name": "Burger",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -577,7 +577,7 @@
       "notes": ["Burgerpatties können bereits einige Stunden im Vorraus geformt werden. Das Durchkühlen im Kühlschrank verhindert, dass sie beim Braten auseinanderfallen!"]
     },
     {
-      "id": 36,
+      "id": 37,
       "name": "Cremigste Pasta",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -593,7 +593,7 @@
       "notes": ["Wer Fleisch dazu möchte kann Pancetta in Würfel schneiden, langsam in der Pfanne ausgehen lassen und zu den Nudeln servieren."]
     },
     {
-      "id": 37,
+      "id": 38,
       "name": "Beef Stir Fry",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -609,7 +609,7 @@
       "notes": ["Erfordert verschiedene Saucen, genau das Rezept vorher durchlesen."]
     },
     {
-      "id": 38,
+      "id": 39,
       "name": "Orange Chicken",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -625,7 +625,7 @@
       "notes": ["Am besten frische Orangen nehmen und pressen 🍊."]
     },
     {
-      "id": 39,
+      "id": 40,
       "name": "Avocado Pasta",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -641,7 +641,7 @@
       "notes": ["Perfekt im Sommer 🏖️"]
     },
     {
-      "id": 40,
+      "id": 41,
       "name": "Strawberry Sticky Rice",
       "category": "Nachtisch",
       "vegetarian": true,
@@ -657,7 +657,7 @@
       "notes": ["Erfordert einen Bambus-Dampfgarer", "Die richtige 🥥milch ist wichtig für das Ergebnis", "Den High Gluten Thai Rice findet man im Asia-Laden 🍚"]
     },
     {
-      "id": 41,
+      "id": 42,
       "name": "Chicken-Scharwarma Rice Bowl",
       "category": "One Pot Gericht",
       "vegetarian": false,
@@ -673,7 +673,7 @@
       "notes": [""]
     },
     {
-      "id": 42,
+      "id": 43,
       "name": "Vegetarischer Kartoffel-Sojahack-Auflauf",
       "category": "Auflauf",
       "vegetarian": true,
@@ -689,7 +689,7 @@
       "notes": ["Mandelmus und Sojaschnetzel gibt es Bio im DM zu kaufen."]
     },
     {
-      "id": 43,
+      "id": 44,
       "name": "Erdnuss-Chili-Nudeln",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -705,7 +705,7 @@
       "notes": [""]
     },
     {
-      "id": 44,
+      "id": 45,
       "name": "Ceviche",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -721,7 +721,7 @@
       "notes": ["Die Dorade frisch an dem Tag beim Fischhändler kaufen 🐟!", "Die Dorade am besten im Fischhandel entnehmen lassen!", "Nach dem Kauf den Fisch aus der Tüte nehmen, abtrocknen und auf einem flachen Teller mit Frischhaltefolie bedeckt in den Kühlschrank tun!.", "Die Fischfilets können am besten entfernt werden, indem man schräg, an den Mittelgräten runterschneidet und nach außen hin, eng an der Haut das Filet abtrennt. So werden aus jeder Hälfte jeweils 2 Filets.", "Kabeljau ist eine günstige Alternative zu Dorade"]
     },
     {
-      "id": 45,
+      "id": 46,
       "name": "Kichererbsen-Curry",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -737,7 +737,7 @@
       "notes": ["Reicht sogar für 3 Tage"]
     },
     {
-      "id": 46,
+      "id": 47,
       "name": "Pad Kra Pao",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -753,7 +753,7 @@
       "notes": ["Thai Basilikum 🌿 im Asia Laden kaufen - liegt im Kühlschrank"]
     },
     {
-      "id": 47,
+      "id": 48,
       "name": "Tom Kha Gai",
       "category": "Suppe",
       "vegetarian": false,
@@ -769,7 +769,7 @@
       "notes": ["Zitronengras und Galgant im Asia Laden kaufen - liegt im Kühlschrank", "Zitronengras und Galgant oder Ingwer sind Würzzutaten und werden nicht mitgegessen. Wer sich das Trennen während des Essens ersparen möchte, fischt sie mit einem Schaumlöffel aus der Suppe, bevor die Pilze dazu kommen."]
     },
     {
-      "id": 48,
+      "id": 49,
       "name": "Mexikanische Bowl",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -782,23 +782,103 @@
       "cookTime": "15",
       "ingredients": ["2 rote Zwiebeln", "500g Cherrytomaten", "1 Packung Romana Salat", "1 gelbe Paprika", "2 Avocados", "1 Zitrone", "600g Hähnchen", "200g Naturjoghurt", "1 kleine Dose Kidneybohnen", "1 Dose Mais"],
       "instructions": "Salat, Paprika, rote Zwiebeln, und Cherrytomaten mundgerecht vorbereiten. Die Hälfte der Avocado ebenfalls in Scheiben schneiden. Für die Soße in einer Schüssel die andere Hälfte der Avocado, mit dem Saft einer halben Zitrone, 1 TL Avocado Gewürz und 1 TL Agavendicksaft, 2 EL Naturjoghurt und 1 EL Weißweinessig und einem Schuss Milch vermengen. Reis kochen. Das Hähnchen mit Salz, Paprikapulver und Knoblauch würzen und anbraten. Nun alles als Bowl anrichten und nach Geschmack würzen.",
-      "notes": [""]
+      "notes": ["¡Viva Mexico! 👒"]
     },
     {
-      "id": 49,
+      "id": 50,
       "name": "Nudeln in Spargel-Feta-Soße",
       "category": "Sonstiges",
       "vegetarian": true,
       "groupFriendly": true,
       "carbohydrateSource": "Nudeln",
-      "days": 2,
+      "days": 1,
       "country": "Deutschland",
       "image": "images/nudelnSpargelFeta.png",
       "prepTime": "15",
       "cookTime": "30",
-      "ingredients": ["500g Cherrytomaten", "1 Knoblauch", "500g grüner Spargel", "2 Feta 'Natur'", "500g Spaghetti"],
-      "instructions": "Feta im Ganzen in die Auflaufform legen. Cherrytomaten vierteln und mit in die Auflaufform geben. Vom Spargel das holzige Ende abschneiden - den Rest des Spargels in mundgerechte Stücke schneiden und zu den Tomaten und dem Feta geben. 4 Knoblauchzehen schneiden und mit in die Auflaufform geben und alles mit Olivenöl, Salz und Pfeffer würzen und vermengen. Auflaufform bei 200 Grad für 30 Minuten in den Ofen geben. Spaghettis so kochen, dass sie pünktlich mit der Auflaufform fertig sind. Beim Abgießen etwas Nudelwasser behalten und die Spaghetti darin mit etwas kalter Butter umrühren. Sobald die Auflaufform fertig ist, alles in der AUflaufform kräftig verrühren, damit der Feta eine Soße bildet. Nun die Soße gemeinsam mit den Nudeln servieren.",
-      "notes": [""]
+      "ingredients": ["250g Cherrytomaten", "1 Knoblauch", "250g grüner Spargel", "1 Feta 'Natur'", "250g Spaghetti"],
+      "instructions": "Feta im Ganzen in die Auflaufform legen. Cherrytomaten vierteln und mit in die Auflaufform geben. Vom Spargel das holzige Ende abschneiden - den Rest des Spargels in mundgerechte Stücke schneiden und zu den Tomaten und dem Feta geben. 2 Knoblauchzehen schneiden und mit in die Auflaufform geben und alles mit Olivenöl, Salz und Pfeffer würzen und vermengen. Auflaufform bei 200 Grad für 30 Minuten in den Ofen geben. Spaghettis so kochen, dass sie pünktlich mit der Auflaufform fertig sind. Beim Abgießen etwas Nudelwasser behalten und die Spaghetti darin mit etwas kalter Butter umrühren. Sobald die Auflaufform fertig ist, alles in der AUflaufform kräftig verrühren, damit der Feta eine Soße bildet. Nun die Soße gemeinsam mit den Nudeln servieren.",
+      "notes": ["Schmeckt am 1. Tag am besten - da ist der Spargel noch knackig."]
+    },
+    {
+      "id": 51,
+      "name": "Brunch",
+      "category": "Frühstück",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Brot",
+      "days": 2,
+      "country": "Deutschland",
+      "image": "images/brunch.png",
+      "prepTime": "30",
+      "cookTime": "20",
+      "ingredients": ["Avocado", "Cherry-Tomaten", "Tomaten für Tomate-Mozarella", "Eier", "Geräucherter Lachs", "Mittelalten Beemster oder Old Amsterdam", "Géramont", "Mozarella", "Goudascheiben", "Frischkäse", "Hähnchenbrust-Aufschnitt", "Bio-Bacon", "Den Gamle Fabrik Erdbeermarmelade", "Nutella"],
+      "instructions": "Avocado und Tomaten zusammen auf einem Teller anrichten und mit Olivenöl und Paprika- Knoblauchpulver, Salz und Pfeffer würzen. Géramont in Herzform schneiden.",
+      "notes": ["Hier gibt es nur Einkaufsideen zu sehen 🛒"]
+    },
+    {
+      "id": 52,
+      "name": "Nudeln mit Basilikum-Pesto",
+      "category": "Sonstiges",
+      "vegetarian": true,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 1,
+      "country": "Italien",
+      "image": "images/nudelnBasilikumPesto.png",
+      "prepTime": "10",
+      "cookTime": "15",
+      "ingredients": ["1 kleine Knoblauchzehe", "25g Basilikum-Blätter", "25g Parmesan", "25g Pinienkerne","35ml Olivenöl"],
+      "instructions": "Pinienkerne in einer beschichteten Pfanne ohne Fett auf mittlerer Hitze rösten. Basilikumblätter zupfen, abwaschen und mit Zewa trocknen. Knoblauchzehe grob würfeln. In einem hohen Rührbecher die Basilikumblätter, das Olivenöl, die Pinienkerne, den Knoblauch, 1/8 TL Salz und 1/8 TL schwarzen Pfeffer mit einem Pürierstab pürieren. Den Parmesan fein reiben und im Pesto unterheben. Mit Salz abschmecken.",
+      "notes": ["Das Pesto wird im Kühlschrank schnell etwas braun - das ist normal aufgrund der Reaktion mit der Luft 🌿."]
+    },
+    {
+      "id": 53,
+      "name": "Weißkohl-Salat",
+      "category": "Salat",
+      "vegetarian": true,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 1,
+      "country": "Deutschland",
+      "image": "images/weißkohlSalat.png",
+      "prepTime": "30",
+      "cookTime": "5",
+      "ingredients": ["1 Weißkohlkopf", "2 Apfel"],
+      "instructions": "Kohl fein schneiden, in eine Schüssel geben, mit Salz bestreuen und gut durchkneten, dann den Kohl beiseite stellen. Äpfel in sehr feine Scheiben schneiden und sofort mit etwas Zitronensaft vermengen, damit sie nicht braun werden und in den Kühlschrank stellen. In einer kleinen Schüssel 2 TL Zucker, 6 TL Olivenöl , 3 TL Essig, und Pfeffer verrühren. Dann den Saft aus dem Kohl ausdrücken und das ausgetrenene Wasser wegschütten. Das Dressing und den Kohl vermengen und für 15 Minuten im Kühlschrank ziehen lassen. Beim Servieren die Apfelscheiben auf den Kohlsalat legen und kräftig mit Zimt bestreuen. ",
+      "notes": ["Zitronensaft hält Äpfel weiß, weil der darin enthaltene Sauerstoff durch die Inhaltsstoffe der Zitrone neutralisiert wird 🍋"]
+    },
+    {
+      "id": 54,
+      "name": "Paella",
+      "category": "One Pot Gericht",
+      "vegetarian": true,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "Spanien",
+      "image": "images/paella.png",
+      "prepTime": "15",
+      "cookTime": "35",
+      "ingredients": ["1 weiße Zwiebel mittelgroß", "3 Knoblauchzehen", "1 Bio-Zitrone", "1 große rote Spitzpaprika", "600g Hühnerbrust", "250g Paella/Risotto-Reis Sorte Arborio", "100g passierte Tomaten", "100g TK-Erbsen", "150g TK-Bohnen", "250g TK-Meeresfrüchte (Mix aus Muscheln, Scampi, Calamari)"],
+      "instructions": "TK-Meeresfrüchte auftauen. Zwiebeln, Knoblauchzehen und die Paprikaschote in kleine Würfel schneiden. Die Hähnchenbrust in Würfel schneiden und mit 2 TL Paprikapulver und etwas Salz und Pfeffer würzen. In einer großen, unbeschichteten Pfanne mit hohem Rand (mindestens 7cm) 1 EL Olivenöl erhitzen und auf hoher Stufe die Hähnchenbrust gemeinsam mit der Paprika anbraten. Den Ofen auf 220 Grad Ober/Unterhitze vorheizen! Dann aus der Pfanne nehmen und zur Seite stellen! Nun nochmals 2 EL Olivenöl in die Pfanne geben und Zwiebeln und Knoblauch-Wüfel glasig andünsten. Dann 100g passierte Tomaten in die Pfanne dazugeben und 250g UNGEKOCHTEN Paella Reis dazugeben und alles verrühren. Nach kurzer Zeit mit 800ml Gemüsebrühe ablösen, 1/2 TL Safranfäden hinzugeben, kurz aufkochen lassen und dann die Pfanne für 20 Minuten ohne Deckel in den vorgeheizten Backofen stellen. In der Zwischenzeit die Bohnen in Salzwasser al dente kochen. Nach Ablauf der 20 Minuten die Pfanne aus dem Ofen holen und die Meeresfrüchte, die Erbsen, Paprikawürfel, Hähnchenbrust und 2 Lorbeerblätter unterrühren. Dann die Pfanne für weitere 15 Minuten in den Ofen geben. Zum Ende die Paella Pfanne mit Zitronenscheiben verzieren und servieren.",
+      "notes": ["Unbedingt im Kühlschrank nach dem Essen lagern 🧊 - aufgrund der Meeresfrüchte 🍤"]
+    },
+    {
+      "id": 55,
+      "name": "Menemen",
+      "category": "One Pot Gericht",
+      "vegetarian": true,
+      "groupFriendly": false,
+      "carbohydrateSource": "Brot",
+      "days": 1,
+      "country": "Türkei",
+      "image": "images/menemen.png",
+      "prepTime": "15",
+      "cookTime": "20",
+      "ingredients": ["1 Zwiebel", "1 große Knoblauchzehe","250g Cherry-Tomaten", "1 JA! Steinofenbaguette", "6 Eier", "1 Feta 'Natur'", "500g passierte Tomaten"],
+      "instructions": "Zwiebel und Koblauch fein würfeln und in 1 EL Olivenöl andünsten. Das Steinofenbaguette im Ofen aufbacken. Dann die Tomaten dazugeben und alles mit Salz, Pfeffer, reichlich Paprikapulver edelsüß und etwas Paprikapulver geräuchert würzen. Nach kurzer Zeit auch die passierten Tomaten dazugeben und mit etwas Knoblauchpulver, Oregano und Thymian und etwas Salz würzen. Dann die Eier in die Pfanne aufschlagen, etwas Salz darübergeben und mit Deckel bei mittlerer Hitze stocken lassen. Zum Schluss in die Pfanne den Feta bröseln und mit Kräutern verzieren. Dazu kann noch Zitrone oder Zitronensaft gereicht werden. In der Pfanne servieren und das Brot dazustellen.",
+      "notes": ["Kann stark abgewandelt werden, z.B. mit grüner Paprika, Sucuk, etc."]
     }
   ]
 }
