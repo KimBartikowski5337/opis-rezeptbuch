@@ -188,27 +188,6 @@
     },
     {
       "id": 8,
-      "name": "Griechischer Joghurt mit Honig",
-      "category": "Nachtisch",
-      "vegetarian": true,
-      "groupFriendly": true,
-      "carbohydrateSource": "Keine",
-      "days": 1,
-      "country": "Griechenland",
-      "image": "images/griechischerJoghurt.png",
-      "prepTime": "5",
-      "cookTime": "0",
-      "ingredients": [
-        "Griechischer Joghurt",
-        "Honig"
-      ],
-      "instructions": "Den griechischen Joghurt je nach persönlichen Geschmack mit Honig toppen.",
-      "notes": [
-        "Der Fettgehalt des Joghurts sollte zwischen 2,5% und 10% liegen."
-      ]
-    },
-    {
-      "id": 9,
       "name": "Kaiserschmarrn",
       "category": "Nachtisch",
       "vegetarian": true,
@@ -238,7 +217,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "Caesar Salat mit Brot und Ofenkäse",
       "category": "Salat",
       "vegetarian": false,
@@ -265,7 +244,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Bestes Ofengemüse der Welt",
       "category": "Gemüse",
       "vegetarian": true,
@@ -290,7 +269,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Spinatlasagne",
       "category": "Auflauf",
       "vegetarian": true,
@@ -319,7 +298,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "name": "Grillen",
       "category": "Grillen",
       "vegetarian": false,
@@ -343,7 +322,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "Spinatknödel",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -372,7 +351,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 14,
       "name": "Fischstäbchen mit Kartoffelmus und Spinat",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -395,7 +374,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 15,
       "name": "Gnocci Auflauf in Paprika-Tomaten-Sauce",
       "category": "Auflauf",
       "vegetarian": true,
@@ -419,7 +398,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 16,
       "name": "Bruschetta",
       "category": "Vorspeise",
       "vegetarian": true,
@@ -443,7 +422,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 17,
       "name": "Falafel-Pita",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -467,7 +446,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 18,
       "name": "Gefüllte Riesenchampignons mit Käse & Pesto",
       "category": "Vorspeise",
       "vegetarian": true,
@@ -494,7 +473,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 19,
       "name": "Bandeja Paisa",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -525,7 +504,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 20,
       "name": "Rio Nudeln",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -549,7 +528,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 21,
       "name": "Gyros-Nudelauflauf in Metaxasoße",
       "category": "Auflauf",
       "vegetarian": false,
@@ -578,7 +557,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 22,
       "name": "Gefüllte Paprika",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -605,7 +584,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 23,
       "name": "Lauchsuppe",
       "category": "Suppe",
       "vegetarian": false,
@@ -630,7 +609,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 24,
       "name": "Indisches Curry mit Reis",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -656,7 +635,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 25,
       "name": "Kürbissuppe",
       "category": "Suppe",
       "vegetarian": true,
@@ -682,7 +661,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 26,
       "name": "Jägerschnitzel",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -711,7 +690,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 27,
       "name": "Saganaki mit Kritharaki Salat",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -741,7 +720,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 28,
       "name": "Crepes",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -765,7 +744,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 29,
       "name": "Raclette",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -800,7 +779,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 30,
       "name": "Kartoffelsuppe",
       "category": "Suppe",
       "vegetarian": false,
@@ -825,7 +804,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 31,
       "name": "Pad Thai",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -855,7 +834,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 32,
       "name": "Rindergulasch",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -881,7 +860,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 33,
       "name": "Sushi Edamame Bowl",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -907,7 +886,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 34,
       "name": "Traditionelle spanische Tortilla",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -930,7 +909,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 35,
       "name": "Burger",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -956,7 +935,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 36,
       "name": "Cremigste Pasta",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -980,7 +959,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 37,
       "name": "Beef Stir Fry",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1005,7 +984,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 38,
       "name": "Orange Chicken",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1026,7 +1005,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": 39,
       "name": "Avocado Pasta",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -1048,7 +1027,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": 40,
       "name": "Strawberry Sticky Rice",
       "category": "Nachtisch",
       "vegetarian": true,
@@ -1072,7 +1051,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": 41,
       "name": "Chicken-Scharwarma Rice Bowl",
       "category": "One Pot Gericht",
       "vegetarian": false,
@@ -1100,7 +1079,7 @@
       ]
     },
     {
-      "id": 43,
+      "id": 42,
       "name": "Vegetarischer Kartoffel-Sojahack-Auflauf",
       "category": "Auflauf",
       "vegetarian": true,
@@ -1128,7 +1107,7 @@
       ]
     },
     {
-      "id": 44,
+      "id": 43,
       "name": "Erdnuss-Chili-Nudeln",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -1152,7 +1131,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": 44,
       "name": "Ceviche",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1183,7 +1162,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 45,
       "name": "Kichererbsen-Curry",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -1212,7 +1191,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 46,
       "name": "Pad Kra Pao",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1238,7 +1217,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 47,
       "name": "Tom Kha Gai",
       "category": "Suppe",
       "vegetarian": false,
@@ -1267,7 +1246,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 48,
       "name": "Mexikanische Bowl",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1296,7 +1275,7 @@
       ]
     },
     {
-      "id": 50,
+      "id": 49,
       "name": "Nudeln in Spargel-Feta-Soße",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -1320,7 +1299,7 @@
       ]
     },
     {
-      "id": 51,
+      "id": 50,
       "name": "Brunch",
       "category": "Frühstück",
       "vegetarian": false,
@@ -1353,7 +1332,7 @@
       ]
     },
     {
-      "id": 52,
+      "id": 51,
       "name": "Nudeln mit Basilikum-Pesto",
       "category": "Sonstiges",
       "vegetarian": true,
@@ -1377,7 +1356,7 @@
       ]
     },
     {
-      "id": 53,
+      "id": 52,
       "name": "Weißkohl-Salat",
       "category": "Salat",
       "vegetarian": true,
@@ -1398,7 +1377,7 @@
       ]
     },
     {
-      "id": 54,
+      "id": 53,
       "name": "Paella",
       "category": "One Pot Gericht",
       "vegetarian": true,
@@ -1427,7 +1406,7 @@
       ]
     },
     {
-      "id": 55,
+      "id": 54,
       "name": "Menemen",
       "category": "One Pot Gericht",
       "vegetarian": true,
@@ -1453,7 +1432,7 @@
       ]
     },
     {
-      "id": 56,
+      "id": 55,
       "name": "Bulgur Nudeln",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1479,7 +1458,7 @@
       ]
     },
     {
-      "id": 57,
+      "id": 56,
       "name": "Hong Shao Rou",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1507,7 +1486,7 @@
       ]
     },
     {
-      "id": 58,
+      "id": 57,
       "name": "Selbstgemachte Pizza",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1519,6 +1498,7 @@
       "prepTime": "60",
       "cookTime": "60",
       "ingredients": [
+        "frischer Basilikum",
         "Rucola",
         "Kochschinken",
         "Parma-Schinken",
@@ -1537,7 +1517,7 @@
       ]
     },
     {
-      "id": 59,
+      "id": 58,
       "name": "Klassische Lasagne",
       "category": "Sonstiges",
       "vegetarian": false,
@@ -1565,6 +1545,34 @@
       "notes": [
         "Schmeckt am nächsten Tag am besten!",
         "Beim Wieder-Aufwärmen im Ofen etwas Wasser in den Ofen geben, damit die Lasagne nicht trocken wird."
+      ]
+    },{
+      "id": 59,
+      "name": "Huevos Rancheros",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Mexiko",
+      "image": "images/huevosRancheros.png",
+      "prepTime": "20",
+      "cookTime": "15",
+      "ingredients": [
+        "1 helle Zwiebel",
+        "1 Knoblauchzehe",
+        "1 Chili",
+        "150g Tomaten",
+        "1 Avocado",
+        "1 Limette",
+        "4 Eier",
+        "2 Brötchen",
+        "1 Chorizo im Ganzen, ca. 110g",
+        "1 Dose schwarze Bohnen in Chili-Sauce"
+      ],
+      "instructions": "Chorizo in kleine Würfel schneiden und bei mittlerer Hitze andünsten. Schwarze Bohnen abgießen - etwas Restflüssigkeit sollte beibehalten werden! Die Bohnen in einer seperaten Pfanne bei mittlerer Hitze erwärmen. Eine fein gewürfelte Chili dazugeben und dann fein gewürfelte Zwiebel und Knoblauch zu der Chorizo geben. Dann frische gewürfelte Tomaten dazugeben. Die Bohnen zerstampfen/hacken, damit es pastenähnlich wird - es darf immernoch grobe Stücke geben. Brötchen im Airfyer aufbacken. Die Chorizo-Salsa neben die Bohnenpaste in die Pfanne geben. Die Spiegeleier braten. Avocado in dünne Scheiben schneiden. Dann das Brötchen leicht salzen mit der Bohnenpaste bestreichen, dann die Chorizo-Salsa, dann die Avocado stapeln, eine gute Prise Salz und kräftig Limette darübergeben und das Spiegelei darauf stapeln. Nochmals mit Salz, viel Limettensaft und Chili-Flocken toppen.",
+      "notes": [
+        "Chimichurri passt gut dazu"
       ]
     }
   ]
