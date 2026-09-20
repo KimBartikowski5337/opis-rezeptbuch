@@ -12,9 +12,17 @@
       "image": "images/gnocciPfanne.png",
       "prepTime": "15 Min",
       "cookTime": "20 Min",
-      "ingredients": ["2 Paprikas", "1 Zwiebel ","1kg Gnoccis", "600g Hähnchenbrustfilet", "500g TK Brokkoli"],
+      "ingredients": [
+        "2 Paprikas",
+        "1 Zwiebel ",
+        "1kg Gnoccis",
+        "600g Hähnchenbrustfilet",
+        "500g TK Brokkoli"
+      ],
       "instructions": "Hähnchen schneiden und anbraten, Zwiebeln dazugeben und mit etwas Salz, Pfeffer und Knoblauchpulver abschmecken. Anschließend Hähnchen aus der Pfanne nehmen. Gnoccis anbraten mit einem guten Schuss Öl. TK Brokkoli 8 Minuten in den Airfryer geben mit einem guten Schuss Sojasoße. Paprika schneiden und zu den Gnoccis geben, genauso wie den Brokkoli sobald alles Farbe bekommen hat. Anschließend Hähnchen und Zwiebeln wieder dazugeben und alles mit Öl und Sojasoße abschmecken.",
-      "notes": ["Gnoccis goldbraun backen, hierzu ist eine gute Menge Öl nötig."]
+      "notes": [
+        "Gnoccis goldbraun backen, hierzu ist eine gute Menge Öl nötig."
+      ]
     },
     {
       "id": 2,
@@ -28,9 +36,23 @@
       "image": "images/bolognese.png",
       "prepTime": "20 Min",
       "cookTime": "45 Min",
-      "ingredients": ["1 Zwiebel", "2 Karotten", "1 Stange Staudensellerie","500g Rinderhack", "1 Parmesan", "500g Spaghetti", "1 Dose gehackte Tomaten", "100 ml Rotwein"],
+      "ingredients": [
+        "1 Zwiebel",
+        "2 Karotten",
+        "1 Stange Staudensellerie",
+        "500g Rinderhack",
+        "1 Parmesan",
+        "500g Spaghetti",
+        "1 Dose gehackte Tomaten",
+        "100 ml Rotwein"
+      ],
       "instructions": "Hackfleisch im Topf anbraten bis es Röstaromen hat, Zwiebel und etwas Tomatenmark hinzufügen und mit Rotwein ablöschen und die Röstaromen vom Topfboden lösen. Anschließend das restliche Gemüse hinzugeben und anbraten. Die Masse mit Salz, Pfeffer und Paprika edelsüß abschmecken. Dann mit den gehackten Tomaten und einem guten Schluck Olivenöl auffüllen und die Bolognese 30 Minuten köcheln lassen und zum Ende die Spaghetti kochen. Vor dem Servieren einen kleinen Schuss Milch oder Sahne an die Soße für etwas mehr Cremigkeit geben. ",
-      "notes": ["Im Topf anbraten, um Röstaromen beim Anbraten des Hacks zu bekommen.", "Parmesan nicht vergessen ;)", "Rucola passt auch gut dazu", "Schmeckt am zweiten Tag noch besser"]
+      "notes": [
+        "Im Topf anbraten, um Röstaromen beim Anbraten des Hacks zu bekommen.",
+        "Parmesan nicht vergessen ;)",
+        "Rucola passt auch gut dazu",
+        "Schmeckt am zweiten Tag noch besser"
+      ]
     },
     {
       "id": 3,
@@ -44,9 +66,22 @@
       "image": "images/kartoffelauflaufMaisPaprika.png",
       "prepTime": "45 Min",
       "cookTime": "45 Min",
-      "ingredients": ["1kg Kartoffeln festkochend", "1 Paprikaschote rot", "1 Zwiebel", "150 Gramm Mais", "500g Hackfleisch","100g Streukäse", "100g Schmelzkäse", "1 Becher Sahne", "1 Becher Schmand"],
+      "ingredients": [
+        "1kg Kartoffeln festkochend",
+        "1 Paprikaschote rot",
+        "1 Zwiebel",
+        "150 Gramm Mais",
+        "500g Hackfleisch",
+        "100g Streukäse",
+        "100g Schmelzkäse",
+        "1 Becher Sahne",
+        "1 Becher Schmand"
+      ],
       "instructions": "Kartoffeln schälen, in Scheiben schneiden & 25 Minuten kochen, Hackfleisch anbraten, Zwiebeln zum Hackfleisch geben. In einer gefetteten Form die Hälfte der Kartoffeln geben. Darauf die Hackmasse und danach das Gemüse. Dann wieder Kartoffeln dazugeben. \nIn einem Topf Sahne, Creme fraiche oder Schmand und Schmelzkäse erhitzten. Mit den Gewürzen abschmecken und über den Auflauf gießen. Den geriebenen Käse über den Auflauf streuen. Form schließen und bei ca. 200 Grad ca. 45 Minuten backen. Die restlichen 15 Minuten die Form öffnen. ",
-      "notes": ["Zwischen jeder Schicht den Auflauf salzen", "Kartoffeln vor dem Kochen in Scheiben schneiden verkürzt die Wartezeit, da die Kartoffeln sonst vor dem Scheiben schneiden abkühlen müssten"]
+      "notes": [
+        "Zwischen jeder Schicht den Auflauf salzen",
+        "Kartoffeln vor dem Kochen in Scheiben schneiden verkürzt die Wartezeit, da die Kartoffeln sonst vor dem Scheiben schneiden abkühlen müssten"
+      ]
     },
     {
       "id": 4,
@@ -60,9 +95,19 @@
       "image": "images/flammkuchen.png",
       "prepTime": "20 Min",
       "cookTime": "15 Min",
-      "ingredients": ["Cherrytomaten", "1 rote Zwiebel","1 Paprika", "1 Flammkuchenteig XXL", "1 Patros Kräuter Feta", "1 Creme Fraiche Kräuter"],
+      "ingredients": [
+        "Cherrytomaten",
+        "1 rote Zwiebel",
+        "1 Paprika",
+        "1 Flammkuchenteig XXL",
+        "1 Patros Kräuter Feta",
+        "1 Creme Fraiche Kräuter"
+      ],
       "instructions": "Gemüse schneiden, Flammkuchen belegen, Flammkuchen im Ofen backen",
-      "notes": ["Creme Fraiche salzen und pfeffern", "Leicht variierbar (z.B. Kürbis-Flammkuchen im Herbst 🍂"]
+      "notes": [
+        "Creme Fraiche salzen und pfeffern",
+        "Leicht variierbar (z.B. Kürbis-Flammkuchen im Herbst 🍂"
+      ]
     },
     {
       "id": 5,
@@ -76,9 +121,19 @@
       "image": "images/stanni.png",
       "prepTime": "20 Min",
       "cookTime": "25 Min",
-      "ingredients": ["Cherrytomaten", "1 Zwiebel","2 Paprika", "1 Zuccini", "500g Rinderhack", "500g Fussili", "2 Creme Fraiche Kräuter"],
+      "ingredients": [
+        "Cherrytomaten",
+        "1 Zwiebel",
+        "2 Paprika",
+        "1 Zuccini",
+        "500g Rinderhack",
+        "500g Fussili",
+        "2 Creme Fraiche Kräuter"
+      ],
       "instructions": "Hack anbraten, Zwiebel dazugeben und mit Salz, Pfeffer und Knoblauchpulver abschmecken. Gemüse schneiden und mit anbraten, außer die Tomaten! Parallel die Nudeln kochen. Sobald die Pfanne Farbe hat, kann die Creme Fraiche dazugegeben werden und kurz vor dem Servieren die Cherry Tomaten.",
-      "notes": ["Ein Drosselkamp-Klassiker 👨‍🍳"]
+      "notes": [
+        "Ein Drosselkamp-Klassiker 👨‍🍳"
+      ]
     },
     {
       "id": 6,
@@ -92,9 +147,20 @@
       "image": "images/galloPinto.JPG",
       "prepTime": "20 Min",
       "cookTime": "25 Min",
-      "ingredients": ["Toastbrot ","2 reife Kochbananen ", "1 Dose schwarze Bohnen (Lateinamerikanischer Supermarkt)","1 Packung Frijoles Refritos (Lateinamerikanischer Supermarkt)", "4 Eier", "300g Reis"],
+      "ingredients": [
+        "Toastbrot ",
+        "2 reife Kochbananen ",
+        "1 Dose schwarze Bohnen (Lateinamerikanischer Supermarkt)",
+        "1 Packung Frijoles Refritos (Lateinamerikanischer Supermarkt)",
+        "4 Eier",
+        "300g Reis"
+      ],
       "instructions": "Reis kochen. Die schwarzen Bohnen beinahe vollständig abgießen, mit etwas Restflüssigkeit in einen Topf zum Erwärmen geben. Kochbanane in Scheiben schneiden und in reichlich Öl auf leichter bis mittlerer Hitze goldbraun ausbacken. Toast mit etwas Butter von beiden Seiten bestreichen, leicht salzen und inden Ofen zum Toasten geben. Frijoles Refritos in der Mikrowelle in einer Schüssel lauwarm erhitzen. Spiegeleier braten und alles zusammen auf einem Teller servieren. Wer es traditionell möchte, gibt etwas Salsa Lizano zu seinem Essen.",
-      "notes": ["Kochbananen gibt es im Asia-Markt in Elmshorn.", "Schwarze Bohnen und Frijoles Refritos gibt es im lateinamerianischen Supermarkt in Wandsbek", "DAS Costa Ricanische Nationalgericht 🇨🇷"]
+      "notes": [
+        "Kochbananen gibt es im Asia-Markt in Elmshorn.",
+        "Schwarze Bohnen und Frijoles Refritos gibt es im lateinamerianischen Supermarkt in Wandsbek",
+        "DAS Costa Ricanische Nationalgericht 🇨🇷"
+      ]
     },
     {
       "id": 7,
@@ -108,9 +174,17 @@
       "image": "images/friedRice.png",
       "prepTime": "20 Min",
       "cookTime": "25 Min",
-      "ingredients": ["600g Hähnchen", "4 Eier", "400g Reis", "1kg TK Wok Gemüse"],
+      "ingredients": [
+        "600g Hähnchen",
+        "4 Eier",
+        "400g Reis",
+        "1kg TK Wok Gemüse"
+      ],
       "instructions": "Reis einen Tag vorher kochen. Helle Sojasoße, dunkle Sojasoße, Ingwer, Reisessig und ein Schuss Sonnenblumenöl vermischen und geschnittenes Hähnchen darin mehrere Stunden ziehen lassen. Zunächst das Rührei zubereiten und anschließend auf einem Teller ruhen lassen. Hähnchen in Maisstärke wenden, anbraten, anschließend herausnehmen und das Wokgemüse anbraten. Dann Reis hinzugeben und gemeinsam anbraten. Am Schluss das Hähnchen und das Ei hinzugeben und alles noch etwas braten lassen und vor dem Servieren mit Sojasoße und Glutamat abschmecken.",
-      "notes": ["Das Wenden des Hähnches in Stärke vor dem Braten ist die Velveting-Methode", "Hähnchen kann gut mit Scampis getauscht werden"]
+      "notes": [
+        "Das Wenden des Hähnches in Stärke vor dem Braten ist die Velveting-Methode",
+        "Hähnchen kann gut mit Scampis getauscht werden"
+      ]
     },
     {
       "id": 8,
@@ -124,9 +198,14 @@
       "image": "images/griechischerJoghurt.png",
       "prepTime": "5",
       "cookTime": "0",
-      "ingredients": ["Griechischer Joghurt", "Honig"],
+      "ingredients": [
+        "Griechischer Joghurt",
+        "Honig"
+      ],
       "instructions": "Den griechischen Joghurt je nach persönlichen Geschmack mit Honig toppen.",
-      "notes": ["Der Fettgehalt des Joghurts sollte zwischen 2,5% und 10% liegen."]
+      "notes": [
+        "Der Fettgehalt des Joghurts sollte zwischen 2,5% und 10% liegen."
+      ]
     },
     {
       "id": 9,
@@ -140,9 +219,23 @@
       "image": "images/kaiserschmarrn.png",
       "prepTime": "15",
       "cookTime": "15",
-      "ingredients": ["4 Eier Größe M", "300ml Vollmilch", "40g Butter", "125g Mehl", "60g Zucker", "Puderzucker", "1 Päckchen Vanillezucker","opt. Marmelade", "opt. Apfelmus", "75ml Mineralwasser"],
+      "ingredients": [
+        "4 Eier Größe M",
+        "300ml Vollmilch",
+        "40g Butter",
+        "125g Mehl",
+        "60g Zucker",
+        "Puderzucker",
+        "1 Päckchen Vanillezucker",
+        "opt. Marmelade",
+        "opt. Apfelmus",
+        "75ml Mineralwasser"
+      ],
       "instructions": "Trenne Eier, schlage Eiweiß steif. Verrühre Eigelb mit Zucker, Vanillezucker und Salz. Rühre Mehl und Milch portionsweise unter, dann Mineralwasser. Hebe Eischnee unter. Backe Teig in Butter goldbraun, viertel und backe weiter. Zerreisse Schmarrn in Stücke, backe fertig. Bestäube mit Puderzucker.",
-      "notes": ["Für die Rezeptmenge werden 2 Pfannen benötigt", "Auf keinen Fall den Kaiserschmarn in der Pfanne plattdrücken"]
+      "notes": [
+        "Für die Rezeptmenge werden 2 Pfannen benötigt",
+        "Auf keinen Fall den Kaiserschmarn in der Pfanne plattdrücken"
+      ]
     },
     {
       "id": 10,
@@ -156,9 +249,20 @@
       "image": "images/caesarSalad.png",
       "prepTime": "15",
       "cookTime": "20",
-      "ingredients": ["1 Block House Caesar Dressing", "Cherrytomaten","1 Eisbergsalat", "1 Packung Ja! Weizenbaguettes", "600g Hähnchen", "1 Ofenkäse Gartenkräuter", "Parmesan", "Coutons Kräuter"],
+      "ingredients": [
+        "1 Block House Caesar Dressing",
+        "Cherrytomaten",
+        "1 Eisbergsalat",
+        "1 Packung Ja! Weizenbaguettes",
+        "600g Hähnchen",
+        "1 Ofenkäse Gartenkräuter",
+        "Parmesan",
+        "Coutons Kräuter"
+      ],
       "instructions": "Hähnchen anbraten und mit Salz, Pfeffer, Knoblauch, Ingwer und Sojasoße abschmecken. Ofenkäse in Ofen tun, dazu das Baguette backen. Währenddessen den Salat schneiden und mit Crouons, Dressing und Parmesan dabei servieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 11,
@@ -172,9 +276,18 @@
       "image": "images/ofengemuese.png",
       "prepTime": "20",
       "cookTime": "30",
-      "ingredients": ["1,5 KG Kartoffeln", "2 Zwiebeln", "1 Paprika","400g Champignons", "1 Patros Kräuterfeta", "Just Spices Pilzgewürz"],
+      "ingredients": [
+        "1,5 KG Kartoffeln",
+        "2 Zwiebeln",
+        "1 Paprika",
+        "400g Champignons",
+        "1 Patros Kräuterfeta",
+        "Just Spices Pilzgewürz"
+      ],
       "instructions": "Gemüse und Feta in mundgerechte Stücke schneiden und alles auf einem Backblech mit reichlich Olivenöl, Salz und Pfeffer (Just Spices Pilzgewürz) vermengen. Anschließend im Backofen für ca. 30 Minuten durchgaren.",
-      "notes": ["Kartoffeln lassen sich gut mit Süßkartoffeln tauschen"]
+      "notes": [
+        "Kartoffeln lassen sich gut mit Süßkartoffeln tauschen"
+      ]
     },
     {
       "id": 12,
@@ -188,9 +301,22 @@
       "image": "images/spinatlasagne.png",
       "prepTime": "30",
       "cookTime": "45",
-      "ingredients": ["1 große Zwiebel","2 große Karotten", "7 m. große Champignons", "1 Pck. Streukäse", "100g Kräuterfrischkäse","5 EL Milch", "500g passierte Tomaten", "150ml Sahne", "Lasagneplatten", "600g TK Rahmspinat"],
+      "ingredients": [
+        "1 große Zwiebel",
+        "2 große Karotten",
+        "7 m. große Champignons",
+        "1 Pck. Streukäse",
+        "100g Kräuterfrischkäse",
+        "5 EL Milch",
+        "500g passierte Tomaten",
+        "150ml Sahne",
+        "Lasagneplatten",
+        "600g TK Rahmspinat"
+      ],
       "instructions": "Schneide Karotten, Champignons und Zwiebel klein, brate Zwiebel an, dann restliches Gemüse kurz mit. Gib Milch dazu und erhitze Rahmspinat, bis er aufgetaut und die Soße leicht dick ist. Verrühre Frischkäse und Gemüsebrühpulver, lasse köcheln, würze mit Knoblauch, Salz, Pfeffer und Chili. Erhitze 3 EL Butter, verrühre mit 2 EL Mehl zu glatter Masse. Gib passierte Tomaten und Sahne dazu, koche auf, würze mit Knoblauch, Salz und Pfeffer. Bedecke Boden der Auflaufform mit Tomatensoße und Spinat, schichte Lasagneplatten, Spinat und Tomatensoße abwechselnd. Schließe mit Soße ab, bestreue mit Käse. Backe bei 180 °C Umluft ca. 30 Minuten, lasse danach im ausgeschalteten Ofen ruhen.",
-      "notes": ["Barilla Lasangeplatten sind die besten!"]
+      "notes": [
+        "Barilla Lasangeplatten sind die besten!"
+      ]
     },
     {
       "id": 13,
@@ -204,9 +330,17 @@
       "image": "images/grillen.png",
       "prepTime": "0",
       "cookTime": "20",
-      "ingredients": ["Baguette", "Grillgut", "Rougette Grillkäse Kräuter rund"],
+      "ingredients": [
+        "Baguette",
+        "Grillgut",
+        "Aioli",
+        "Rougette Grillkäse Kräuter rund"
+      ],
       "instructions": "",
-      "notes": ["Es gibt kein schlechtes Wetter zum Grillen! ;)"]
+      "notes": [
+        "Es gibt kein schlechtes Wetter zum Grillen! ;)",
+        "Passend dazu: Antipasti und der klassiche Nudelsalat - beides nach Rezepten von 'Emmi kocht einfach'"
+      ]
     },
     {
       "id": 14,
@@ -220,9 +354,22 @@
       "image": "images/spinatknoedel.png",
       "prepTime": "30",
       "cookTime": "30",
-      "ingredients": ["2 Zwiebeln", "6 Brötchen vom Vortag", "200g Emmentaler am Stück", "3 Eier", "Parmesan", "Butter", "Paniermehl", "750g TK Blattspinat fein gehackt"],
+      "ingredients": [
+        "2 Zwiebeln",
+        "6 Brötchen vom Vortag",
+        "200g Emmentaler am Stück",
+        "3 Eier",
+        "Parmesan",
+        "Butter",
+        "Paniermehl",
+        "750g TK Blattspinat fein gehackt"
+      ],
       "instructions": "TK-Blattspinat auftauen und ausdrücken. Brötchen (6 altbackene) würfeln und in eine Schüssel geben. Zwiebel würfeln und in Butter glasig dünsten. Milch (175 ml) dazugeben, mit Salz, Pfeffer und Muskatnuss würzen und kurz erhitzen. Milch über die Brötchenwürfel gießen, Parmesan (3 EL), Paniermehl (7 EL), Spinat, gewürfelter Emmentaler und Eier hinzufügen. Alles gut vermischen, bei Bedarf Paniermehl oder Milch ergänzen. Salzwasser erhitzen. Mit nassen Händen Knödel formen und im siedenden Wasser ca. 15 Minuten ziehen lassen.",
-      "notes": ["Extra Paniermehl/Semmelbrösel hinzugeben, wenn die Knödel sich noch zu feucht zum Ausbacken anfüllen.", "Vor dem Kochen die Knödel im Kühlschrank festigen lassen, damit sie beim Kochen nicht auseinanderfallen.", "Lassen sich gut einfrieren"]
+      "notes": [
+        "Extra Paniermehl/Semmelbrösel hinzugeben, wenn die Knödel sich noch zu feucht zum Ausbacken anfüllen.",
+        "Vor dem Kochen die Knödel im Kühlschrank festigen lassen, damit sie beim Kochen nicht auseinanderfallen.",
+        "Lassen sich gut einfrieren"
+      ]
     },
     {
       "id": 15,
@@ -236,9 +383,16 @@
       "image": "images/fischstaebchen.png",
       "prepTime": "30",
       "cookTime": "45",
-      "ingredients": ["1kg Kartoffeln mehligkochend,", "120g Butter", "20TK Fischstäbchen", "400g TK Rahmspinat"],
+      "ingredients": [
+        "1kg Kartoffeln mehligkochend,",
+        "120g Butter",
+        "20TK Fischstäbchen",
+        "400g TK Rahmspinat"
+      ],
       "instructions": "Kartoffeln vierteln und 25 Minuten lang in gesalzenem Wasser kochen. Kartoffeln abgießen und Butter, sowie 120ml Milch hinzugeben. Alles zusammen mit einem Stampfer zusammenstampfen und mit Salz und Muskatnuss abschmecken. Fischstäbchen braten und Spinat kochen und mit Salz und Pfeffer abschmecken.",
-      "notes": ["Unbedingt mit dem Stampfer in Handarbeit stampfen und nicht mit einem Gerät pürieren für die perfekte Konsistenz!"]
+      "notes": [
+        "Unbedingt mit dem Stampfer in Handarbeit stampfen und nicht mit einem Gerät pürieren für die perfekte Konsistenz!"
+      ]
     },
     {
       "id": 16,
@@ -252,9 +406,17 @@
       "image": "images/gnocciAuflauf.png",
       "prepTime": "15",
       "cookTime": "30",
-      "ingredients": ["1 große Paprika","1kg Gnocci", "200g Frischkäse", "2 Kugeln Mozarella", "500g passierte Tomaten"],
+      "ingredients": [
+        "1 große Paprika",
+        "1kg Gnocci",
+        "200g Frischkäse",
+        "2 Kugeln Mozarella",
+        "500g passierte Tomaten"
+      ],
       "instructions": "Die Paprikaschote grob kleinschneiden und im Topf leicht anbraten. Mit etwas Wasser die Paprika mit einem Pürierstab im Topf pürieren. Die passierten Tomaten zugeben, dann den Frischkäse unterrühren und aufkochen lassen. Mit Salz, Pfeffer, Oregano und Brühe abschmecken. Anschließend mit Mozarella belegen und im Ofen bei 180 Grad ca. 20 Minuten garen.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 17,
@@ -268,9 +430,17 @@
       "image": "images/bruschetta.png",
       "prepTime": "35",
       "cookTime": "15",
-      "ingredients": ["viele Cherrytomaten", "Knoblauch", "Baguette"],
+      "ingredients": [
+        "viele Cherrytomaten",
+        "Knoblauch",
+        "Baguette"
+      ],
       "instructions": "Tomaten in Würfel schneiden und mit Olivenöl, idealerweise Bruschetta-Olivenöl, vermischen. Mit Salz, Pfeffer oder idealerweise mit Bruschetta-Gewürzmix würzen. Nach einigen Stunden ziehen lassen, das Baguette in Scheiben schneiden und die Scheiben durch den Saft des Tomatenmixes vor dem Ausbacken ziehen. Anschließend die Brotscheiben ausbacken, jeweils mit einer frisch aufgeschnittenen Knoblauchzehe rüberstreichen und mit dem Tomatenmix toppen, anschließend servieren.",
-      "notes": ["Tomatenmix schon einige Stunden vorher zubereiten","Tomatenmischung sollte zimmerwarm sein", "Brot vor dem Ausbacken durch den Tomatenmix-Saft ziehen, es darf ruhig sehr feucht sein!"]
+      "notes": [
+        "Tomatenmix schon einige Stunden vorher zubereiten",
+        "Tomatenmischung sollte zimmerwarm sein",
+        "Brot vor dem Ausbacken durch den Tomatenmix-Saft ziehen, es darf ruhig sehr feucht sein!"
+      ]
     },
     {
       "id": 18,
@@ -284,9 +454,17 @@
       "image": "images/falafelPita.png",
       "prepTime": "20",
       "cookTime": "15",
-      "ingredients": ["Cherrytomaten", "Zwiebeln", "8 Pita Brote", "500g griechischer Joghurt", "REWE Bio Falafel Trockenmischung 175g"],
+      "ingredients": [
+        "Cherrytomaten",
+        "Zwiebeln",
+        "8 Pita Brote",
+        "500g griechischer Joghurt",
+        "REWE Bio Falafel Trockenmischung 175g"
+      ],
       "instructions": "Joghurt mit etwas Olivenöl, wenig Knoblauchpulver vermischen und mit Salz und Pfeffer abschmecken. Zwiebel in Scheiben schneiden und die Tomaten würfeln. Tomaten und Zwiebeln in einer Schüssel mit etwas Olivenöl, Salz und Pfeffer vermengen. Falafel Trockenmischung wie auf der Packung angegeben quellen lassen, formen und im Airfryer knusprig backen. Die Pita Brote im Ofen erwärmen, mit dem Joghurt Dip bestreichen und mit der Tomaten-Zwiebel Mischung und den Falafeln befüllen.",
-      "notes": ["Joghurtdip am besten bereits einige Stunden vorher zubereiten."]
+      "notes": [
+        "Joghurtdip am besten bereits einige Stunden vorher zubereiten."
+      ]
     },
     {
       "id": 19,
@@ -300,9 +478,20 @@
       "image": "images/riesenchampignosKaesePesto.png",
       "prepTime": "30",
       "cookTime": "20",
-      "ingredients": ["4 Frühlingszwiebeln", "1 Zitrone", "8 Riesenchampignons", "40g Parmesan", "1 Mozarella", "60g Paniermehl", "30g Pesto Rosso", "200g Frischkäse"],
+      "ingredients": [
+        "4 Frühlingszwiebeln",
+        "1 Zitrone",
+        "8 Riesenchampignons",
+        "40g Parmesan",
+        "1 Mozarella",
+        "60g Paniermehl",
+        "30g Pesto Rosso",
+        "200g Frischkäse"
+      ],
       "instructions": "Pilze putzen, Stiele herausdrehen und nur die Stiele klein schneiden. Frühlingszwiebeln in Ringe schneiden. Öl und 2EL Butter in einer Pfanne erhitzen. Dann Champignostiele und die Hälfte der Frühlingszwiebeln hinzugeben und 3 Min anbraten. Parmesan reiben und Mozarella auseinander zupfen. Zitrone halbieren und den Saft auspressen. 1/3 des Paniermehls und 1/3 des Parmesans mischen und beiseite stellen. Frischkäse, Zitronenabrieb, Zitronensaft, Paniermehl, Mozarella, Pesto, Knoblauchpulver mit restlichen Frühlingszwiebeln und 3/4 des restlichen Parmesan mischen. Mit Salz und Pfeffer würzen. Pilze mit Frischkäsecreme füllen, mit restlichem Parmesan bestreuen und ca. 20 Minuten bei 180 Grad backen und servieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 20,
@@ -316,9 +505,24 @@
       "image": "images/bandejaPaisa.png",
       "prepTime": "60",
       "cookTime": "60",
-      "ingredients": ["1 reife Kochbanane", "400g Schwarze aus der Dose", "3 Tomaten groß", "1 Zwiebel", "1 Knoblauchzehe", "2 Frühlingszwiebeln", "2 reife Avocados", "4 Eier", "450g Rinderhack", "450g Chorizo", "350g Reis"],
+      "ingredients": [
+        "1 reife Kochbanane",
+        "400g Schwarze aus der Dose",
+        "3 Tomaten groß",
+        "1 Zwiebel",
+        "1 Knoblauchzehe",
+        "2 Frühlingszwiebeln",
+        "2 reife Avocados",
+        "4 Eier",
+        "450g Rinderhack",
+        "450g Chorizo",
+        "350g Reis"
+      ],
       "instructions": "Zuerst Zwiebel und Knoblauch schälen, Zwiebel grob hacken, Knoblauch mit Salz zerdrücken. Frühlingszwiebeln putzen, waschen, in Scheiben schneiden, Tomaten waschen, vierteln, Strunk entfernen und grob stückeln. Dann Olivenöl erhitzen und Tomaten, Zwiebel, Frühlingszwiebeln und Knoblauch darin 5 Minuten anbraten. Anschließend Hitze reduzieren, mit Salz und Pfeffer würzen und zugedeckt 30 Minuten schmoren lassen. Abschließend Hogao in eine Schale füllen, abkühlen lassen und im Kühlschrank auskühlen. Die Chorizo im Ganzen braten, das Rinderhack anbraten und mit Salz und Pfeffer würzen, je nach Geschmack auch mit Knoblauch- oder Zwiebelpulver und Kreuzkümmel. Kochbananen werden geschält, geschnitten und langsam in viel Öl goldbraun ausgebacken. Reis kochen. Bohnen erwärmen. Avocados schälen und schneiden. Eier als Spiegeleier braten. Zum Anrichten verteilst du Reis, Bohnen, Chorizo, Rinderhack, die Kochbananen, Avocado und Spiegelei auf einem Teller und gibst Hogao dazu.",
-      "notes": ["Pinto Bohnen kann man im lateinamerikanischen Supermarkt kaufen 🛒, aus der Dose oder getrocknet. Manchmal unter dem Namen 'Wachtelbohne'", "Lässt sich hervorragend  mit Schweinebauch (Chicharrón) ergänzen"]
+      "notes": [
+        "Pinto Bohnen kann man im lateinamerikanischen Supermarkt kaufen 🛒, aus der Dose oder getrocknet. Manchmal unter dem Namen 'Wachtelbohne'",
+        "Lässt sich hervorragend  mit Schweinebauch (Chicharrón) ergänzen"
+      ]
     },
     {
       "id": 21,
@@ -332,9 +536,17 @@
       "image": "images/rioNudeln.png",
       "prepTime": "10",
       "cookTime": "25",
-      "ingredients": ["1-2 Bio Limetten, je nachdem wie groß sie ausfallen", "2 Knoblauchzehen", "200g Naturjoghurt", "500g Spaghetti", "225g TK Scampis"],
+      "ingredients": [
+        "1-2 Bio Limetten, je nachdem wie groß sie ausfallen",
+        "2 Knoblauchzehen",
+        "200g Naturjoghurt",
+        "500g Spaghetti",
+        "225g TK Scampis"
+      ],
       "instructions": "Scampis auftauen, in einer Mischung aus Joghurt, etwas Olivenöl, Saft einer Limette, und den kleingehackten Knoblauchzehen, etwas Salz und wenig Chilipulver einige Stunden im Kühlschrank ziehen lassen. Nudeln kochen, parallel Scampis anbraten. Etwas vom Pastawasser beibehalten, in einer seperaten Pfanne die Portiosgröße des Tages der Nudeln und der Scampis mit etwas Pasta Wasser emulgieren lassen und frische Limettenzeste dazugeben. Mit Salz und Pfeffer abschmecken und servieren.",
-      "notes": ["Dass die Limette BIO ist, ist besonders wichtig, da die Limettenzeste mitverwendet wird."]
+      "notes": [
+        "Dass die Limette BIO ist, ist besonders wichtig, da die Limettenzeste mitverwendet wird."
+      ]
     },
     {
       "id": 22,
@@ -348,9 +560,22 @@
       "image": "images/gyrosNudelauflaufMetaxa.png",
       "prepTime": "25",
       "cookTime": "60",
-      "ingredients": ["1 rote Paprika", "2 Zwiebeln", "150g Champignons", "500g Gyros", "125g Streukäse", "200g Schmand", "400ml Sahne","50g Tomatenmark", "250g Barilla langgezogene Fussili", "4cl Metaxa"],
+      "ingredients": [
+        "1 rote Paprika",
+        "2 Zwiebeln",
+        "150g Champignons",
+        "500g Gyros",
+        "125g Streukäse",
+        "200g Schmand",
+        "400ml Sahne",
+        "50g Tomatenmark",
+        "250g Barilla langgezogene Fussili",
+        "4cl Metaxa"
+      ],
       "instructions": "Nudeln in ausreichend Salzwasser kochen, abgießen und in eine Auflaufform geben. Gyros in Öl anbraten. Dann ebenfalls in die Auflaufform geben. Das Gemüse waschen, klein schneiden und in demselben Öl anbraten, in dem zuvor das Gyros angebraten wurde. Noch etwas mit Salz und Pfeffer würzen. Das Gemüse zum Gyros und den Nudeln in die Auflaufform geben und vermengen. Das Öl mit Sahne ablöschen und den Schmand einrühren. Nun auch Tomatenmark und Metaxa hinzugeben. Nach Belieben vom Tomatenmark und Metaxa etwas mehr hinzugeben. Mit Salz und Pfeffer, gegebenenfalls mit Paprikapulver und anderen Gewürzen würzen. Die Soße über die Zutaten in der Auflaufform gießen, Käse drüber streuen und bei 180 °C Umluft für 20 - 30 Minuten in den heißen Ofen, anschließend etwas abkühlen lassen und servieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 23,
@@ -364,9 +589,20 @@
       "image": "images/gefuelltePaprika.png",
       "prepTime": "30",
       "cookTime": "60",
-      "ingredients": ["4 rote Paprika", "1 Zwiebel", "500g Rinderhack", "125g Streukäse", "1 Feta", "500g gehackte Tomaten", "30g Tomatenmark", "400g Reis"],
+      "ingredients": [
+        "4 rote Paprika",
+        "1 Zwiebel",
+        "500g Rinderhack",
+        "125g Streukäse",
+        "1 Feta",
+        "500g gehackte Tomaten",
+        "30g Tomatenmark",
+        "400g Reis"
+      ],
       "instructions": "Reis kochen. Hack im Dutch Oven ankbraten, gewürfelte Zwiebel dazugeben. Mit Salz und Pfeffer würzen. Anschließend Tomatenmark mit anbraten. Feta würfeln. Dann den Paprikadeckel abnehmen und Paprika zur Hälfte mit der angebrateten Füllung fast bis zur Hälfte füllen, die andere Hälfte mit Reis, etwas Platz lassen. Feta mit einfüllen und in den Paprikas vermischen. Paprikas mit reichlich Käse bestreuen. Übrigegebliebe Füllung und Reis kann im Dutch Oven einfach mitköcheln. Den Dutch Oven für 50 Minuten bei 180 Grad im Ofen köcheln lassen und die Paprikas heiß servieren.",
-      "notes": ["Am besten im Dutch Oven zubereiten"]
+      "notes": [
+        "Am besten im Dutch Oven zubereiten"
+      ]
     },
     {
       "id": 24,
@@ -380,9 +616,18 @@
       "image": "images/lauchsuppe.png",
       "prepTime": "25",
       "cookTime": "40",
-      "ingredients": ["3 Stangen Lauch", "500g gemischtes Hack", "250g Schmelzkäse", "1 Becher Creme Fraiche", "Gemüsebrühe", "2 Ja! Steinofen Baguettes"],
+      "ingredients": [
+        "3 Stangen Lauch",
+        "500g gemischtes Hack",
+        "250g Schmelzkäse",
+        "1 Becher Creme Fraiche",
+        "Gemüsebrühe",
+        "2 Ja! Steinofen Baguettes"
+      ],
       "instructions": "Hackfleisch in einem großes Topf anbraten und mit Salz und Pfeffer würzen. Den Lauch putzen, in kleine Ringe schneiden und zum Hackfleisch geben. Ca. 5 Minuten mit anbraten. 1 Liter Gemüsebrühe dazugeben und alles ca. 10 Minuten auf kleiner Flamme köcheln lassen. Den Schmelzkäse einrühren und schmelzen lassen. Crème fraîche untermengen und noch einmal kurz aufkochen lassen. Die Suppe mit Salz, Pfeffer, Muskat, Knoblauch- und Zwiebelpulver kräftig abschmecken. Baguettes im Ofen backen und servieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 25,
@@ -396,9 +641,19 @@
       "image": "images/curryMitReis.png",
       "prepTime": "25",
       "cookTime": "25",
-      "ingredients": ["1 Limette", "1 Zwiebel", "1 große Karotte","600g Hähnchen", "400g Reis", "400g Kokosmilch", "Gelbe Currypaste"],
+      "ingredients": [
+        "1 Limette",
+        "1 Zwiebel",
+        "1 große Karotte",
+        "600g Hähnchen",
+        "400g Reis",
+        "400g Kokosmilch",
+        "Gelbe Currypaste"
+      ],
       "instructions": "Öl erhitzen, Hähnchenbrustwürfel scharf anbraten und beiseitestellen. Gehackte Zwiebel und Karottenscheiben andünsten. 2 TL Currypaste kurz mitbraten. Reis kochen. Wenn das Gemüse glasig angebraten ist, Kokosmilch zur Pfanne dazugeben und kurz aufkochen lassen. Hähnchen zurück in die Soße geben und köcheln lassen, bis es gar ist. Limettensaft, Fischsauce (optional), Zucker (optional), Salz und Pfeffer dazugeben und abschmecken. Einen Stich Butter einrühren, um die Soße zu binden. Hähnchen-Curry mit Reis servieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 26,
@@ -412,9 +667,19 @@
       "image": "images/kuerbissuppe.png",
       "prepTime": "25",
       "cookTime": "50",
-      "ingredients": ["700g Hokkaidokürbis", "1 Kartoffel", "1 JA! Steinofenbaguette", "200g Schmand", "400g Kokosmilch", "250g TK Scampis", "150ml Orangensaft"],
+      "ingredients": [
+        "700g Hokkaidokürbis",
+        "1 Kartoffel",
+        "1 JA! Steinofenbaguette",
+        "200g Schmand",
+        "400g Kokosmilch",
+        "250g TK Scampis",
+        "150ml Orangensaft"
+      ],
       "instructions": "Wasche den Hokkaidokürbis, viertel ihn, entferne die Kerne und schneide ihn in Würfel. Schäle und würfele eine Kartoffel. Gib Kürbis, Kartoffel in den Topf und lasse sie in etwas Öl schonend anbraten. 400 ml Kokosmilch, 150 ml Orangensaft, 500 ml Gemüsebrühe, 1/4 TL Chiliflocken und 1 TL Currypulver in den Topf zu dem Kürbis und den Kartoffeln geben und lass es aufkochen. Reduziere die Hitze und lass es 20-25 Minuten köcheln. Püriere die Suppe und schmecke sie mit Limettensaft, Salz, Pfeffer und Chiliflocken ab. Scampis anbraten und mit Knoblauch und Salz abschmecken. Das Baguette im Ofen aufbacken lassen. Die Suppe auf den Tellern mit Scampis, Schmand und Kürbisöl anrichten, Baguette dazureichen.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 27,
@@ -428,9 +693,22 @@
       "image": "images/jaegerschnitzel.png",
       "prepTime": "30",
       "cookTime": "40",
-      "ingredients": ["1 Zwiebel", "250g Cherry Tomaten", "TK Kroketten", "400g Champignons","4 Schweineschnitzel jeweils ca. 150g", "2 Eier", "200ml Sahne", "Bohnenkraut", "600g TK-Prinzessbohnen", "Paniermehl"],
+      "ingredients": [
+        "1 Zwiebel",
+        "250g Cherry Tomaten",
+        "TK Kroketten",
+        "400g Champignons",
+        "4 Schweineschnitzel jeweils ca. 150g",
+        "2 Eier",
+        "200ml Sahne",
+        "Bohnenkraut",
+        "600g TK-Prinzessbohnen",
+        "Paniermehl"
+      ],
       "instructions": "Klopfe die Schnitzel flach von innen nach außen. Salze die Schnitzel und lasse sie einige Minuten ruhen. Die Bohnen in gesalzenem Wasser aldente kochen, anschließend abgießen. Schneide die Champignons in Scheiben und würfel die Zwiebel, brate die Champignons in einem Topf ohne Öl auf mittlerer Hitze an, gib dann 30g Butter und die Zwiebeln zu und dünste sie, rühre einen Teelöffel Tomatenmark unter und röste es kurz an, gib einen Esslöffel Mehl dazu, lösche den Topfinhalt mit 200ml Rinderbrühe und Sahne ab und lasse die Soße unter Rühren 10 Minuten köcheln, bis sie cremig ist. Die Cherrytomaten vierteln und gemeinsam mit den Bohnen in einer Pfanne mit etwas Olivenöl schonend braten und kräftig mit Bohnenkraut und etwas Salz und Pfeffer würzen. Kroketten in der Heißluftfritteuse zubereiten. Wende die Schnitzel in einer Panierstraße zuerst in Mehl, ziehe sie dann durch die Eier und wende sie anschließend im Paniermehl, erhitze Sonnenblumenöl in einer Pfanne und brate die Schnitzel darin von beiden Seiten goldbraun. Schwenke die Pfanne dabei, um das Schnitzel zu soufflieren und somit fluffig auszubacken. Gebe immer wieder etwas Butter hinzu, um diesen Effekt zu verstärken. Serviere die Schnitzel mit der Pilzrahmsoße, den Bohnen und Tomaten und den Kroketten. ",
-      "notes": ["Schweineschnitzel könnnen mit Kalbschnitzel ersetzt werden."]
+      "notes": [
+        "Schweineschnitzel könnnen mit Kalbschnitzel ersetzt werden."
+      ]
     },
     {
       "id": 28,
@@ -444,9 +722,23 @@
       "image": "images/saganaki.png",
       "prepTime": "30",
       "cookTime": "15",
-      "ingredients": ["200g Rucola", "250g Cherrytomaten", "1 Bio-Zitrone", "1 Ei", "2 Blöcke neutraler Feta", "300g Mozarella", "Honig", "50g Pinienkerne", "Paniermehl", "300g Kritharaki-Nudeln", "60g getrocknete Tomaten ohne Öl "],
+      "ingredients": [
+        "200g Rucola",
+        "250g Cherrytomaten",
+        "1 Bio-Zitrone",
+        "1 Ei",
+        "2 Blöcke neutraler Feta",
+        "300g Mozarella",
+        "Honig",
+        "50g Pinienkerne",
+        "Paniermehl",
+        "300g Kritharaki-Nudeln",
+        "60g getrocknete Tomaten ohne Öl "
+      ],
       "instructions": "Koche Kritharaki, schrecke sie mit kaltem Wasser ab und lasse sie abtropfen, röste Pinienkerne ohne Öl goldbraun und lasse sie auskühlen, wasche Rucola, viertel die Tomaten, schneide den Mozzarella klein, schneide getrocknete Tomaten in Streifen. Alles zusammen in eine große Schüssel geben. Dressing aus 3 EL Olivenöl, 1EL Essig, 3EL Wasser, Saft einer halben Zitrone und Abrieb einer halben Zitrone, 1 TL Salz, 1 TL Pfeffer, 1TL italienische Kräuter, 1TL Honig oder Rohrzucker anrühren und in der Salatschüssel unterheben. Salat in den Kühlschrank stellen. Trockne die 2 Blöcke Feta ab, verrühre in einem tiefen Teller 1 Ei, 1 TL Oregano, 1 TL Thymian und 1/8 TL schwarzen Pfeffer zu einer glatten Masse, stelle separate Teller mit 50g Mehl, der gewürzten Ei-Masse und 80g Paniermehl bereit (verwende selbstgemachtes Paniermehl oder welches vom Bäcker), wende jeden Feta-Block zuerst im Mehl, dann in der Ei-Masse und anschließend im Paniermehl. Saganaki in Airfryer legen, mit etwas Öl-Spray besprühen und ca. 10 Minuten goldbraun backen. Zusammen mit dem Kritharaki Salat servieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 29,
@@ -460,9 +752,17 @@
       "image": "images/crepes.png",
       "prepTime": "15",
       "cookTime": "15",
-      "ingredients": ["225g Mehl", "6 Eier", "450ml Milch", "60g Butter", "Crepe-Beläge nach Wahl - süß und herfzhaft"],
+      "ingredients": [
+        "225g Mehl",
+        "6 Eier",
+        "450ml Milch",
+        "60g Butter",
+        "Crepe-Beläge nach Wahl - süß und herfzhaft"
+      ],
       "instructions": "Mehl in eine Schüssel geben und mit Milch glatt rühren. Eier aufschlagen und verrühren, zur Masse geben. Butter in der Mikrowelle flüssig schmelzen und mit einer Prise Salz zur Masse geben. Auf das Crepegerät etwas Butter geben und die Crepes nacheinander backen. ",
-      "notes": ["Ideen, um den Crepe zu belegen: Käse & Schinken, Zimt & Zucker, Nutella"]
+      "notes": [
+        "Ideen, um den Crepe zu belegen: Käse & Schinken, Zimt & Zucker, Nutella"
+      ]
     },
     {
       "id": 30,
@@ -476,9 +776,28 @@
       "image": "images/raclette.png",
       "prepTime": "20",
       "cookTime": "45",
-      "ingredients": ["Zwiebeln", "Tomaten", "Kartoffeln", "Champignons", "Paprika", "Baguette", "Mageres Rindersteak", "Aioli", "Cocktail Dip", "Raclettekäse", "Mozarella", "Gouda", "Mais", "Gurken aus dem Glas", "TK Scampis", "TK Brokkoli"],
+      "ingredients": [
+        "Zwiebeln",
+        "Tomaten",
+        "Kartoffeln",
+        "Champignons",
+        "Paprika",
+        "Baguette",
+        "Mageres Rindersteak",
+        "Aioli",
+        "Cocktail Dip",
+        "Raclettekäse",
+        "Mozarella",
+        "Gouda",
+        "Mais",
+        "Gurken aus dem Glas",
+        "TK Scampis",
+        "TK Brokkoli"
+      ],
       "instructions": "Kartoffeln, Nudeln und Brokkoli vorkochen, Steak in dünne Scheiben schneiden und in Sojasoße marinieren. Dann kann das Raclette Gerät auch schon angeworfen werden und die Party losgehen!",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 31,
@@ -492,9 +811,18 @@
       "image": "images/kartoffelsuppe.png",
       "prepTime": "25",
       "cookTime": "45",
-      "ingredients": ["1 Zwiebel","1,5kg mehligkochende Kartoffeln", "1 Bund Suppengrün", "200g Schmand","Gemüsebrühe", "Meica Wiener Würstchen"],
+      "ingredients": [
+        "1 Zwiebel",
+        "1,5kg mehligkochende Kartoffeln",
+        "1 Bund Suppengrün",
+        "200g Schmand",
+        "Gemüsebrühe",
+        "Meica Wiener Würstchen"
+      ],
       "instructions": "Zwiebel schneiden und glasig im großen Topf anbraten, anschließend wieder Herd ausmachen und Topf zur Seite stellen. Kartoffeln schälen und vierteln. Suppengrün sorgfältig putzen und klein schneiden und zum Topf dazugeben. Mit 1 1/2 Liter Gemüsebrühe auffüllen und aufkochen lassen. Ca. 20 Minuten köcheln lassen, anschließend pürieren und mit Salz, Pfeffer, Muskatnuss und Schmand abschmecken. Die Würstchen in Scheiben schneiden und zur Suppe servieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 32,
@@ -508,9 +836,23 @@
       "image": "images/padThai.png",
       "prepTime": "15",
       "cookTime": "15",
-      "ingredients": ["4 Frühlingszwiebeln", "2 Limetten", "4 Eier", "3 EL brauner Zucker", "400g Reisnudeln (breit)", "200g Mungbohnenkeimlinge oder Sojasprossen", "5 EL Fischsauce", "3 EL Tamarindenpaste",",80g gehackte Erdnüsse", "250g TK Scampi"],
+      "ingredients": [
+        "4 Frühlingszwiebeln",
+        "2 Limetten",
+        "4 Eier",
+        "3 EL brauner Zucker",
+        "400g Reisnudeln (breit)",
+        "200g Mungbohnenkeimlinge oder Sojasprossen",
+        "5 EL Fischsauce",
+        "3 EL Tamarindenpaste",
+        ",80g gehackte Erdnüsse",
+        "250g TK Scampi"
+      ],
       "instructions": "Reisnudeln nach Packungsanweisung einweichen. Zur Vorbereitung bereits Frühlingszwiebel anschrägt in dünne Scheiben schneiden und Erdnüsse kleinhacken. Scampi in etwas Öl anbraten und mit Salz, Knoblauchpulver  würzen und etwas Limettensaft dazugeben. Die Eier aufschlagen und verrühren. Nudeln, Fischsauce, Tamarindenpaste und Zucker hinzufügen. Wenn gewünscht nun auch etwas Glutmat dazugeben. Alles gut vermischen und 2-3 Minuten braten. Sojasprossen und Frühlingszwiebeln unterrühren. Mit gehackten Erdnüssen bestreuen und mit Limettenspalten servieren.",
-      "notes": ["Tamarindenpaste gibt es im Asialaden", "Kann auch vegetarisch mit Tofu zubereitet werden"]
+      "notes": [
+        "Tamarindenpaste gibt es im Asialaden",
+        "Kann auch vegetarisch mit Tofu zubereitet werden"
+      ]
     },
     {
       "id": 33,
@@ -524,25 +866,45 @@
       "image": "images/rindergulasch.png",
       "prepTime": "25",
       "cookTime": "120",
-      "ingredients": ["300g Schalotten", "600g Rindergulasch", "400ml Rinderfond", "40g Tomatenmark", "500g getrocknete Spätzle", "200ml trockener Rotwein"],
+      "ingredients": [
+        "300g Schalotten",
+        "600g Rindergulasch",
+        "400ml Rinderfond",
+        "40g Tomatenmark",
+        "500g getrocknete Spätzle",
+        "200ml trockener Rotwein"
+      ],
       "instructions": "Gulaschfleisch im besten Fall 1 Tag vorher leicht salzen. Fleisch 30 Minuten vor Zubereitung aus dem Kühlschrank nehmen. Fleisch quer zur Faser in 3x3 cm Würfel schneiden und nur leicht salzen. Schalotten schälen und halbieren. Schalotten im Dutch Oven in etwas Butterschmalz, alternativSonnenblumenöl, glasig anbraten und herausnehmen. Fleisch bei hoher Hitze im Dutch Oven scharf anbraten, es soll ordentlich Röstaromen geben. Alles zurück in den Dutch Oven, Tomatenmark dazugeben und kurz mitrösten. Mit Rotwein ablöschen und auf 1/3 reduzieren. Knoblauchpulver, 1 TL Zitronenabrieb, 2 TL Paprikapulver, 1/2 TL Majoran und 1 Messerspitze Cayennepfeffer hinzufügen. Mit 400ml Rinderfond aufgießen und 1,5 Stunden mit Deckel bei geringer Hitze schmoren. Nach 1 Stunde prüfen - bei zu flüssiger Sauce die letzten 30 Minuten ohne Deckel garen. Abschmecken und eventuell mit etwas kalter Butter andicken. Die Spätzle kochen und alles zusammen servieren.",
-      "notes": ["Schmeckt am zweiten Tag noch besser", "Auch sehr lecker mit Klößen oder Bandnudeln."]
+      "notes": [
+        "Schmeckt am zweiten Tag noch besser",
+        "Auch sehr lecker mit Klößen oder Bandnudeln."
+      ]
     },
     {
       "id": 34,
-      "name": "Nudeln mit Fisch und Blattspinat",
+      "name": "Sushi Edamame Bowl",
       "category": "Sonstiges",
-      "vegetarian": false,
-      "groupFriendly": true,
-      "carbohydrateSource": "Nudeln",
-      "days": 2,
-      "country": "Deutschland",
-      "image": "images/nudelnFischSpinat.png",
-      "prepTime": "25",
-      "cookTime": "20",
-      "ingredients": ["2 Schalotten", "1 Bio Zitrone", "200g Schmand", "500g Bandnudeln","500g TK Kabeljaufilet"],
-      "instructions": "Kabeljau 2-3 Stunden vor Zubereitung im Kühlschrank auftauen lassen und trocken tupfen. In mundgerechte Stücke schneiden, leicht salzen und pfeffern. Schalotten fein würfeln. Butter in einer großen Pfanne erhitzen, Schalotten glasig andünsten. Mit Gemüsebrühe ablöschen und 5 Minuten köcheln lassen. TK Spinat hinzugeben und auftauen lassen. Schmand einrühren und mit Salz, Pfeffer, Knoblauchpulver, Muskatnuss, Zitronensaft und etwas Zitronenabrieb abschmecken. Kabeljau vorsichtig in die Sauce geben und bei mittlerer Hitze 8-10 Minuten ziehen lassen, nicht kochen. Währenddessen Nudeln nach Packungsanweisung kochen. Wenn gewünscht Dill unter die Sauce heben. Mit den abgetropften Nudeln servieren und zusätzlichem Dill und Zitrone servieren.",
-      "notes": [""]
+      "vegetarian": true,
+      "groupFriendly": false,
+      "carbohydrateSource": "Reis",
+      "days": 1,
+      "country": "Japan",
+      "image": "images/sushiEdamameBowl.png",
+      "prepTime": "30",
+      "cookTime": "15",
+      "ingredients": [
+        "1 Avocado",
+        "2 Möhren",
+        "2 Lauchzwiebeln",
+        "1 Limitte",
+        "300g Natur-Tofu",
+        "300g Basmati Reis",
+        "200g TK-Edamame"
+      ],
+      "instructions": "Reis kochen. Avocadofruchtfleisch lösen und in Würfeln schneiden. 2 EL Sesam in einer Pfanne ohne Fett rösten. Edamame in kochendem Salzwasser 6-8 Minuten garen. Mööhre schälen und raspeln. Lauchzwiebeln in feine Röllchen schneiden. Tofu in Würfel schneiden. 2 EL Rapsöl in Pfanne erhitzen und den Tofu darin anbraten. Die Limette halbieren und den Saft auspressen. Die Hälfte des Limettensaftes mit 2 EL heller Sojasoße und 2 TL Ahornsirup mischen. Tofu mit der Mischung ablöschen und vom Herd nehmen. Für das Dressing 1 EL geröstetes Sesamöl, 2 EL Rapsöl, 2 EL helle Sojasoße, 2 TL Ahornshirup und den Rest des Limettensafts vermengen. Alles als Bowl servieren",
+      "notes": [
+        "Damit der Tofu noch besser wird - zuvor einfrieren, auftauen lassen und einige Stunden vor dem Braten marinieren lassen."
+      ]
     },
     {
       "id": 35,
@@ -556,9 +918,16 @@
       "image": "images/spanischeTortilla.png",
       "prepTime": "30",
       "cookTime": "30",
-      "ingredients": ["150g Zwiebeln", "500g vorwiegend festkochende Kartoffeln", "4 Eier", "250ml Olivenöl"],
+      "ingredients": [
+        "150g Zwiebeln",
+        "500g vorwiegend festkochende Kartoffeln",
+        "4 Eier",
+        "250ml Olivenöl"
+      ],
       "instructions": "Kartoffeln schälen, in kleine 0,5 - 1 cm Würfel schneiden und mit dem Salz bestreuen. Die Zwiebeln fein hacken. Olivenöl in einer Pfanne (24 cm Durchmesser) erhitzen und die Kartoffelwürfel zugeben. Die Kartoffeln sollten mit Öl gerade bedeckt sein. Die Temperatur auf mittlere Hitze zurückstellen und die Kartoffeln etwa 12 - 15 Minuten braten. Die Zwiebeln in einer zweiten Pfanne mit ein wenig Olivenöl in 10 - 15 Minuten glasig und goldbraun anschwitzen. Die Eier in eine große Schüssel geben und mit einem Schneebesen kräftig schlagen und salzen. Die Kartoffeln mit einem Sieb vom Olivenöl trennen. Kartoffeln und Zwiebeln zu den Eiern in die Schüssel geben und 3 - 5 Minuten ziehen lassen. Ca. 2 - 3 Esslöffel Olivenöl stark erhitzen, die Tortillamasse in die Pfanne geben und 2 Minuten braten. Wenn die Masse anfängt zu bräunen (die Eier nicht stocken lassen), die Tortilla mithilfe eines Tellers umdrehen. Einfach den Teller auf die Tortilla legen und die Pfanne umdrehen, sodass die Tortilla auf dem Teller liegt. Dann die Tortilla in die Pfanne gleiten lassen. Von der Rückseite 1 Minute braten. Die Tortilla soll innen noch flüssig sein.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 36,
@@ -572,9 +941,19 @@
       "image": "images/burger.png",
       "prepTime": "20",
       "cookTime": "25",
-      "ingredients": ["1 Zwiebel", "1 große Rispentomate", "1 Eisbergsalat", "Burgerbrötchen", "500g Rindfleisch", "Schmelzkäsescheiben", "TK Pommes"],
+      "ingredients": [
+        "1 Zwiebel",
+        "1 große Rispentomate",
+        "1 Eisbergsalat",
+        "Burgerbrötchen",
+        "500g Rindfleisch",
+        "Schmelzkäsescheiben",
+        "TK Pommes"
+      ],
       "instructions": "Rindfleisch in 125g Portionen aufteilen und mit einem kleinem Schuss Worcestersauce würzen. Patties formen, dabei 50% breiter als das Burger Bun formen, da sich die Patties noch zusammenziehen. Noch nicht salzen! Burgerpatties in den Kühlschrank stellen. Zwiebel in Ringe schneiden. Tomate in Scheiben schneiden. Vom Eisbergsalat schöne Salatblätter zupfen. Brötchen aufschneiden und das Innere der Brötchenseiten je nach Geschmack in einer Pfanne mit etwas Butter anrösten oder im Ofen backen. Pommes für ca. 15 Minuten in den Airfryer geben und regelmäßig schütteln. Nun Patties aus dem Kühlschrank holen, salzen und in einer sehr heißen Edelstahlpfanne braten. Nach dem Wenden eine Scheibe Schmelzkäse auf jedes Patty legen und die Pfanne mit einem Deckel verschließen, damit der Käse anschmilzt. Nun Burger zusammenbauen, als Soßen z.B. Mayo und Ketchup und mit Pommes und Cola servieren. ",
-      "notes": ["Burgerpatties können bereits einige Stunden im Vorraus geformt werden. Das Durchkühlen im Kühlschrank verhindert, dass sie beim Braten auseinanderfallen!"]
+      "notes": [
+        "Burgerpatties können bereits einige Stunden im Vorraus geformt werden. Das Durchkühlen im Kühlschrank verhindert, dass sie beim Braten auseinanderfallen!"
+      ]
     },
     {
       "id": 37,
@@ -588,9 +967,17 @@
       "image": "images/cremigstePasta.png",
       "prepTime": "15",
       "cookTime": "30",
-      "ingredients": ["6 Zwiebeln", "Frische glatte Petersilie", "400g Sahne", "1 TL Sambal Oelek", "500g Nudeln Linguine"],
+      "ingredients": [
+        "6 Zwiebeln",
+        "Frische glatte Petersilie",
+        "400g Sahne",
+        "1 TL Sambal Oelek",
+        "500g Nudeln Linguine"
+      ],
       "instructions": "Schneide die Zwiebeln in dünne Streifen. Erhitze Butter und Olivenöl in einer großen Edelstahlpfanne und brate die Zwiebeln bei mittlerer Hitze 15-20 Minuten langsam goldbraun und karamellisiert - falls sie am Pfannenboden ansetzen, lösche mit etwas Wasser ab. Koche währenddessen die Pasta in Salzwasser al dente und hebe etwas Nudelwasser auf. Sobald die Zwiebeln goldbraun sind, gib Knoblauchpulver, 2 TL süßes Paprikapulver, 2 TL Salz, 2 TL frisch gemahlener Pfeffer, 2 TL italienischer Kräuter dazu und brate alles 1 Minute an. Gieße dann die Sahne dazu, füge 1 TL Sambal Oelek und gehackte Petersilie hinzu und lasse die Sauce 2-3 Minuten köcheln bis sie cremig ist. Gib die Pasta direkt in die Sauce und vermische alles gut - falls die Sauce zu dick ist, rühre nach und nach etwas Nudelwasser unter bis sie seidig wird. Serviere das Gericht und garniere nach Belieben mit frischer Petersilie.",
-      "notes": ["Wer Fleisch dazu möchte kann Pancetta in Würfel schneiden, langsam in der Pfanne ausgehen lassen und zu den Nudeln servieren."]
+      "notes": [
+        "Wer Fleisch dazu möchte kann Pancetta in Würfel schneiden, langsam in der Pfanne ausgehen lassen und zu den Nudeln servieren."
+      ]
     },
     {
       "id": 38,
@@ -604,9 +991,18 @@
       "image": "images/beefStirFry.png",
       "prepTime": "30",
       "cookTime": "30",
-      "ingredients": ["3 Zwiebeln", "Frühlingszwiebeln", "650g Kurzgebratenes Rindfleisch (Rinderhüfte, Roastbeef)", "350g Basmatireis", "500g TK Bohnen", "400g TK Brokkoli"],
+      "ingredients": [
+        "3 Zwiebeln",
+        "Frühlingszwiebeln",
+        "650g Kurzgebratenes Rindfleisch (Rinderhüfte, Roastbeef)",
+        "350g Basmatireis",
+        "500g TK Bohnen",
+        "400g TK Brokkoli"
+      ],
       "instructions": "Rindfleisch in dünne Streifen schneiden. In 3 EL Stärke, 1 1/2 TL Zucker, 3 TL Backupulver, Ingwer, Pfeffer, 2 EL helle Sojasoße, 2 EL Erdnussöl und etwas kalten Wasser marinieren. Zusätzlich eine Sauce seperat in einer Schüssel vorbereiten aus 3 EL Austernsauce, 1 EL helle Sojasoße, 1 EL dunkle Sojasoße, 3 EL chinesicher Kochwein, 2 EL Wasser, 2 EL Zucker, 1 1/2 TL Stärke und 1 1/2 TL Glutamat. Bohnen und Brokkoli in Salzwasser aldente kochen und abgießen. Die Zwiebeln in Streifen schneiden. Frühlingszwiebeln im Ganzen vierteln und in Sterifen runterschneiden. Edelstahlpfanne hoch erhitzen und Öl hinzugeben. Wenn die Pfanne richtig heiß ist, Fleisch scharf anbraten. Dann Fleisch entfernen und das Gemüse ebenfalls kurz scharf anbraten. Anschließend mit der vorher vorbereiteen Sauce abschrecken und das Rind hinzugeben. Die Schärfe des Stir Fries mit einem halben TL Sambal Olek oder je nach Wunsch dosieren und mit dem Reis servieren.",
-      "notes": ["Erfordert verschiedene Saucen, genau das Rezept vorher durchlesen."]
+      "notes": [
+        "Erfordert verschiedene Saucen, genau das Rezept vorher durchlesen."
+      ]
     },
     {
       "id": 39,
@@ -620,9 +1016,14 @@
       "image": "images/orangeChicken.png",
       "prepTime": "30",
       "cookTime": "30",
-      "ingredients": ["600g Hähnchenbrust", "200ml Orangensaft oder frische Orangen"],
+      "ingredients": [
+        "600g Hähnchenbrust",
+        "200ml Orangensaft oder frische Orangen"
+      ],
       "instructions": "Hühnerbrust in kleine Stücke schneiden und mit 2 EL Sojasoße, 1 EL Sesamöl und Ingwer marinieren. Panade aus 4 EL Maisstärke, 2 EL Mehl, Salz, Pfeffer und Knoblauchpulver panieren. Hühnerbrust in der Panade marinieren und in Rapsöl erstmalig frittieren. Anschließend Hühnchen rausnehmen und auf einem Gitter abtropfen lassen. 1EL Braunen Zucker in einer Pfanne karamellisieren lassen. 200ml Orangensaft mit 1 EL Reisessig vermischen und damit ablöschen. Hühnchen erneut frittieren. Die Soße bis zur gewünschten Konsistenz reduzieren und das Hühnchen hinzugeben.",
-      "notes": ["Am besten frische Orangen nehmen und pressen 🍊."]
+      "notes": [
+        "Am besten frische Orangen nehmen und pressen 🍊."
+      ]
     },
     {
       "id": 40,
@@ -636,9 +1037,15 @@
       "image": "images/avocadoPasta.png",
       "prepTime": "5",
       "cookTime": "15",
-      "ingredients": ["1 Avocado", "250g Cherry-Tomaten", "300g Spaghetti"],
+      "ingredients": [
+        "1 Avocado",
+        "250g Cherry-Tomaten",
+        "300g Spaghetti"
+      ],
       "instructions": "Spaghetti kochen. Cherrytomaten vierteln und salzen. Avocado in einer Schüssel mit Salz und Pfeffer cremig verrühren und einen EL Pastawasser dazugeben. Die Soße zu den Spaghetti geben und gemeinsam mit den Tomaten genießen.",
-      "notes": ["Perfekt im Sommer 🏖️"]
+      "notes": [
+        "Perfekt im Sommer 🏖️"
+      ]
     },
     {
       "id": 41,
@@ -652,9 +1059,17 @@
       "image": "images/strawberryStickyRice.png",
       "prepTime": "10",
       "cookTime": "35",
-      "ingredients": ["200g Erdbeeren", "200g High Gluten Thai Rice", "250ml Aroy-D Kokosmilch"],
+      "ingredients": [
+        "200g Erdbeeren",
+        "200g High Gluten Thai Rice",
+        "250ml Aroy-D Kokosmilch"
+      ],
       "instructions": "Am Vortag den Reis mehrfach waschen und über Nacht in Wasser ziehen lassen. Am Kochtag den Reis in ein Baumwolltuch einwickeln und 18 Minuten im Bambus-Dampfgarer dämpfen. Währenddessen Kokosmilch erwärmen, 40 Gramm Zucker hinzufügen, eine Prise Salz und eine gute Prise Kardamonpulver dazugeben. Auf mittlerer Hitze alles einrühren. Wenn der Reis fertig ist ihn umfüllen und mit 2/3 der Kokossoße übergießen und einarbeiten und 10 Minuten einziehn lassen. Währenddessen etwas Speisestärke in wenig Wasser auflösen und zu der Soße geben und einrühren. Die Erdbeeren vorbereiten und nachdem die 10 Minuten Ziehzeit vom Reis um sind, Reis, Erdbeeren und die extra Soße auf dem Teller anrichten.",
-      "notes": ["Erfordert einen Bambus-Dampfgarer", "Die richtige 🥥milch ist wichtig für das Ergebnis", "Den High Gluten Thai Rice findet man im Asia-Laden 🍚"]
+      "notes": [
+        "Erfordert einen Bambus-Dampfgarer",
+        "Die richtige 🥥milch ist wichtig für das Ergebnis",
+        "Den High Gluten Thai Rice findet man im Asia-Laden 🍚"
+      ]
     },
     {
       "id": 42,
@@ -668,9 +1083,21 @@
       "image": "images/chickenScharwarmaRiceBowl.png",
       "prepTime": "20",
       "cookTime": "25",
-      "ingredients": ["400g Cherrytomaten", "3 helle Zwiebeln", "3 rote Zwiebeln", "frische glatte Petersilie", "1 Zitrone", "600g Hühnchen", "1 ganzer Knoblauch", "300g Reis", "200g griechischer Joghurt"],
+      "ingredients": [
+        "400g Cherrytomaten",
+        "3 helle Zwiebeln",
+        "3 rote Zwiebeln",
+        "frische glatte Petersilie",
+        "1 Zitrone",
+        "600g Hühnchen",
+        "1 ganzer Knoblauch",
+        "300g Reis",
+        "200g griechischer Joghurt"
+      ],
       "instructions": "Die Hähnchenbrustfilets der Länge nach einmal durchschneiden, um mehrere kleiner Filets zu haben. In einer Schüssel das Hähnchen mit 2 Zehen Knoblauch, 3 TL Olivenöl, dem Saft einer halben Zitrone, 1 TL Paprika edelsüß, 1 TL Zwiebelpulver, 2 TL Kurkuma, 2 TL Pfeffer, 1 TL Salz und 1 TL Hühnerbrühe vermischen und einmassieren. Anschließend solange marinieren lassen wie möglich. Nun in einer unbeschichteten Pfanne das Hähnchen auf hoher Hitze fertig braten. Anschließend aus der Pfanne nehmen. Die weißen Zwiebeln schneiden und in die vorher benutzte Pfanne mit ca. 30 Gramm Butter geben. Glasig braten. Anschließend Reis in die Pfanne (!) hinzugeben, mit 1 TL Kurkuma, 2 TL Paprika edelsüß, 2 TL Knoblauchpulver, 2 TL Pfeffer und 2 TL Hühnerbrühe würzen und mit der 1,8 fachen Menge an Wasser aufgießen. Deckel drauf und ca. 20 mMinuten bei geringer hitze köcheln lassen. In der Zwischenzeit die roten Zwiebeln in dünne Ringe schneiden und die Cherry-Tomaten vierteln. Zwiebeln und Tomaten in einer Schüssel mit dem Saft einer halben Zitrone, 3 TL Olivenöl, 1 TL Salz und 1 TL Pfeffer vermischen. Für die Knoblauchsauce den griechischen Joghurt mit einem Viertel der Menge Mayonaise vermischen. 1 Knoblauchzehe, dem Saft einer halben Zitrone, 2 TL Olivenöl, 1 TL Salz, 1 TL Pfeffer hinzugeben und die Sauce im Kühlschrank ziehen lassen. Sobald der Reis fertig ist, das Hähnchen in der Mikrowelle erhitzen, in Streifen schneiden und alles gemeinsam auf einem tiefen Teller als Bowl servieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 43,
@@ -684,9 +1111,21 @@
       "image": "images/vegetarischerKartoffelauflauf.png",
       "prepTime": "35",
       "cookTime": "50",
-      "ingredients": ["2 frische Knoblauchzehen", "1,5 KG Kartoffeln", "2 Stangen Lauch", "1 rote Paprika", "250g Champignons", "125g Streukäse", "700ml Milch", "150g Cashewmus", "125g DM Bio Soja-Schnetzel" ],
+      "ingredients": [
+        "2 frische Knoblauchzehen",
+        "1,5 KG Kartoffeln",
+        "1 Stange Lauch",
+        "1 rote Paprika",
+        "250g Champignons",
+        "125g Streukäse",
+        "700ml Milch",
+        "150g Cashewmus",
+        "125g DM Bio Soja-Schnetzel"
+      ],
       "instructions": "Sojaschnetzel nach Packungsanleitung in Gemüsebrühe quellen lassen. Sojaschnetzel mit 2 EL Tomatenmark, 4 EL dunkler Sojasoße, 1 TL Knoblauchpulver, 1 TL geräuchterem Paprikapulver, 1 TL Olivenöl marinieren. Dann das Sojaschnetzel auf einem Backblech ca. 20 Minuten im Ofen Backen. Kartoffeln schälen und in dünne bis mitteldicke Scheiben (Auflaufdicke) schneiden. Die Kartoffeln in Salzwasser kochen bis sie durch sind, aber noch leicht Biss haben. Gemüse schneiden. Wenn die Kartoffeln und das Sojaschnetzel fertig sind, alles in einer Auflaufform vermengen. Eine Soße aus 150g Cashewmus, 1 EL Tomatenmark, 1TL Salz,  2 frischen Knoblauchzehen und 700ml Milch im Mixer zusammenmixen und über den Auflauf geben. Den Auflauf mit Streukäse garnieren und im Ofen ca. 30 Minuten bei 190 Grad backen.",
-      "notes": ["Mandelmus und Sojaschnetzel gibt es Bio im DM zu kaufen."]
+      "notes": [
+        "Mandelmus und Sojaschnetzel gibt es Bio im DM zu kaufen."
+      ]
     },
     {
       "id": 44,
@@ -700,9 +1139,17 @@
       "image": "images/erdnussChiliNudeln.png",
       "prepTime": "5",
       "cookTime": "15",
-      "ingredients": ["300g Udon Nudeln", "2EL Erdnussbutter", "1 EL Chili Crisp", "2 Frühlingszwiebeln", "1 EL Sesamsamen"],
+      "ingredients": [
+        "300g Udon Nudeln",
+        "2EL Erdnussbutter",
+        "1 EL Chili Crisp",
+        "2 Frühlingszwiebeln",
+        "1 EL Sesamsamen"
+      ],
       "instructions": "In eine Edelstahlpfanne getrennt von einander die Erdnussbutter, den Chili Crisp, 2/3 der Frühlingszwiebel, Sesamsamen, 1 EL dunkle Sojasoße, 1 TL Reisessig geben - noch nicht verrühren!. In einem Topf die Nudeln in Salzwasser kochen, etwas Nudelwasser aufbewahren!. In einem seperaten Topf ca. 50 ml neutrales Öl hoch erhitzen. Das heiße Öl über die Zutaten in der Pfanne gießen und nun alles verrühren und 4 EL Nudelwasser hinzugeben. Dann die Nudeln mit unterrühren und auf dem Teller mit dem Rest der Frühlingszwiebeln garnieren.",
-      "notes": [""]
+      "notes": [
+        ""
+      ]
     },
     {
       "id": 45,
@@ -716,9 +1163,24 @@
       "image": "images/ceviche.png",
       "prepTime": "25",
       "cookTime": "30",
-      "ingredients": ["1 große Dorade 🐟 ca. 500 Gramm", "1 rote Zwiebel", "2 Knoblauchzehen", "frische glatte Petersilie", "4 Limetten", "3 kl. Chilis", "1 große Süßkartoffel", "Gerösteter Mais"],
+      "ingredients": [
+        "1 große Dorade 🐟 ca. 500 Gramm",
+        "1 rote Zwiebel",
+        "2 Knoblauchzehen",
+        "frische glatte Petersilie",
+        "4 Limetten",
+        "3 kl. Chilis",
+        "1 große Süßkartoffel",
+        "Gerösteter Mais"
+      ],
       "instructions": "Süßkatoffel schälen und in Scheiben schneiden. In kaltes Salzwasser geben und sobald das Wasser kocht für ca. 20 Minuten kochen, anschließend vorsichtig abgießen. Fisch filettieren (s. Tipps) und in mittelgroße Würfel schneiden. Halbe Zwiebel in feine Scheiben schneiden und die andere Hälfte fein würfeln. Knoblauch und 2 Chilis schneiden. Nun 1 EL Fisch feinhacken, und mit dem Saft der Limetten, dem Knoblauch, der gehackten Chili, gehackter Zwiebel und etwas gehackter Petersilie in einen Mixer geben. Alles gut durchmixen und absieben! Restliche Chili, etwas Petersilie und die Zwiebelscheiben als extra Toppings zur Seite stellen. Ca. 15 Minuten bevor serviert werden soll, den Fisch in die abgesiebte Soße (Leche de Tigre) geben. Dann, den Fisch, gemeinsam mit den lauwarmen Süßkartoffelscheiben, den extra Toppings und dem gerösteten Mais servieren.",
-      "notes": ["Die Dorade frisch an dem Tag beim Fischhändler kaufen 🐟!", "Die Dorade am besten im Fischhandel entnehmen lassen!", "Nach dem Kauf den Fisch aus der Tüte nehmen, abtrocknen und auf einem flachen Teller mit Frischhaltefolie bedeckt in den Kühlschrank tun!.", "Die Fischfilets können am besten entfernt werden, indem man schräg, an den Mittelgräten runterschneidet und nach außen hin, eng an der Haut das Filet abtrennt. So werden aus jeder Hälfte jeweils 2 Filets.", "Kabeljau ist eine günstige Alternative zu Dorade"]
+      "notes": [
+        "Die Dorade frisch an dem Tag beim Fischhändler kaufen 🐟!",
+        "Die Dorade am besten im Fischhandel entnehmen lassen!",
+        "Nach dem Kauf den Fisch aus der Tüte nehmen, abtrocknen und auf einem flachen Teller mit Frischhaltefolie bedeckt in den Kühlschrank tun!.",
+        "Die Fischfilets können am besten entfernt werden, indem man schräg, an den Mittelgräten runterschneidet und nach außen hin, eng an der Haut das Filet abtrennt. So werden aus jeder Hälfte jeweils 2 Filets.",
+        "Kabeljau ist eine günstige Alternative zu Dorade"
+      ]
     },
     {
       "id": 46,
@@ -732,9 +1194,22 @@
       "image": "images/kichererbsenCurry.png",
       "prepTime": "25",
       "cookTime": "30",
-      "ingredients": ["2 Bio Limetten", "1 Schalotte", "1 Chili", "etwas frischer Ingwer", "5 Knoblauchzehen", "300g Griechischer Joghurt", "480g Reis", "500ml Aroy-D Kokosmilch", "2 Dosen Kichererbsen", "600g TK Blattspinat"],
+      "ingredients": [
+        "2 Bio Limetten",
+        "1 Schalotte",
+        "1 Chili",
+        "etwas frischer Ingwer",
+        "5 Knoblauchzehen",
+        "300g Griechischer Joghurt",
+        "480g Reis",
+        "500ml Aroy-D Kokosmilch",
+        "2 Dosen Kichererbsen",
+        "600g TK Blattspinat"
+      ],
       "instructions": "Den griechischen Joghurt in einer Schale mit 1EL Mayonaise, dem Saft einer halben Limette und Salz und Pfeffer anrühren und im Kühlschrank ziehen lassen. Die Schale einer Drittel Limette, eine halbe Schalotte, die Knoblauchzehen, die Chili und den Ingwer mit einer guten Prise Salz in einem Mörser zu einer Paste stößeln. Nun den Reis anfangen zu kochen. Die Paste in einer Pfanne mit etwas Olivenöl anbraten und nach kurzer Zeit 1 EL Tomatenmark mit dazugeben. Einen guten Schuss Kokosmilch dazugeben. Dann den Blattspinat dazugeben und einkochen lassen. Dann den Rest der Kokosmilch, viel Kurkuma und geräucherte Paprika dazugeben und mit Salz abschmecken. Das Curry auf dem Reis servieren, einen Klecks von der Joghurtsoße drauf geben und die Limette dazugeben.",
-      "notes": ["Reicht sogar für 3 Tage"]
+      "notes": [
+        "Reicht sogar für 3 Tage"
+      ]
     },
     {
       "id": 47,
@@ -748,9 +1223,19 @@
       "image": "images/padKraPao.png",
       "prepTime": "10",
       "cookTime": "25",
-      "ingredients": ["1 Packung Thai Basilikum", "2 rote Chilis", "5 Knoblauchzehen", "1 Schalotte", "4 Eier", "500g gemischtes Hack", "400g Reis"],
+      "ingredients": [
+        "1 Packung Thai Basilikum",
+        "2 rote Chilis",
+        "5 Knoblauchzehen",
+        "1 Schalotte",
+        "4 Eier",
+        "500g gemischtes Hack",
+        "400g Reis"
+      ],
       "instructions": "Das Hack bei hoher Hitze knusprig anbraten und anschließend aus der Pfanne nehmen! Reis kochen. Schalotte und Knoblauch fein hacken und die Chili in Scheiben schneiden. In der Pfanne die Chilis in etwas Öl anbraten, dann Zwiebeln und Knoblauch dazugeben, nach kurzer Zeit auch das Hack wieder in die Pfanne geben. Dann Thai Basilikum zupfen und in die Pfanne geben. 2 TL helle Sojasoße und 3 EL dunkle Sojasoße, 1 TL Austernsoße, 1 TL Fischsauce, 1TL braunen Zucker und 1 TL Glutamat dazugeben. Zum Schluss das Spiegelei braten und alles zusammen servieren.",
-      "notes": ["Thai Basilikum 🌿 im Asia Laden kaufen - liegt im Kühlschrank"]
+      "notes": [
+        "Thai Basilikum 🌿 im Asia Laden kaufen - liegt im Kühlschrank"
+      ]
     },
     {
       "id": 48,
@@ -764,9 +1249,22 @@
       "image": "images/tomKhaGai.png",
       "prepTime": "15",
       "cookTime": "30",
-      "ingredients": ["7cm Galgant ODER Ingwer", "5 Stängel Zitronengras", "3 Chilischoten", "100g Enoki Pilze", "2 Limetten", "400g Champignons", "600g Hähnchenbrust", "800ml Aroy D Kokosmilch", "200g Reis"],
+      "ingredients": [
+        "7cm Galgant ODER Ingwer",
+        "5 Stängel Zitronengras",
+        "3 Chilischoten",
+        "100g Enoki Pilze",
+        "2 Limetten",
+        "400g Champignons",
+        "600g Hähnchenbrust",
+        "800ml Aroy D Kokosmilch",
+        "200g Reis"
+      ],
       "instructions": "Reis kochen. Das Zitronengras in 4 cm lange Stücke schneiden und mit dem Messerrücken leicht klopfen, Chilis entkernen und in Streifen schneiden und Galgant oder Ingwer schälen und in Scheiben schneiden. Die Brühe und die Hälfte der Kokosmilch zum Kochen bringen, und das Zitronengras, den Galgant und die Chilis hineingeben. Mit 5 EL Fischsauce würzen und 10 Minuten köcheln lassen. Die Champignons und Enoki-Pilze hinzufügen und weitere 5 Minuten kochen, dann das Hühnerfleisch unterrühren und wenige Minuten auf kleiner Flamme garen. Die restliche Kokosmilch zufügen und mit Limettensaft, Zucker und Fischsauce abschmecken. In Schalen anrichten und mit Chilistreifen garnieren.",
-      "notes": ["Zitronengras und Galgant im Asia Laden kaufen - liegt im Kühlschrank", "Zitronengras und Galgant oder Ingwer sind Würzzutaten und werden nicht mitgegessen. Wer sich das Trennen während des Essens ersparen möchte, fischt sie mit einem Schaumlöffel aus der Suppe, bevor die Pilze dazu kommen."]
+      "notes": [
+        "Zitronengras und Galgant im Asia Laden kaufen - liegt im Kühlschrank",
+        "Zitronengras und Galgant oder Ingwer sind Würzzutaten und werden nicht mitgegessen. Wer sich das Trennen während des Essens ersparen möchte, fischt sie mit einem Schaumlöffel aus der Suppe, bevor die Pilze dazu kommen."
+      ]
     },
     {
       "id": 49,
@@ -780,9 +1278,22 @@
       "image": "images/mexikanischeBowl.png",
       "prepTime": "15",
       "cookTime": "15",
-      "ingredients": ["2 rote Zwiebeln", "500g Cherrytomaten", "1 Packung Romana Salat", "1 gelbe Paprika", "2 Avocados", "1 Zitrone", "600g Hähnchen", "200g Naturjoghurt", "1 kleine Dose Kidneybohnen", "1 Dose Mais"],
+      "ingredients": [
+        "2 rote Zwiebeln",
+        "500g Cherrytomaten",
+        "1 Packung Romana Salat",
+        "1 gelbe Paprika",
+        "2 Avocados",
+        "1 Zitrone",
+        "600g Hähnchen",
+        "200g Naturjoghurt",
+        "1 kleine Dose Kidneybohnen",
+        "1 Dose Mais"
+      ],
       "instructions": "Salat, Paprika, rote Zwiebeln, und Cherrytomaten mundgerecht vorbereiten. Die Hälfte der Avocado ebenfalls in Scheiben schneiden. Für die Soße in einer Schüssel die andere Hälfte der Avocado, mit dem Saft einer halben Zitrone, 1 TL Avocado Gewürz und 1 TL Agavendicksaft, 2 EL Naturjoghurt und 1 EL Weißweinessig und einem Schuss Milch vermengen. Reis kochen. Das Hähnchen mit Salz, Paprikapulver und Knoblauch würzen und anbraten. Nun alles als Bowl anrichten und nach Geschmack würzen.",
-      "notes": ["¡Viva Mexico! 👒"]
+      "notes": [
+        "¡Viva Mexico! 👒"
+      ]
     },
     {
       "id": 50,
@@ -796,9 +1307,17 @@
       "image": "images/nudelnSpargelFeta.png",
       "prepTime": "15",
       "cookTime": "30",
-      "ingredients": ["250g Cherrytomaten", "1 Knoblauch", "250g grüner Spargel", "1 Feta 'Natur'", "250g Spaghetti"],
+      "ingredients": [
+        "250g Cherrytomaten",
+        "1 Knoblauch",
+        "250g grüner Spargel",
+        "1 Feta 'Natur'",
+        "250g Spaghetti"
+      ],
       "instructions": "Feta im Ganzen in die Auflaufform legen. Cherrytomaten vierteln und mit in die Auflaufform geben. Vom Spargel das holzige Ende abschneiden - den Rest des Spargels in mundgerechte Stücke schneiden und zu den Tomaten und dem Feta geben. 2 Knoblauchzehen schneiden und mit in die Auflaufform geben und alles mit Olivenöl, Salz und Pfeffer würzen und vermengen. Auflaufform bei 200 Grad für 30 Minuten in den Ofen geben. Spaghettis so kochen, dass sie pünktlich mit der Auflaufform fertig sind. Beim Abgießen etwas Nudelwasser behalten und die Spaghetti darin mit etwas kalter Butter umrühren. Sobald die Auflaufform fertig ist, alles in der AUflaufform kräftig verrühren, damit der Feta eine Soße bildet. Nun die Soße gemeinsam mit den Nudeln servieren.",
-      "notes": ["Schmeckt am 1. Tag am besten - da ist der Spargel noch knackig."]
+      "notes": [
+        "Schmeckt am 1. Tag am besten - da ist der Spargel noch knackig."
+      ]
     },
     {
       "id": 51,
@@ -812,9 +1331,26 @@
       "image": "images/brunch.png",
       "prepTime": "30",
       "cookTime": "20",
-      "ingredients": ["Avocado", "Cherry-Tomaten", "Tomaten für Tomate-Mozarella", "Eier", "Geräucherter Lachs", "Mittelalten Beemster oder Old Amsterdam", "Géramont", "Mozarella", "Goudascheiben", "Frischkäse", "Hähnchenbrust-Aufschnitt", "Bio-Bacon", "Den Gamle Fabrik Erdbeermarmelade", "Nutella"],
+      "ingredients": [
+        "Avocado",
+        "Cherry-Tomaten",
+        "Tomaten für Tomate-Mozarella",
+        "Eier",
+        "Geräucherter Lachs",
+        "Mittelalten Beemster oder Old Amsterdam",
+        "Géramont",
+        "Mozarella",
+        "Goudascheiben",
+        "Frischkäse",
+        "Hähnchenbrust-Aufschnitt",
+        "Bio-Bacon",
+        "Den Gamle Fabrik Erdbeermarmelade",
+        "Nutella"
+      ],
       "instructions": "Avocado und Tomaten zusammen auf einem Teller anrichten und mit Olivenöl und Paprika- Knoblauchpulver, Salz und Pfeffer würzen. Géramont in Herzform schneiden.",
-      "notes": ["Hier gibt es nur Einkaufsideen zu sehen 🛒"]
+      "notes": [
+        "Hier gibt es nur Einkaufsideen zu sehen 🛒"
+      ]
     },
     {
       "id": 52,
@@ -828,9 +1364,17 @@
       "image": "images/nudelnBasilikumPesto.png",
       "prepTime": "10",
       "cookTime": "15",
-      "ingredients": ["1 kleine Knoblauchzehe", "25g Basilikum-Blätter", "25g Parmesan", "25g Pinienkerne","35ml Olivenöl"],
+      "ingredients": [
+        "1 kleine Knoblauchzehe",
+        "25g Basilikum-Blätter",
+        "25g Parmesan",
+        "25g Pinienkerne",
+        "35ml Olivenöl"
+      ],
       "instructions": "Pinienkerne in einer beschichteten Pfanne ohne Fett auf mittlerer Hitze rösten. Basilikumblätter zupfen, abwaschen und mit Zewa trocknen. Knoblauchzehe grob würfeln. In einem hohen Rührbecher die Basilikumblätter, das Olivenöl, die Pinienkerne, den Knoblauch, 1/8 TL Salz und 1/8 TL schwarzen Pfeffer mit einem Pürierstab pürieren. Den Parmesan fein reiben und im Pesto unterheben. Mit Salz abschmecken.",
-      "notes": ["Das Pesto wird im Kühlschrank schnell etwas braun - das ist normal aufgrund der Reaktion mit der Luft 🌿."]
+      "notes": [
+        "Das Pesto wird im Kühlschrank schnell etwas braun - das ist normal aufgrund der Reaktion mit der Luft 🌿."
+      ]
     },
     {
       "id": 53,
@@ -844,9 +1388,14 @@
       "image": "images/weißkohlSalat.png",
       "prepTime": "30",
       "cookTime": "5",
-      "ingredients": ["1 Weißkohlkopf", "2 Apfel"],
+      "ingredients": [
+        "1 Weißkohlkopf",
+        "2 Apfel"
+      ],
       "instructions": "Kohl fein schneiden, in eine Schüssel geben, mit Salz bestreuen und gut durchkneten, dann den Kohl beiseite stellen. Äpfel in sehr feine Scheiben schneiden und sofort mit etwas Zitronensaft vermengen, damit sie nicht braun werden und in den Kühlschrank stellen. In einer kleinen Schüssel 2 TL Zucker, 6 TL Olivenöl , 3 TL Essig, und Pfeffer verrühren. Dann den Saft aus dem Kohl ausdrücken und das ausgetrenene Wasser wegschütten. Das Dressing und den Kohl vermengen und für 15 Minuten im Kühlschrank ziehen lassen. Beim Servieren die Apfelscheiben auf den Kohlsalat legen und kräftig mit Zimt bestreuen. ",
-      "notes": ["Zitronensaft hält Äpfel weiß, weil der darin enthaltene Sauerstoff durch die Inhaltsstoffe der Zitrone neutralisiert wird 🍋"]
+      "notes": [
+        "Zitronensaft hält Äpfel weiß, weil der darin enthaltene Sauerstoff durch die Inhaltsstoffe der Zitrone neutralisiert wird 🍋"
+      ]
     },
     {
       "id": 54,
@@ -860,9 +1409,22 @@
       "image": "images/paella.png",
       "prepTime": "15",
       "cookTime": "35",
-      "ingredients": ["1 weiße Zwiebel mittelgroß", "3 Knoblauchzehen", "1 Bio-Zitrone", "1 große rote Spitzpaprika", "600g Hühnerbrust", "250g Paella/Risotto-Reis Sorte Arborio", "100g passierte Tomaten", "100g TK-Erbsen", "150g TK-Bohnen", "250g TK-Meeresfrüchte (Mix aus Muscheln, Scampi, Calamari)"],
+      "ingredients": [
+        "1 weiße Zwiebel mittelgroß",
+        "3 Knoblauchzehen",
+        "1 Bio-Zitrone",
+        "1 große rote Spitzpaprika",
+        "600g Hühnerbrust",
+        "250g Paella/Risotto-Reis Sorte Arborio",
+        "100g passierte Tomaten",
+        "100g TK-Erbsen",
+        "150g TK-Bohnen",
+        "250g TK-Meeresfrüchte (Mix aus Muscheln, Scampi, Calamari)"
+      ],
       "instructions": "TK-Meeresfrüchte auftauen. Zwiebeln, Knoblauchzehen und die Paprikaschote in kleine Würfel schneiden. Die Hähnchenbrust in Würfel schneiden und mit 2 TL Paprikapulver und etwas Salz und Pfeffer würzen. In einer großen, unbeschichteten Pfanne mit hohem Rand (mindestens 7cm) 1 EL Olivenöl erhitzen und auf hoher Stufe die Hähnchenbrust gemeinsam mit der Paprika anbraten. Den Ofen auf 220 Grad Ober/Unterhitze vorheizen! Dann aus der Pfanne nehmen und zur Seite stellen! Nun nochmals 2 EL Olivenöl in die Pfanne geben und Zwiebeln und Knoblauch-Wüfel glasig andünsten. Dann 100g passierte Tomaten in die Pfanne dazugeben und 250g UNGEKOCHTEN Paella Reis dazugeben und alles verrühren. Nach kurzer Zeit mit 800ml Gemüsebrühe ablösen, 1/2 TL Safranfäden hinzugeben, kurz aufkochen lassen und dann die Pfanne für 20 Minuten ohne Deckel in den vorgeheizten Backofen stellen. In der Zwischenzeit die Bohnen in Salzwasser al dente kochen. Nach Ablauf der 20 Minuten die Pfanne aus dem Ofen holen und die Meeresfrüchte, die Erbsen, Paprikawürfel, Hähnchenbrust und 2 Lorbeerblätter unterrühren. Dann die Pfanne für weitere 15 Minuten in den Ofen geben. Zum Ende die Paella Pfanne mit Zitronenscheiben verzieren und servieren.",
-      "notes": ["Unbedingt im Kühlschrank nach dem Essen lagern 🧊 - aufgrund der Meeresfrüchte 🍤"]
+      "notes": [
+        "Unbedingt im Kühlschrank nach dem Essen lagern 🧊 - aufgrund der Meeresfrüchte 🍤"
+      ]
     },
     {
       "id": 55,
@@ -876,9 +1438,134 @@
       "image": "images/menemen.png",
       "prepTime": "15",
       "cookTime": "20",
-      "ingredients": ["1 Zwiebel", "1 große Knoblauchzehe","250g Cherry-Tomaten", "1 JA! Steinofenbaguette", "6 Eier", "1 Feta 'Natur'", "500g passierte Tomaten"],
-      "instructions": "Zwiebel und Koblauch fein würfeln und in 1 EL Olivenöl andünsten. Das Steinofenbaguette im Ofen aufbacken. Dann die Tomaten dazugeben und alles mit Salz, Pfeffer, reichlich Paprikapulver edelsüß und etwas Paprikapulver geräuchert würzen. Nach kurzer Zeit auch die passierten Tomaten dazugeben und mit etwas Knoblauchpulver, Oregano und Thymian und etwas Salz würzen. Dann die Eier in die Pfanne aufschlagen, etwas Salz darübergeben und mit Deckel bei mittlerer Hitze stocken lassen. Zum Schluss in die Pfanne den Feta bröseln und mit Kräutern verzieren. Dazu kann noch Zitrone oder Zitronensaft gereicht werden. In der Pfanne servieren und das Brot dazustellen.",
-      "notes": ["Kann stark abgewandelt werden, z.B. mit grüner Paprika, Sucuk, etc."]
+      "ingredients": [
+        "1 Zwiebel",
+        "1 große Knoblauchzehe",
+        "250g Cherry-Tomaten",
+        "1 JA! Steinofenbaguette",
+        "6 Eier",
+        "1 Feta 'Natur'",
+        "500g passierte Tomaten"
+      ],
+      "instructions": "Zwiebel und Knoblauch fein würfeln und in 1 EL Olivenöl andünsten. Das Steinofenbaguette im Ofen aufbacken. Dann die Tomaten dazugeben und alles mit Salz, Pfeffer, reichlich Paprikapulver edelsüß und etwas Paprikapulver geräuchert würzen. Nach kurzer Zeit auch die passierten Tomaten dazugeben und mit etwas Knoblauchpulver, Oregano und Thymian und etwas Salz würzen. Dann die Eier in die Pfanne aufschlagen, etwas Salz darübergeben und mit Deckel bei mittlerer Hitze stocken lassen. Zum Schluss in die Pfanne den Feta bröseln und mit Kräutern verzieren. Dazu kann noch Zitrone oder Zitronensaft gereicht werden. In der Pfanne servieren und das Brot dazustellen.",
+      "notes": [
+        "Kann stark abgewandelt werden, z.B. mit grüner Paprika, Sucuk, etc."
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Bulgur Nudeln",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": false,
+      "carbohydrateSource": "Bulgur",
+      "days": 1,
+      "country": "Türkei",
+      "image": "images/bulgurNudeln.png",
+      "prepTime": "45",
+      "cookTime": "15",
+      "ingredients": [
+        "Krause Petersilie",
+        "1 Knoblauch",
+        "300g Joghurt",
+        "320g Bulgur",
+        "160g Grieß",
+        "300g passierte Tomaten",
+        "Paprikamark"
+      ],
+      "instructions": "Den Bulgur mit 480ml kochendem Wasser übergießen, abdecken und 10 Minuten quellen lassen. Anschließend mit Grieß, 1 EL Tomatenmark, 1 EL Paprikamark, 1TL Salz, 1 TL Kreuzkümmel und heißem Wasser zu einem weichen Teig verkneten. Aus dem Teig kleine Bällchen formen und mit dem Finger eine kleine Mulde hineindrücken. Die Köfte in leicht kochendem Wasser mit Zitronensäure und Salz 4–5 Minuten garen. Für die Sauce 4 Knoblauchzehen in Olivenöl anbraten, 2 EL Paprikamark und passierte Tomaten dazugeben und kurz köcheln lassen. Die Köfte in der Sauce schwenken und mit Salz und Petersilie abschmecken. Joghurt mit 1 fein gehackter Knoblauchzehe und Salz verrühren. Die Köfte auf Tellern anrichten und mit dem Joghurt servieren.",
+      "notes": [
+        "Am besten alles ein Tag vorher zubereiten, der Geschmack zieht dann schön durch."
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Hong Shao Rou",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Reis",
+      "days": 2,
+      "country": "China",
+      "image": "images/hongShaoRou.png",
+      "prepTime": "60",
+      "cookTime": "120",
+      "ingredients": [
+        "1 Knoblauch",
+        "1 rote Chili",
+        "Pak Choi",
+        "Frischer Ingwer",
+        "800g Schweinebauch",
+        "300g Jasminreis",
+        "1 Sternanis",
+        "1 Zimtstange"
+      ],
+      "instructions": "Schweinebauch in ca. 3 cm breite Scheiben schneiden und noch ohne Hitze in einen großen Topf legen. 800ml Hühnerbrühe darüber gießen. 1 TL geriebener Ingwer, 3 in Scheiben geschnittene Knoblauchzehen, 1 TL Reiswein, eine Prise Zucker, 1 Sternanis und 1 Zimtstange dazugeben. Dann aufkochen lassen und 2 Stunden bei geschlossenem Deckel köcheln lassen. Nach 2 Stunden den Schweinebauch rausholen und mit Cewa abtropfen lassen. In einer Schüssel 1 TL Sesamöl, 1 TL Ingwer, 3 TL dunkle Sojasoße, 1 TL Zitronengraspaste , eine feingeschnittene Chili, eine Prise braunen Zucker und eine Prise Salz und Zucker vermischen. Den Reis kochen und Frühlingszwiebeln in feine Ringe schneiden. Den Schweinebauch in mundgerechte Stücke würfeln. In einer Edelstahlpfanne den Schweinebauch knusprig anbraten. In der Zwischenzeit Pak Choi in Schnitzel schneiden und in Sesamöl mit Salz und Knoblauchpulver andünsten. Wenn der Schweinebauch braun ist, den 'Glaze' aus der vorbereiteten Schüssel darüber geben und noch wenige Minuten schonend weiterbraten. Zum Schluss den Schweinebauch auf dem Reis servieren und mit dem Pak Choi servieren.",
+      "notes": [
+        "Der Schweinebauch lässt sich schon am Vortag kochen und dann weiterverarbeiten.",
+        "Beim Braten des Schweinebauches kann es explosiv werden 💣."
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Selbstgemachte Pizza",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": false,
+      "carbohydrateSource": "Brot",
+      "days": 1,
+      "country": "Italien",
+      "image": "images/selbstgemachtePizza.png",
+      "prepTime": "60",
+      "cookTime": "60",
+      "ingredients": [
+        "Rucola",
+        "Kochschinken",
+        "Parma-Schinken",
+        "Fior di latte Mozzarella 250g (zwei Pizzen)",
+        "1 Parmesan",
+        "Sauce Hollandaise (von Thomy)",
+        "1 Dose Mais",
+        "400g ganze geschälte Tomaten aus der Dose, San Marzano",
+        "666g Typ 00 Mehl",
+        "2,33g frische Hefe",
+        "Hartweizengrieß"
+      ],
+      "instructions": "Mehl in eine Schüssel geben, 413ml eiskaltes Wasser dazugeben und mit einem Löffel verrühren. Teig mit Tuch überdecken und 30 Minuten ruhen lassen. Hefe in 20ml eiskaltem Wasser verrühren und über den Teig geben und reinkneten. Wenn die Flüssigkeit aufgenommen wurde, 15g Salz miteinkneten.Dann auf einer Arbeitsfläche 5 Minuten mit schnellen Bewegungen durchkneten. Dann 15 Minuten abdecken. Dann Hände leicht feucht machen und per Strech and Fold einen großen Teigling formen. Wieder 15 Minuten ruhen lassen und 280g Stücke formen. Dann wieder per Strech and Fold kneten lassen und 1 Stunde abgedekct bei Raumtemperatur ruhen lassen. Dann 20 Stunden in Kühlschrank geben. 1 Stunde vor dem Backen die Teige aus dem Kühlschrank holen und leicht mit Hartenweizengrieß vor dem Arbeiten bestreuen. Für die Tomatensauce die Tomaten von Hand zerdrücken und 1/2 TL Salz, 1 kl. Prise Zucker und 1 EL Olivenöl hinzugeben. Ofen mit einem mit Olivenöl befeuhteten Blech auf 250 Grad vorheizen. Teig formen und mit anderen Zutaten bestreuen. Fertige Pizza auf das Blech legen und ausbacken. Über die fertige Pizza ggf. Olivenöl hinzugeben.",
+      "notes": [
+        "Der Teig wird ein Tag vorher vorbereitet."
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Klassische Lasagne",
+      "category": "Sonstiges",
+      "vegetarian": false,
+      "groupFriendly": true,
+      "carbohydrateSource": "Nudeln",
+      "days": 2,
+      "country": "Italien",
+      "image": "images/klassischeLasagne.png",
+      "prepTime": "45",
+      "cookTime": "45",
+      "ingredients": [
+        "2 Zwiebeln",
+        "frischer Basilikum",
+        "1 Karotte",
+        "1 Stangensellerie",
+        "500g gemischtes Hackfleisch",
+        "50g Pancetta oder Bauchspeck",
+        "1 Parmesan",
+        "500 ml Milch",
+        "400g passierte Tomaten",
+        "Lasagneplatten",
+        "1 trockener Rotwein"
+      ],
+      "instructions": "150g Parmesan reiben und im Kühlschrank beiseite stellen - Parmesanrinde aufbewahren!. Pancetta/Bauchspeck in sehr kleine Würfel schneiden. Zwiebeln, Karotte und 1 Selleriestange in sehr feine Würfel schneiden. In einem Topf 1 EL Olivenöl erhitzen und Pancetta für 1-2 Minuten andünsten. Dann 40g Butter und das gewürfelte Gemüse dazugeben und auf mittlerer Hitze 3 Minuten dünsten und regelmäßig umrühren. Dann das Hack dazugeben. 1 TL Salz und schwarzen Pfeffer dazugeben. Das Hack anbraten aber nicht zu viele Röstaromen bekommen lassen. Dann 1 EL Tomatenmark unterrühren und anschließend mit einem guten Schluck Rotwein ablöschen. Warten bis der Rotwein verkocht ist und dann 200 ML Vollmilch dazugeben und auch diese verkochen lassen. Dann 1 Messerspitze Muskatnuss, 400g passierte Tomaten, 1 TL Salz, 1 TL Olivenöl, Parmesanrinde und 1 Lorbeerblatt dazugeben. Alles ca. 1 Stunde bei halb geöffnetem Deckel köcheln lassen. Evtl. etwas Wasser und Milch dazugeben wenn die Bologonse zu fest wird. Zum Schluss die Parmesanrinde und die Lorbeerblätter wieder entfernen. In einem Topf 25g Butter schmelzen lassen, 25g Mehl hinzugeben und 2 Minuten anschwitzen. Dann 500ml Milch unter ständigem Rühren hinzugeben und Herd höher stellen, kurz aufkochen lassen und unter köcheln lassen, bis die Soße eindickt - dabei ab und zu umrühren. Mit Salz, Pfeffer und Muskatnuss kräftig abschmecken. Den Ofen auf 200 Grad Ober/Unterhitze vorheizen. Nun die Auflaufform mit etwas Butter einfetten, un dünn mit Béchamelsauce bestreichen. Dann den Boden mit Lasagneplatten belegen, anschließend dünn Bolognese darauf verteilen, sowie 3 EL Béchamelsauce und dünn mit Parmesan bestreuen. So schichten und die letzte Schicht sollte extra viel Béchamelsauce und Parmesankäse haben. 1 EL Butter-Flöcken oben verteilen und für 30 Minuten backen. Dann die Lasange rausnehmen und ca. 10 Minuten ruhen lassen, bevor sie auf den Tisch kommt. Mit frischem Basilikum garnieren. ",
+      "notes": [
+        "Schmeckt am nächsten Tag am besten!",
+        "Beim Wieder-Aufwärmen im Ofen etwas Wasser in den Ofen geben, damit die Lasagne nicht trocken wird."
+      ]
     }
   ]
 }
